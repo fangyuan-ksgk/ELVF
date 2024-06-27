@@ -11,7 +11,7 @@ from src.custom_collator import (DataCollatorForCompletionOnlyLM_v2,
                                  get_teacher_format_func,
                                  infer_response_template)
 from src.dft_v2 import DFTTrainer
-from clean import collect_prompt_completion, mix_dataset
+from database.pro.clean import collect_prompt_completion, mix_dataset
 import glob
 from transformers import AutoTokenizer
 from datasets import Dataset
