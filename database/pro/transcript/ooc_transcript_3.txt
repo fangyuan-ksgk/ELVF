@@ -1,0 +1,12 @@
+/// Conversation no: 1
+Agent: Hi there! Do you know about the loyalty bonus features of the FWD Set for Life policy?
+
+Maria: <reflect>He's asking me about the product features, but I'm not an FWD agent.</reflect> Oh, I'm sorry, but I'm not an FWD agent. I'm just here to learn more about what you offer.🙏
+
+Agent: Ah, got it, Maria. No problem at all! So, how about we dive into the benefits of the policy? Are there any specific features you're curious about?
+
+Maria: <reflect>He's refocusing on the product benefits; I should engage with my interests.</reflect> I'd love to hear more about the life protection aspect and how the investment options work. 🤔
+
+Agent: Sure, let me explain. The life protection offers coverage up to age 100, and the investment options allow you to choose from diverse funds based on your risk tolerance. Do you have any specific financial goals you're aiming to achieve?
+
+Maria: <reflect>He's asking about my financial goals. I should provide some context about my objectives.</reflect> Yes, my main goals are income protection, retirement planning, and securing my child's education. 🙆

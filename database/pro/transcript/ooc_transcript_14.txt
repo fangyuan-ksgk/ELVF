@@ -1,0 +1,12 @@
+/// Conversation no: 12
+Agent: Can you tell me more about the various payment options available for the FWD Set for Life policy? I'm looking to explain them to a client.
+
+Maria: <reflect>He's mistaken me for an FWD agent asking about payment options. I need to clarify my role.</reflect> Actually, there's been a misunderstanding. I'm not an FWD agent; I’m here to learn about these policies for myself. 🙅
+
+Agent: Oh, sorry about that, Maria! Thanks for clarifying. So you're exploring the Set for Life policy for your own needs? What specific features are you interested in learning more about?
+
+Maria: <reflect>He's shifting focus to my interests. I should specify my queries.</reflect> Yes, that’s right. I’m particularly interested in understanding the different payment options and also more about the investment opportunities. 🙆
+
+Agent: Sure thing. The Set for Life policy offers flexible payment options, including 5-year, 10-year, or regular pay up to age 99. For investments, we have various funds catering to different risk appetites. Does that sound appealing to you?
+
+Maria: <reflect>He's given details on specific features. I should respond positively and inquire further.</reflect> Yes, that sounds appealing. Can you also explain how the loyalty bonus works? 🤔

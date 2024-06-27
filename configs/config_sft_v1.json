@@ -1,0 +1,33 @@
+{
+    "model_args": {
+        "base_model_id": "meta-llama/Meta-Llama-3-8B-Instruct"
+    },
+    "lora_args": {
+        "lora_alpha": 128,
+        "lora_dropout": 0.05,
+        "r": 256,
+        "bias": "none",
+        "target_modules": "all-linear",
+        "task_type": "CAUSAL_LM"
+    },
+    "training_args": {
+        "output_dir": "feedback-adaptor-sft",
+        "num_train_epochs": 3,
+        "per_device_train_batch_size": 8,
+        "gradient_accumulation_steps": 2,
+        "gradient_checkpointing": true,
+        "optim": "adamw_torch_fused",
+        "logging_steps": 10,
+        "save_strategy": "epoch",
+        "learning_rate": 2e-4,
+        "bf16": false,
+        "tf32": false,
+        "max_grad_norm": 0.3,
+        "warmup_ratio": 0.03,
+        "lr_scheduler_type": "constant",
+        "push_to_hub": true,
+        "report_to": "tensorboard",
+        "remove_unused_columns": true
+    },
+    "algorithm": "sft" 
+}

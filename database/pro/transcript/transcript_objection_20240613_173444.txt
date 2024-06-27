@@ -1,0 +1,45 @@
+ Agent: I'm glad we got through all the product details, Maria. What are your thoughts so far with what FWD has to offer?
+
+Maria: <reflect>I need to address my concerns about the company. Let's start by questioning the brand itself.</reflect>Well, first off, ano ba talaga ang FWD? Honestly, I've never heard much about it before. 🤔
+
+Agent: That's a good question, Maria. FWD is a relatively new player in the Philippine market, but we are part of a larger insurance group with a solid footprint in Asia. We're focused on providing innovative insurance solutions that are accessible and easy to understand. Does that help clarify? 
+
+Maria: <reflect>He's trying to assure me, but I need more.</reflect>I see. But being new can mean it's not trusted yet, di ba? What if there are sudden premium increases? I've heard several horror stories about that with other companies. 😡
+
+Agent: I understand your concern, Maria. At FWD, transparency is key. We provide clear guidelines on how premiums are adjusted and ensure that any changes are communicated well in advance. Plus, we have various flexible plans that can be tailored to meet your needs, just in case you need to make adjustments down the line.
+
+Maria: <reflect>He's addressing my concerns, but I still have another issue about trust.</reflect>I appreciate the explanation. But still, I'd rather buy insurance from someone I know personally, or at least have heard from friends. 
+
+Agent: That's a natural inclination, Maria. It's important to trust the person you're dealing with. I'd love to introduce you to some of my clients who have had positive experiences with FWD. Also, being new means we're very keen on building strong relationships with each client. After all, word-of-mouth is powerful and we aim to make every client a happy advocate!
+
+Maria: <reflect>He's offering testimonials. I should consider this. I still need to address my budget concerns next.</reflect>Hmm, alright, I guess that helps a bit. But, honestly, budget is a big concern for me too. What if I can't afford the premiums in the future?
+
+Agent: That's a fair point, Maria. One of the strengths of FWD is the flexibility we offer in terms of premiums and coverage. We can customize a plan that fits within your budget now and make future adjustments as necessary. If you'd like, we could take a look at your current financials and design a specific plan for you.
+
+Maria: <reflect>He's providing solutions, but I need to know if I really need this policy considering my partner already has insurance.</reflect>Okay, customization sounds good. But you know what, my partner already has life insurance. Do I really need my own policy too?
+
+Agent: That's a common situation, Maria. While your partner's insurance is great, having your own policy provides an extra layer of security. It means that, in any unfortunate event, your family won't face financial difficulties. Also, there might be different benefits and features in each policy that can complement each other.
+
+Maria: <reflect>He has good points and is being very convincing, but I'm still skeptical.</reflect>I get your point. But really, how do I know this isn't just another sales pitch? 
+
+Agent: Maria, I completely understand your skepticism. At FWD, we genuinely focus on what is best for our clients. You are encouraged to do your research, check out reviews, and even consult with existing clients. We're here to provide you with all the information you need to make a well-informed decision.
+
+Maria: <reflect>He’s being thorough and is open to me doing my own research.</reflect>That’s reassuring. I do plan on doing more research for sure. Thanks for being so open about it.
+
+Agent: Absolutely, Maria. I always encourage everyone to be fully informed and comfortable with their choices. Feel free to reach out if you have more questions after your research. Any other concerns you'd like to address now?
+
+Maria: <reflect>He's addressed a lot of my concerns, I should acknowledge that.</reflect>You've actually been very thorough, which is great. Just curious, what do you think is the most unique feature of FWD policies compared to others? 🤔
+
+Agent: That’s a good question! One unique feature is our “Set for Life” plan which provides a combination of investment and insurance benefits. It’s designed to not only protect you but also help you grow your wealth over time. It’s like hitting two birds with one stone!
+
+Maria: <reflect>That sounds impressive; he really knows the features. I should know more about this.</reflect>Wow, that sounds interesting! How does it work exactly? 💬
+
+Agent: Well, it's actually quite flexible. You decide the amount you want to invest and the type of coverage you prefer. The premiums you pay go into a fund that is invested in various financial instruments, so while you're covered, your money is also growing.
+
+Maria: <reflect>This product seems good, but I should think this through carefully.</reflect>Okay, that sounds like something I should consider. I'll need some time to think it over though.
+
+Agent: Of course, Maria. Take your time and don't hesitate to reach out if you have more questions. It’s important to be 100% comfortable before making any decisions. 
+
+Maria: <reflect>He's being very patient and understanding, which is a good sign.</reflect>Thank you, Alex. I appreciate your patience and thoroughness.
+
+Agent: It’s my pleasure, Maria. I'm here to help. So, any weekend plans after our chat?

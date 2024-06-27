@@ -1,0 +1,43 @@
+ Agent: Hello Maria, kamusta? Finally nice to meet you. You said earlier you have some reservations about getting an insurance policy. Can you tell me more about that?
+
+Maria: <reflect>I'll start by mentioning my top concerns.</reflect>Yes, actually. I'm thinking mas okay siguro to save the money in the bank na lang to earn interest. 👋
+
+Agent: I see, Maria. Well, saving is always good. However, life insurance provides a safety net that regular savings can't. It's protection that gives peace of mind should anything unexpected happen. Wouldn't that be an added comfort for you and your family?
+
+Maria: <reflect>I need to bring up the fact na my partner has life insurance na.</reflect>That's a good point, but my partner already has life insurance naman. Doesn't that cover us enough? 🤔
+
+Agent: That's great that your partner has insurance. It's always good to be prepared. Pero having your own policy ensures you're personally covered, and it can cater to your own specific needs and situations. It's like an additional layer of security.
+
+Maria: <reflect>Tag yourself for another concern. I've been thinking na I'd rather invest the money instead.</reflect>Understandable, pero I'm also considering to invest the money elsewhere. Di ba, parang mas mabuti to have returns aside from just saving? 🙆
+
+Agent: Investing is indeed important. But the risk is always there, 'di ba? Unlike investments, life insurance guarantees a payout, no matter what happens. It's a mix of security and peace of mind, parang buffer siya if things don't go as planned.
+
+Maria: <reflect>Another point is that I feel I'm already saving enough for emergencies.</reflect>I think kasi, I'm already saving enough din for emergencies. Plus, I also have my own emergency fund in place. 💬
+
+Agent: That's really good to hear, Maria. An emergency fund is essential. However, it's important to consider that emergencies like medical expenses or loss of income aren't always predictable. Life insurance complements an emergency fund by providing more comprehensive protection.
+
+Maria: <reflect>But I’m still healthy naman and feel like I don’t need it. I should mention that.</reflect>To be honest, medyo healthy pa naman ako. Kaya I'm thinking, maybe it's not really necessary for me just yet. 🙆
+
+Agent: That’s awesome that you’re in good health, Maria! Pero, think of life insurance like giving yourself that health safety net. Good health can still come with unexpected risks and insurances like these are like preventative measures. It’s better to be secure na while you’re still in good shape.
+
+Maria: <reflect>He has a point, but I still feel like it's an unnecessary expense for now.</reflect>I get what you're saying, pero parang it's still an unnecessary expense for me. 😕
+
+Agent: I understand, Maria. Being mindful of expenses is important. What's great about some of our policies is that they can actually be quite affordable. It doesn't have to be a large sum. You can start small and still enjoy the benefits.
+
+Maria: <reflect>I feel like I have to be careful now to avoid overpaying for coverage I don’t really need.</reflect>Right, but I also don't want to overpay for coverage na I don't really need. 🙅
+
+Agent: Of course, no one wants that. Our policies are very customizable, Maria. It’s all about finding the right balance fit for you. We can start small and adjust as you feel more comfortable with it.
+
+Maria: <reflect>He seems very accommodating, but my partner helps me with my financial decisions.</reflect>I appreciate the explanation. But actually, I have a financial advisor na rin who helps me with decisions like this. 🙆
+
+Agent: That’s good to know, Maria. Having a financial advisor to guide you is definitely beneficial. Maybe you could discuss how insurance fits into your overall financial plan with them too. A lot of our clients do find it complementary to their strategies.
+
+Maria: <reflect>I’ll give that some thought, but I have an HMO too, baka it’s enough?</reflect>Makes sense. I also have an HMO, though. Isn't that enough na?💬
+
+Agent: Having an HMO is great for covering medical costs, Maria. But it usually covers only health-related expenses. Life insurance, on the other hand, provides broader financial support in case of unexpected life events. It’s like having a more comprehensive backup.
+
+Maria: <reflect>This insurance talk is quite extensive. Time to lighten the conversation a bit.</reflect>Napakadami palang considerations! By the way, have you tried the pastries here? Masarap nga daw sabi ng friend ko. 🙆
+
+Agent: Yes, I have! Their cheesecake is a favorite of mine. It’s a good balance between creamy and tangy. You should definitely try it.
+
+Maria: <reflect>Time to order something and ease into more casual talk.</reflect>Sounds yummy! I'll definitely order one. 🎂

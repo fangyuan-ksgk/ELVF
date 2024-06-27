@@ -1,0 +1,49 @@
+ Agent: Good day, Maria! Finally nice to meet you. Kamusta?
+
+Maria: <reflect>He's really trying to build rapport here, I'll respond politely.</reflect>Super busy but I'm good, thanks! So, for the insurance policy, I already have my emergency fund naman kasi. Why would I need insurance pa? 🤔
+
+Agent: That's a good question, Maria. An emergency fund is great for immediate expenses, but it might not be enough for things like long-term medical care or providing for your loved ones if something were to happen to you. Insurance can cover those gaps and more.
+
+Maria: <reflect>This sounds logical, but I need more convincing.</reflect>Hmm, okay, I get that. But I'm pretty healthy naman. I exercise regularly and eat healthy. So, parang, sairaal ang unnecessary expense to get insurance. 🙆
+
+Agent: That's really commendable, Maria! Maintaining your health is crucial. However, insurance isn't just about health; it also covers unexpected events like accidents. Even healthy individuals can benefit from the financial security that insurance provides.
+
+Maria: <reflect>He has a point about accidents, but I want to see if he can address all my concerns.</reflect>Okay, but I already have a financial advisor who helps me with investments. Isn't that enough? 🙅
+
+Agent: That's wonderful, Maria. Your financial advisor focuses on growing your investments, but insurance is about protecting what you already have and providing for your loved ones in case of unexpected events. They work hand-in-hand to secure your financial future.
+
+Maria: <reflect>He explained it well, but I still feel cautious.</reflect>Hmm, I see what you're saying. But won't it be an unnecessary expense din? I mean, what if I never need it? 🤔
+
+Agent: I understand your concern. Think of insurance as a safety net. It's better to have it and not need it than to need it and not have it. It's peace of mind that allows you to live your life worry-free, knowing you're covered no matter what.
+
+Maria: <reflect>He presents a strong case. Still, I'm a bit hesitant.</reflect>I guess it makes sense. But tell me, how flexible are these plans? Can I adjust them based on my needs and budget? 🙆
+
+Agent: Yes, absolutely! Our plans are customizable to fit your specific needs and budget. You can start with a basic plan and add more coverage as you see fit. We also offer flexible payment options to make it easier for you.
+
+Maria: <reflect>This is a good feature, but I have more questions.</reflect>That's good to hear. What about the claims process? Is it hassle-free? 💬
+
+Agent: Our claims process is designed to be as straightforward and efficient as possible. We have a dedicated customer support team to assist you every step of the way, ensuring that claims are processed quickly and smoothly.
+
+Maria: <reflect>He's doing well so far. But I need reassurance.</reflect>That sounds promising. But how about the premiums? Do they increase drastically over time? 🤔
+
+Agent: It's understandable to be concerned about premiums. Our premiums are designed to be stable over time. We also offer options to lock in your premium rate, so you won't have to worry about drastic increases.
+
+Maria: <reflect>He seems convincing, I should ask something more specific to my situation.</reflect>Alright, good to know. But how soon would the coverage start once I sign up? 🙆
+
+Agent: Coverage typically starts immediately after your application is approved. You'll have peace of mind knowing you're protected right away. 
+
+Maria: <reflect>Immediate coverage is a plus. But let's see if there's more I should know.</reflect>Immediate coverage is reassuring. What if I need to make changes to my plan later on? 🤔
+
+Agent: You can make adjustments to your plan at any time. Whether you need more coverage or want to add beneficiaries, we offer flexible options to ensure your plan suits your evolving needs.
+
+Maria: <reflect>He’s thorough. This is more promising than I thought.</reflect>It's great that there are flexible options. So what about the payment methods? Are there multiple ways to make payments? 🙆
+
+Agent: Yes, we offer various payment methods including online transactions, bank transfers, and over-the-counter payments, making it convenient for you to manage your policy.
+
+Maria: <reflect>Flexibility and convenience are key. I'm nearly convinced.</reflect>Thanks for the detailed information. One more thing, do you offer any special discounts or bonuses? 💬
+
+Agent: We do have special promotions and bonuses depending on the plan and payment method you choose. I can certainly go over those details with you to help you get the best value for your money.
+
+Maria: <reflect>He's persuasive, but I want to double-check everything first.</reflect>Okay, that sounds good. I think I need to review everything carefully before making a decision. 🙆
+
+Agent: Of course, Maria. It's important to make an informed decision. If you have any more questions, feel free to reach out to me anytime.

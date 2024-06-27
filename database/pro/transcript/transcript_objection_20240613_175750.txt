@@ -1,0 +1,54 @@
+ Agent: So Maria, now that you heard all about our insurance plans, what do you think? Do you have any concerns or questions?
+
+Maria: <reflect>Hmm, I need to bring up budget issues first.</reflect>Well, to be honest, I think the premiums are too expensive for my budget. Parang I’m still paying off my loan pa, and there's really no extra for insurance.
+
+Agent: I understand, Maria. Financial priorities can be really tight. But think of insurance like a safety net, especially in emergencies. How much loan are you still paying off?
+
+Maria: <reflect>He’s addressing the loan issue but still pushing for insurance.</reflect>It’s a sizeable amount, kaya I don't really have extra money to spend on additional expenses, like insurance premiums.
+
+Agent: True, loans can be heavy. But consider this, what if something unexpected happens? Having insurance can actually save more money in the long run, avoiding bigger financial problems.
+
+Maria: <reflect>He's really emphasizing the long-term benefits. I should mention my overall budget concerns.</reflect>Well sure, but my salary is just not enough to spend on insurance right now. I really have to manage my expenses carefully.
+
+Agent: I get it, budgets are tough. We do have flexible payment options though. Would it help if the premiums were spread out more?
+
+Maria: <reflect>He’s trying to make it work with payment options. Still, the budget issue remains.</reflect>Honestly, I don't see how it would fit into my budget. Even if it's spread out, it’s still an extra cost on my limited income.
+
+Agent: I appreciate your honesty, Maria. What if we work on a plan with lower premiums? Something affordable yet still provides good coverage?
+
+Maria: <reflect>He’s really interested in finding a solution. Maybe exploring lower premiums could be an option.</reflect>Well, it's worth looking into. But I’ve always thought it's better to save money in the bank to earn interest instead of paying for insurance.
+
+Agent: That's a fair point. Saving in the bank is a good strategy, but bank savings won't necessarily cover large unexpected medical or emergency expenses. Insurance acts as that supplementary support you might need.
+
+Maria: <reflect>Interesting viewpoint, but I need to address one last money concern.</reflect>I see where you’re coming from, but I also heard that premiums can be super expensive over time. I’m just worried it will be too much for me to handle continuously.
+
+Agent: That's a valid concern. Our plans, however, are designed to stay affordable and not become a financial burden. Plus, some plans even have savings components and can give returns.
+
+Maria: <reflect>He keeps addressing my money concerns. He seems confident in the product.</reflect>That's interesting. But what if my income changes? Is there flexibility in adjusting the coverage or premiums?
+
+Agent: Absolutely, Maria. Our plans can be adjusted according to your income changes, ensuring you're never overburdened. Flexibility is one of our key features.
+
+Maria: <reflect>Flexibility is a good plus. Maybe I should ask about how it directly helps me.</reflect>Okay, but can you tell me more about how these flexible plans directly benefit someone like me?
+
+Agent: Sure, if your financial situation improves, you can upgrade your coverage. If things get tighter, you can review and adjust your premiums to lower amounts. It's all about fitting into your financial comfort zone.
+
+Maria: <reflect>He's emphasizing customization and flexibility. That might make it more doable.</reflect>That's good to know. At least it sounds like the plan can move with my financial situation. 
+
+Agent: Exactly, Maria. You're never stuck with one fixed cost. It's designed to adapt to your needs. Do you have any other financial commitments that make it hard to think about insurance right now?
+
+Maria: <reflect>He wants to know more about my financial priorities.</reflect>Well besides the loan, there's also daily expenses, groceries, utilities—everything just adds up. It’s really a balancing act.
+
+Agent: I get it, daily expenses can really stack up. Have you thought about which specific type of insurance might be most beneficial for you, considering your other commitments?
+
+Maria: <reflect>He's trying to narrow it down based on my needs. Let’s see if there's something fitting.</reflect>I haven't really thought about it that much. What’s usually recommended for someone with a budget like mine?
+
+Agent: For starters, we recommend term insurance with minimal premiums but substantial coverage. It's cost-effective and gives you peace of mind without hitting your budget hard.
+
+Maria: <reflect>He's suggesting a less expensive option. Could be practical.</reflect>That sounds like something I could manage. I just have to be certain it won't mess up my financial plans in the future.
+
+Agent: Totally get that, Maria. This kind of insurance aims to protect, not strain, your budget. Plus, we can revisit and adjust the plan as needed.
+
+Maria: <reflect>It seems like he’s really flexible with the plan. Maybe I should consider it more seriously.</reflect>Alright, I’m willing to consider it. Just need more time to evaluate everything. 
+
+Agent: Absolutely, Maria. Take all the time you need to think it over. It's a big decision and it's important you feel comfortable and confident about it.
+

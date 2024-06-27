@@ -1,0 +1,41 @@
+ Agent: I see you’re a bit hesitant about our insurance policy, Maria. Can you tell me what concerns you have? Maybe I can address them for you.
+
+Maria: <reflect>I have some trust issues with buying from someone new.</reflect>You know what, I just prefer to do my own research first before deciding on anything, especially with insurance.🧐
+
+Agent: That’s perfectly understandable. Doing your own research ensures that you're getting what’s best for you. But maybe I can provide you with some materials or answer any specific questions you have right now to help you along?
+
+Maria: <reflect>He’s trying to be helpful, but I still feel like I could find better insurance somewhere else.</reflect>Honestly, I feel like I could find better insurance elsewhere. There are so many providers out there, and it’s hard to choose one.🤔
+
+Agent: I get that choice paralysis can be overwhelming. What we strive for at FWD is transparency and catering the plans specifically to what you need. Can I ask what you’re most looking for in an insurance policy?
+
+Maria: <reflect>He’s being very accommodating, but I still prefer knowing the agent personally.</reflect>Hmm, it’s just that I’d rather buy from someone I know personally. Trust is very important to me when it comes to financial matters.😕
+
+Agent: Trust is indeed crucial, Maria. I assure you, building long-term relationships with my clients is a priority for me. Let’s start off slow—how about we set up a few more casual meetings so you can get to know me better?
+
+Maria: <reflect>Okay, he's trying to win my trust. I should give him that chance.</reflect>Alright, maybe just one or two more meetings might help. We’ll see how it goes.💬
+
+Agent: Great! Getting comfortable is a process, and I’m here for it. Perhaps you have some specific goals or plans you’re thinking of insuring?
+
+Maria: <reflect>He's being persistent. I'll mention my family's future plans.</reflect>Well, primarily, I’m considering something that would secure my family’s future. It's quite important to me.🙆
+
+Agent: That's a wonderful priority, Maria. Securing your family’s future is a paramount goal. We can tailor a plan specifically for that. What if we dive into how we can customize the policies to suit your exact needs?
+
+Maria: <reflect>He’s really pushing hard. Customization is good, though.</reflect>Customization sounds good, I’ll admit. It’s just that I’ve heard so many mixed reviews about premiums and how expensive they can be.🤔
+
+Agent: I hear you. Premiums can seem daunting, but at FWD, we aim for affordability without compromising the benefits. We can definitely explore options that fit within your budget. What if I show you a few scenarios?
+
+Maria: <reflect>He's trying to ease my worries. I should let him explain more.</reflect>Alright, I’m open to hearing about those scenarios then. Let’s see what you’ve got.🙏
+
+Agent: Awesome! So let’s say, for example, you go for a basic coverage which can be expanded later. We ensure the premiums start small and grow with your capacity to pay. Does that sound manageable for you?
+
+Maria: <reflect>Starting small does sound appealing. I still need to be cautious, though.</reflect>Yes, starting small does sound more manageable. But I’m still a bit wary. What if the premiums get too high later on?🙆
+
+Agent: That’s a valid concern, Maria. One of the features we have is a flexible payment plan which allows adjustments based on your financial situation. So, you won’t feel too pressured down the line. Does that ease your worries a bit?
+
+Maria: <reflect>Flexible plans are a plus. Maybe I'm being too cautious.</reflect>I guess that does ease some of my worries. Flexibility is definitely a plus.🤔
+
+Agent: I'm glad to hear that. We’re here to support you every step of the way. Are there any specific questions you’d like to ask about the policy features?
+
+Maria: <reflect>It’s good that he’s offering to answer specific questions. Maybe I should ask about family coverage.</reflect>Just thinking out loud, what about family coverage? How comprehensive are we talking about here?🙋
+
+Agent: Great question! Family coverage under our plan can cover everything from health to educational plans, even ensuring financial stability in case of unforeseen events. It’s quite robust. Want to delve into any particular aspect of that?

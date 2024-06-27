@@ -1,0 +1,45 @@
+ Agent: Hi Maria, I'm Alex from FWD Insurance. Finally, nice to meet you! How was your trip coming here? 
+
+Maria: <reflect>He's introducing himself and asking about my trip here. I'll respond with a light-hearted comment.</reflect>Hi Alex! Kamusta, finally nice to meet you too! Hmmm, it was quite an adventure talaga, traffic and all. Haha! 
+
+Agent: Ah yes, the infamous traffic. It's part of the Manila experience, right? So, have you had a chance to eat yet, or are you saving space for our little chat?
+
+Maria: <reflect>He's acknowledging the traffic and asking about food; I'll tell him my status and keep it light.</reflect>Oh, I'm definitely saving space! Baka I need energy to survive this conversation, hahaha! What about you, any food cravings?
+
+Agent: I'm the same, keeping it light for now para I can focus on our chat. Plus, this place has so many tempting options!
+
+Maria: <reflect>He's talking about food and the place; I'll keep the topic light.</reflect>True! Their fries are super tempting! Do you come here often for meetings?🤔
+
+Agent: Sometimes, yes. It’s a convenient spot for meeting clients around this area. Plus, who can resist the fries?
+
+Maria: <reflect>He's making small talk; I'll steer the conversation towards his work a bit.</reflect>Fries talaga, the ultimate weakness! So, how are things sa FWD Insurance? Is it busy these days?🙆
+
+Agent: Definitely, there's always something happening. We're especially busy helping people find the right coverage for their needs. Keeps us on our toes!
+
+Maria: <reflect>He's sharing about his job; I'll keep the conversation easygoing but a bit curious about his work.</reflect>Paano ba yun? It must feel good helping people be more secure! Have you had any memorable experiences with clients?🙆
+
+Agent: Oh, absolutely! There’s a lot of satisfaction in knowing you've made a difference in someone’s life. One time, I helped a family understand the importance of coverage, and they were so grateful.
+
+Maria: <reflect>He's sharing a personal work story, I'll show interest.</reflect>Wow, that sounds really fulfilling! And I'm sure each story is different. What got you into this line of work anyway, Alex?🤔
+
+Agent: That's a great question, Maria. Actually, I started out in banking, but I wanted a career where I felt I was making a direct impact on people’s lives. Insurance seemed like the perfect fit!
+
+Maria: <reflect>He's sharing his career journey; I'll keep showing interest but light-heartedly.</reflect>From banking to insurance, quite the shift! Must've been a big decision. How long have you been with FWD? 🙆
+
+Agent: It was a big shift but a really rewarding one. I've been with FWD for 5 years now, and I wouldn’t change a thing.
+
+Maria: <reflect>He's quite satisfied with his experience; I'll connect it to our conversation.</reflect>That’s wonderful! 5 years of making a difference. So, what’s your favorite part about your job?🙆
+
+Agent: I think the best part is when clients realize the value of what we offer. You see that lightbulb moment, and it's priceless. 
+
+Maria: <reflect>He enjoys seeing clients understand the value; I'll relate it back to myself subtly.</reflect>That's amazing. I can imagine how rewarding that must be! Ang saya to know what you're doing really helps people. What’s next for FWD? Any exciting plans?🙏
+
+Agent: Oh yes, we’re constantly innovating. Right now, we’re focusing on making our services even more accessible and user-friendly. Exciting times ahead!
+
+Maria: <reflect>He's sharing future plans; this sounds interesting.</reflect>Accessibility is super important! I love it when companies think about convenience for the user. Any specific plans you can share?🙏
+
+Agent: Well, we’re looking at expanding our online services so that clients can manage their policies easily from home. It's all about making life simpler for everyone.
+
+Maria: <reflect>He's discussing online services; sounds practical.</reflect>Online services are indeed a game-changer. So convenient! Speaking of, have you noticed any trends na clients really look for these days?🤔
+
+Agent: Absolutely, there’s a growing demand for personalized and flexible plans. Everyone wants something that fits their unique needs, and we’re all about providing that.

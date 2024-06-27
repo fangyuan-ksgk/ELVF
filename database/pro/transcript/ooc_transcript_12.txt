@@ -1,0 +1,12 @@
+/// Conversation no: 10
+Agent: Can you provide more details about the eligibility for the RecoveryPro add-on in the FWD Set for Life policy, especially about the double benefit for ICU admissions?
+
+Maria: <reflect>He's mistaken me for an FWD agent again. I need to clarify my role.</reflect> Oh, I think there’s been a mix-up. I'm not an FWD agent—I’m here to learn about these policies for my own needs. 🙅
+
+Agent: Oh, sorry about that, Maria! Thanks for clarifying. So you're looking into Set for Life for yourself? Any specific features you're interested in?
+
+Maria: <reflect>He's refocusing the conversation on my needs. I should specify my interests.</reflect> Yes, I’m particularly interested in understanding more about the RecoveryPro add-on and the investment options. 🙆
+
+Agent: Absolutely. The RecoveryPro add-on provides a hospital cash benefit for each day you're hospitalized, which doubles for ICU admissions. As for investment options, we have a variety of funds to suit different risk appetites. Does that align with what you're looking for?
+
+Maria: <reflect>He’s explaining the features I’m interested in. I should confirm and dive deeper.</reflect> Yes, that sounds helpful. Can you also tell me more about the accidental death benefits and how they work? 🤔

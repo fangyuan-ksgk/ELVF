@@ -1,0 +1,43 @@
+ Agent: So Maria, kamusta, finally nice to meet you. Now that we've discussed the details of our insurance policy, what do you think so far?
+
+Maria: <reflect>Time to address my concerns with trust; I'll start by comparing products.</reflect>I want to compare products from other companies first talaga eh. I heard meron silang offers na better. 🤔
+
+Agent: That’s totally understandable, Maria. Comparing products is important. While I can't speak for other companies, what I can highlight is our unique benefits, like our flexible payment terms and no-questions-asked easy claim process. Have you seen similar features elsewhere?
+
+Maria: <reflect>He's offering flexibility which sounds good, but still, I prefer to do my own research.</reflect>Honestly, I prefer to do my research din kasi. I mean, is this about insurance talaga or more of a sales pitch?
+
+Agent: Definitely about insurance, Maria! I get that you want to research and it’s smart to do so. But let’s think about your future plans, our goal is to find the best option that suits your needs. Researching is part of that. And don’t worry, I’m here to address any questions while you do your research. Anything not clear?
+
+Maria: <reflect>He’s being quite comprehensive, but I still have my doubts about FWD.</reflect>Okay, but what is FWD talaga? I haven't heard of it before. 🤔
+
+Agent: Good question, Maria! FWD is actually part of the Pacific Century Group, founded in 2013. We operate across multiple Asian regions with a solid financial background. It's a relatively young company but has been making waves due to its modern approach to insurance. Does it address some of your concerns?
+
+Maria: <reflect>His explanation makes sense, but I need to know about the company’s stability.</reflect>Hmm, FWD is a new company right? It sounds promising but how stable is it financially?
+
+Agent: Exactly, we are new but backed by years of experience and strong financial holdings. The backing from the Pacific Century Group ensures our stability. Plus, our growth across Asia is a testament to our robustness. Would you like more information on our financial reports or awards?
+
+Maria: <reflect>He’s reassuring about the company but I’ve also heard issues with premiums.</reflect>Well, I heard about premium increases without clear reasons sometimes. That kinda worries me...
+
+Agent: I understand your concern. Transparency is crucial for us. Any premium adjustments we make are thoroughly communicated with our clients, and many times they result from comprehensive reviews of policy performance and market factors. How does that sound for clarity?
+
+Maria: <reflect>He's addressing the premium issue directly, but I also want to make sure I can adjust my policy if needed.</reflect>And what if my needs change? Can I adjust my policy later on?
+
+Agent: Absolutely, Maria. We offer flexibility in adjusting policy terms if your situation changes. Whether it's increasing coverage or reworking payment terms, we aim to ensure your policy evolves with you. Is that something you look for in an insurance plan?
+
+Maria: <reflect>He's pretty convincing about adjustments, but I'm still skeptical.</reflect>That sounds helpful, I have to admit. But, honestly, I still feel checking out other companies is a good next step for me.
+
+Agent: Totally fair, Maria. It's important that you feel confident with your choice. I’m here to provide any further information and help you compare. How do you normally go about your research?
+
+Maria: <reflect>He's understanding, maybe I should ask how to access their information easily.</reflect>Usually, I read reviews or check the company’s website. Where else can I get detailed info about FWD? 🙏
+
+Agent: We have an extensive FAQ section on our website, and our customer service is also very quick to respond. Plus, there are independent review sites that discuss FWD in comparison to other companies. Would you find that helpful?
+
+Maria: <reflect>He's making it easy to find information, so I'll check that out.</reflect>Yeah, that sounds good. I'll definitely look into that. Are there specific sites you recommend?
+
+Agent: Sure! You can check out reviews on independent sites like TrustPilot, and insurance comparison tools like GoBear. They offer unbiased reviews and star ratings. Can I assist you with any other immediate queries?
+
+Maria: <reflect>He's being quite helpful, I'll ask one more thing about customer service.</reflect>That's great, thanks. How responsive is your customer service usually? In case I have a lot of questions later on.
+
+Agent: Our customer service team aims to respond within 24 hours, and we also have an online chat option for instant support. Many clients appreciate our quick response times. Does that work for you?
+
+Maria: <reflect>He's really covering all bases, I'll acknowledge his thoroughness for now.</reflect>Got it, that sounds manageable. You've been really thorough, I appreciate it. 🙆

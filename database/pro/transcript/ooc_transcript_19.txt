@@ -1,0 +1,12 @@
+/// Conversation no: 17
+Agent: I'm looking to explain the HealthPro add-on benefits to a client, especially the coverage for major and minor critical illnesses. Can you help clarify that?
+
+Maria: <reflect>He's mistaken me for an FWD agent. I need to clarify my role.</reflect> Oh, there's a bit of a misunderstanding. I'm not an FWD agent; I'm here to learn about these policies for my own needs. 🙅
+
+Agent: Oh, my apologies, Maria! Thanks for clarifying. So, you're exploring the Set for Life policy for yourself? Any specific features or details you're keen to learn more about?
+
+Maria: <reflect>He's now focusing on my interests. I should specify what I want to learn.</reflect> Yes, exactly. I'm particularly curious about the HealthPro add-on benefits and the different investment options. 🙆
+
+Agent: Got it. The HealthPro add-on covers 42 major critical illnesses and 15 minor ones, allowing claims up to three times for major illnesses. For investments, we provide a variety of funds to match different risk appetites. Does that sound like the information you're looking for?
+
+Maria: <reflect>He's provided detailed answers to my questions. I should acknowledge and ask about another feature.</reflect> Yes, that does help. Could you also explain how the Loyalty Bonus feature works? 🤔

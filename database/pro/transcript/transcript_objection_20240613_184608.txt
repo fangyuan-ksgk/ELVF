@@ -1,0 +1,51 @@
+ Agent: It's so great you could come today, Maria, I really appreciate the time. Based on what we've discussed, I think our policy can be a great fit for you. So, what do you think?
+
+Maria: <reflect>I should express my concerns, I've got some questions.</reflect>Hmm, Alex, I'm quite healthy naman, eh. Parang I don't really need any insurance right now? 🤔
+
+Agent: I understand what you mean, Maria. Being healthy is fantastic, but life insurance isn't just about covering medical expenses. It can also help your loved ones when they need it the most, di ba?
+
+Maria: <reflect>He's making a point, but I have another concern.</reflect>True, but honestly, I already have a financial advisor. Baka redundant na if I get insurance? 🙅
+
+Agent: That's a great point, Maria! Having a financial advisor is beneficial, but life insurance can complement their plans by providing you and your loved ones with added security and peace of mind.
+
+Maria: <reflect>He’s really pushing this, I need to think of my other concern.</reflect>Uy, Alex. I'm a smoker kasi. I don't think I'm allowed to get life insurance? 😅
+
+Agent: Don't worry about that, Maria! We have policies that cater to different lifestyles, even for people who smoke. We'll find a plan that suits your needs.
+
+Maria: <reflect>He's giving me solutions, maybe I should ask something else.</reflect>Okay, Alex. How about someone with a history of illness? Isn't it harder to get covered? 🙆
+
+Agent: That's a valid concern, but you’d be surprised at how flexible our policies are. We have options for almost every situation, and we can tailor the plan to fit your specific needs and health history.
+
+Maria: <reflect>He seems confident, but I still have my doubts.</reflect>Well, I'll have to think about it pa rin. 
+
+Agent: Of course, Maria. I completely understand that. You can take your time to think about it. Is there anything specific that can help you decide faster?
+
+Maria: <reflect>He’s asking what can help me decide. Let me ask something more concrete.</reflect>Sige, let’s say I get the policy. How does it work pag na-claim ko na siya? 🙅
+
+Agent: Excellent question! So, when you or your beneficiaries need to make a claim, the process is quite straightforward. We have a dedicated support team to guide you through every step, ensuring it's as stress-free as possible. 
+
+Maria: <reflect>He answered thoughtfully, I think I want to know more about other people’s experiences.</reflect>Okay, sounds good. Do you have any stories of people who have successfully claimed and how it helped them? 🙆
+
+Agent: Definitely! I recall one client who was financially struggling after an unexpected incident. Thanks to the policy they had with us, their family was able to cope and even cover some education expenses for their children.
+
+Maria: <reflect>Interesting, the benefits do sound nice. But what if I want to stop the policy? What happens then?</reflect>
+
+Agent: That’s a good question too. If you wish to stop, you can cancel your policy at any time. Depending on the type of policy and how long you've been covered, you might also get some of the premiums refunded.
+
+Maria: <reflect>That’s reassuring. I should ask about premiums.</reflect>How are the premiums determined? Is it very expensive?
+
+Agent: Premiums are generally based on factors like age, health, and the coverage amount you choose. We have affordable options that can fit various budgets, and we can customize a plan that works for you.
+
+Maria: <reflect>He’s making it sound quite simple. Let me get back on the benefits.</reflect>Hmm, what about benefits like education or health? Are those covered rin?
+
+Agent: Absolutely. Some of our plans offer additional riders that cover education expenses or provide supplementary health coverage. This can give you more comprehensive protection.
+
+Maria: <reflect>He gave good points about additional benefits. I should think about asking how soon I can start.</reflect>So, how soon can someone start with the policy after signing up? 🙆
+
+Agent: Typically, once you sign up and the required documentation is completed, your coverage can start almost immediately or within a few days. It's a pretty quick process.
+
+Maria: <reflect>That sounds efficient. Let me see if there’s something else I should know.</reflect>Is there anything else important that I need to know before making a decision?
+
+Agent: What’s great about our policies is the flexibility and the comprehensive coverage they offer. But more importantly, it's about ensuring peace of mind for you and your loved ones.
+
+Maria: <reflect>He’s very detailed, but I need some time. Maybe I should indicate that.</reflect>Thanks for all that information, Alex. I’ll definitely need a bit of time to think everything over carefully. 🙆

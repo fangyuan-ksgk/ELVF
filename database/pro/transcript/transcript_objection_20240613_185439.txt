@@ -1,0 +1,47 @@
+ Agent: So Maria, do you have any questions or concerns about the life insurance policy we discussed?
+
+Maria:  <reflect>I have concerns about eligibility because of my health habits and past illness.</reflect> Actually, Alex, I want to ask—hindi ba disqualified ako for life insurance kasi I smoke and may history ako ng illness sa family namin. Paano na yan? 🙆
+
+Agent: I understand your concerns, Maria. We have policies that cater to smokers and those with a history of illness. Each application undergoes a review process to determine the best fit based on individual health conditions. Possible pa rin ma-cover! 
+
+Maria: <reflect>He's addressing my smoking and health history, so I'll make sure to clarify more.</reflect>Okay, so kahit na I smoke, may chances pa rin ako? Does it mean mas mahal yung policy if smoker?🤔
+
+Agent: Yes, parang ganun nga, Maria. Premiums for smokers can be slightly higher dahil sa increased risk. Pero we can find a plan that suits your budget and needs. 
+
+Maria: <reflect>He's honest about costs; let's see about specific health concerns next.</reflect>Gets ko na yung sa smoking, but what about my family history of illness? Hindi ba issue yun? 🙏
+
+Agent: Good question, Maria. It really depends on the specific illness and how it affects your health. In many cases, you can still get life insurance, but we may need to gather more details about your medical history to give you the best options. 
+
+Maria: <reflect>He's reassuring, but I want more info on the process.</reflect>Okay, so what happens during this review process? Mahirap ba yan? 🙆
+
+Agent: Not really, Maria! It's just a matter of filling out a detailed medical questionnaire and possibly undergoing a medical exam. It's straightforward and we guide you through every step. 
+
+Maria: <reflect>I need to understand the time commitment.</reflect>Okay, but mga gaano katagal usually ang ganitong process? 🙏
+
+Agent: Typically, it takes a few weeks from application to approval. Depende sa completeness ng info and how quickly we can schedule any necessary exams. 
+
+Maria: <reflect>He's explaining well, but what about the terms once approved?</reflect>And once approved, are there specific conditions or terms I need to be aware of? 🤔
+
+Agent: Yes, there would be terms specific to your policy na kailangan mong basahin and siguro intindihing mabuti. We make sure na everything is clear and transparent para walang surprises down the road. 
+
+Maria: <reflect>I want to see if I have to disclose more lifestyle habits.</reflect>Do I need to tell you other habits, like drinking or kung anong supplements na tinitake ko? 🙆
+
+Agent: Yes, Maria. It's important to be honest and full disclosure is necessary to assess your risk accurately. This information helps in tailoring the most suitable plan for you.
+
+Maria: <reflect>Understanding the importance of honesty, I'll accept the need for full disclosure.</reflect>Okay, gets ko na. You mentioned a medical exam, ano usually ginagawa sa exam na yan? 🤔
+
+Agent: It's usually standard exams like blood tests, urine tests, and sometimes an EKG. It's all to ensure we have an accurate picture of your health.
+
+Maria: <reflect>He's detailed about it; I want to know about privacy now.</reflect>So, are these medical details kept private? Gano ka-secure ang information ko with FWD? 🙏
+
+Agent: Absolutely, Maria. FWD complies with strict privacy laws and all your information is kept confidential. Our priority is to protect your personal data.
+
+Maria: <reflect>He's reassuring about privacy; let's shift the topic to how they support clients.</reflect>So, paano naman ang support after na ma-approve na yung policy? May regular check-ups or updates ba?🙆
+
+Agent: We have a dedicated customer support team that checks in regularly. Plus, may mga tools kami online and via mobile app na pwede mong gamitin to track your policy and manage your details.
+
+Maria: <reflect>He's answered well; I'll ask about how to make claims now.</reflect>Nice to hear that. And in case I need to make a claim, paano yung process? Complicated ba?🤔
+
+Agent: It’s designed to be as hassle-free as possible, Maria. You can file claims online or through our hotline. We assist in ensuring the required documents are complete for quick processing.
+
+Maria: <reflect>He's detailed and reassuring; let's ask something personal now about recommendations.</reflect>Thanks, Alex. If ikaw nasa position ko, would you get this policy? 🙆

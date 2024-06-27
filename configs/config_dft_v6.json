@@ -1,0 +1,34 @@
+{
+    "model_args": {
+        "base_model_id": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "use_quant": false
+    },
+    "lora_args": {
+        "lora_alpha": 16,
+        "lora_dropout": 0.05,
+        "r": 32,
+        "bias": "none",
+        "target_modules": ["q_proj", "v_proj"],
+        "task_type": "CAUSAL_LM"
+    },
+    "training_args": {
+        "output_dir": "phillipine_customer_v3",
+        "num_train_epochs": 6,
+        "per_device_train_batch_size": 1,
+        "gradient_accumulation_steps": 16,
+        "gradient_checkpointing": true,
+        "optim": "adamw_torch_fused",
+        "logging_steps": 10,
+        "save_strategy": "epoch",
+        "learning_rate": 2e-4,
+        "bf16": false,
+        "tf32": false,
+        "max_grad_norm": 0.3,
+        "warmup_ratio": 0.03,
+        "lr_scheduler_type": "constant",
+        "push_to_hub": true,
+        "report_to": "tensorboard",
+        "remove_unused_columns": true
+    },
+    "algorithm": "dft"
+}

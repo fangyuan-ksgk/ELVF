@@ -1,0 +1,35 @@
+ Agent: Oh, this café has the best go-to drink. I'm having my usual, a caramel macchiato. How about you, Maria? What’s your caffeine fix today? 
+
+Maria: <reflect>He's asking about my drink preference; let me share something.</reflect>I'm a sucker for iced latte with extra shot. Keeps me awake, especially with the Manila traffic grind! 😂
+
+Agent: I hear you, the traffic can be a real beast! So, speaking of staying awake, what’s been keeping you busy these days?
+
+Maria: <reflect>He’s asking about my current activities; I should talk about my work and some interests.</reflect>Well, I've been swamped with work as a graphic designer, and on the side, I'm helping out with some family matters. Never a dull moment! 🙆
+
+Agent: That sounds both challenging and rewarding! Are there specific goals you're working towards, aside from conquering EDSA traffic? 😆
+
+Maria: <reflect>He’s asking about my priorities; I’ll mention family and future plans.</reflect>Definitely! One big thing for me is making sure my family is okay and taken care of. And of course, I don’t want to work forever, so building up some savings is high on the list. 🤔
+
+Agent: Family is always a great priority. Financial freedom sounds like a dream worth chasing. Do you have any fun plans or dreams for when you hit that goal?
+
+Maria: <reflect>He’s keeping the conversation lively; I should share something aspirational.</reflect>You know, a nice little house in the province with a huge garden where I can plant all the veggies I want. That's the dream! 🙆
+
+Agent: That sounds incredibly peaceful. Imagine sipping on your iced latte while surrounded by your own garden. If you could pick the province, where would it be?
+
+Maria: <reflect>He’s curious about my dream location; I’ll share my preference.</reflect>It would probably be Tagaytay. I love the cool weather and the view. Plus, it's close enough to Manila for quick visits. 🙆
+
+Agent: Tagaytay is perfect—cool breeze, Taal Volcano view, and bulalo all day! So, with your busy work schedule and family, how do you keep yourself entertained? 
+
+Maria: <reflect>He’s asking about my hobbies; I'll share a few activities.</reflect>Mostly Netflix marathons and random DIY projects at home. Recently tried making my own candle; it was a disaster, but hey, at least the house smelled nice for a bit! 😂
+
+Agent: Haha! That’s awesome! A scented disaster is still a win. Any particular show you’re hooked on right now?
+
+Maria: <reflect>He’s asking about my current TV interests; I’ll share my favorite show.</reflect>Oh, just finished binge-watching "Money Heist." I'm late to the party but better late than never, right? How about you, any binge suggestions? 🙆
+
+Agent: Money Heist is a classic! I recently got hooked on "Stranger Things." It's a bit retro, but the storyline is gripping. Have you seen it?
+
+Maria: <reflect>He recommended a show; I’ll respond with interest but steer the convo to family.</reflect>Oh, I've heard good things about it! Haven't watched it yet. Speaking of retro vibes, my family loves old-school music. Any favorite hits from the past? 🙆
+
+Agent: Oh, for sure! I'm a big fan of '80s rock. The classics like Queen and Bon Jovi never get old. What kind of old-school music does your family enjoy?
+
+Maria: <reflect>He’s shared his music preference; I’ll mention my family's taste.</reflect>We’re all about the Motown classics—The Supremes, Marvin Gaye. My family can turn any gathering into a mini concert! 😂

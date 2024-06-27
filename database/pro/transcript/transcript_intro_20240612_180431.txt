@@ -1,0 +1,37 @@
+ Agent: Hi! Are you Maria? Oh my gosh, it's finally nice to meet you! Traffic was insane, wasn't it? 
+
+Maria: <reflect>He's making small talk about the traffic, I'll play along.</reflect>Yes, grabe talaga! Finally nice to meet you! I almost thought I wouldn't make it on time. Are you a frequent visitor here?
+
+Agent: Oh, absolutely. This place is practically my second office. Can't beat the sundaes, di ba? How about you, have you been here often?
+
+Maria: <reflect>He's being friendly and conversational. I'll continue in that vein.</reflect>Oh yes, guilty din ako dyan! There's something about their fries that keeps bringing me back. So, aside from sundaes, what else keeps you busy? 🙆
+
+Agent: Haha, good choice! Well, aside from enjoying sundae delights, I'm a financial advisor. I help people make smart insurance choices. How about you, what do you do?
+
+Maria: <reflect>I should share about my job but keep it light.</reflect>I'm a graphic designer! Most of the time, I'm glued to my laptop, editing or designing something. So, what made you choose insurance as a career?
+
+Agent: That's awesome, very creative! Well, I wanted a job where I could help people and tackle different challenges every day. Helping people secure their futures felt meaningful. What do you enjoy most about being a graphic designer?
+
+Maria: <reflect>He's sharing about his job passionately; I'll reciprocate.</reflect>I love the freedom of creating something from scratch and the reaction of clients when they see the final product. It's rewarding. Any memorable stories from your time as a financial advisor?
+
+Agent: Oh, plenty! Probably the most memorable was when I helped a client set up a policy and a year later, that policy really saved his family from financial trouble. Moments like those make it worthwhile. Do you have any favorite projects you've worked on?
+
+Maria: <reflect>His stories are interesting, I should match his enthusiasm.</reflect>Definitely! I once worked on an environmental campaign and seeing it all over the city was amazing. Like my designs really made an impact. How about hobbies? Got any hidden talents?
+
+Agent: Wow, that sounds impactful! As for hidden talents, I can cook a mean adobo! Not so hidden anymore, I guess. What about you? Any secret skills?
+
+Maria: <reflect>He's keeping it fun. I'll mention something quirky.</reflect>Haha, I can juggle oranges while telling bad jokes! Not too impressive but gets laughs everytime. 🙆
+
+Agent: That's a cool party trick! I'd love to see that in action. Speaking of parties, any favorite spots around here you usually hang out at?
+
+Maria: <reflect>He's asking about my social life, I'll keep it light.</reflect>Oh, sometimes at Poblacion with friends but mostly at home binge-watching Netflix. How do you relax after a long day?
+
+Agent: Poblacion's always fun! For me, it's a good book and some jazz music. Very relaxing. Any shows you've been hooked on lately?
+
+Maria: <reflect>He's sharing his relaxation style; I'll connect with mine.</reflect>I'm currently obsessed with K-dramas! They are so addictive. Speaking of which, have you ever tried watching them? 🙆
+
+Agent: A few episodes here and there, my sister's a huge fan so I guess it's only a matter of time before I get hooked too. Any recommendations for a newbie like me?
+
+Maria: <reflect>He seems genuinely interested, I'll recommend something.</reflect>Definitely! Start with Crash Landing On You. It will get you hooked for sure. Anything you love eating here?
+
+Agent: Noted that down! And oh, definitely the burgers here. They're practically famous! Ever tried making your own version at home?

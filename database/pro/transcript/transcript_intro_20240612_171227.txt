@@ -1,0 +1,51 @@
+ Agent: I hope you enjoyed your coffee, Maria. So, tell me, what are your main priorities nowadays? Anything special you're focusing on?
+
+Maria: <reflect>Ano kayang pwede kong i-share? Ay, family and financial goals siguro...</reflect>Oh, you know, I'm really focused on my family. I want to make sure they're always taken care of. And also, I don't want to be working forever, you know?
+
+Agent: Ah, I see. Family is always a top priority for many of us. And who wouldn't want to enjoy life without worrying about work, right? Any particular goals or dreams for your family?
+
+Maria: <reflect>Keep it general, walang masyadong details.</reflect>Absolutely! I just want them to have the best, you know, like good health and happiness. Goals-wise, I suppose just making sure finances are always in check. 🙆
+
+Agent: That’s great, Maria. Balancing health, happiness, and finances is essential. Speaking of finances, do you find it challenging to save money with everything you need to juggle?
+
+Maria: <reflect>Acknowledge but keep it light.</reflect>Oh my gosh, yes! Parang lagi may unexpected expenses, di ba? But you find ways. Just need to be smart about it.🤔
+
+Agent: True, true. Unexpected expenses can really throw you off. So, aside from saving, is there anything else you do to make sure your finances are in check?
+
+Maria: <reflect>Share something interesting but still light.</reflect>Well, I try budgeting—though it's like dieting, ang hirap sundin! Hahaha! And sometimes, I look into investing a bit.🙆
+
+Agent: Budgeting can be challenging, for sure! At least you’re looking into investments. Iyan ang good step forward! Any specific types of investments you're curious about?
+
+Maria: <reflect>Give a vague answer to keep the convo going smoothly.</reflect>Just the normal ones—stocks, some bonds. Nothing too risky, kasi medyo natatakot din ako. You know, you can never be too careful.🤔
+
+Agent: You're right, being careful is key. Stocks and bonds are a good start. Speaking of being careful, do you also think about securing your family's future in other ways?
+
+Maria: <reflect>Keep it engaging but general pa rin.</reflect>Oh yes, definitely. Like yun nga, making sure they have everything they need now and in the future. Parang a safety net. Sila kasi ang priority ko talaga.💬
+
+Agent: That’s very commendable, Maria. It's clear family is very important to you. Have you thought about any specific plans for their future education or health needs?
+
+Maria: <reflect>Stay generic and light.</reflect>Yes, definitely. Parang securing their education and health is always on my mind. Those are big things na you can't skimp on. 🙆
+
+Agent: Absolutely, education and health are lifelong investments. Have you had any experiences where you felt unprepared for sudden expenses related to those?
+
+Maria: <reflect>Share a hypothetical scenario para lighter pa rin ang convo.</reflect>Oh yes, like last year, biglaan lang may medical emergency. Parang na-shock talaga kami. Luckily, we got through it, but it was a wake-up call. 🙏
+
+Agent: That sounds tough, Maria. Emergencies can really catch us off guard. So, given those experiences, what do you think would be most helpful in managing those unexpected costs in the future?
+
+Maria: <reflect>Suggest something without mentioning insurance directly.</reflect>Well, having some sort of fund or something really helps. Savings alone kasi isn’t enough, di ba? Need to have other plans in place. 🤔
+
+Agent: Totally agree. A dedicated fund specifically for emergencies would be a great help. Have you also thought about other ways to protect your savings?
+
+Maria: <reflect>Respond vaguely yet show curiosity.</reflect>Yes, I have. But there are so many options out there, it's hard to decide which one is best. Any advice on that? 💬
+
+Agent: True, there are lots of options. Maybe something that combines both savings and protection might be worth looking into. Have you come across any such options?
+
+Maria: <reflect>Keep engaging, play along.</reflect>I’ve seen a few but I’m not sure which ones are reliable, to be honest. Medyo overwhelming din with all the info. 🙆
+
+Agent: It can be overwhelming, for sure. It's important to find something that balances growth with protection. Would you be interested in exploring such options further?
+
+Maria: <reflect>Show interest, keep it light pa rin.</reflect>Yes, that sounds interesting. I think it’s something really worth considering for my family's peace of mind. 🤔
+
+Agent: That makes sense. Taking the time to explore and learn is always beneficial. Have you ever attended any workshops or seminars on these topics?
+
+Maria: <reflect>Respond honestly and keep the vibe light.</reflect>Not really! But that sounds like a good idea. I usually just read articles or watch videos online. How about you, do you attend those often?🙆

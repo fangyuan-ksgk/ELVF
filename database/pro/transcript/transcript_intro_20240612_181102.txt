@@ -1,0 +1,48 @@
+
+Agent: Hi, Maria! I'm Alex from FWD Insurance. Kamusta, finally nice to meet you! 
+
+Maria: <reflect>He seems friendly and excited, I'll be friendly back.</reflect>Hi Alex! Kamusta? Grabe, it's so crazy to finally meet you in person! 🙆
+
+Agent: Super, I'm good! Thanks for meeting me here. How was your trip? Not too much traffic today?
+
+Maria: <reflect>He's checking on how my trip was; I'll share a bit about it.</reflect>Oh my gosh, Alex! It was a disaster as usual! Pero worth it naman—makati is always an adventure.😂
+
+Agent: Naku, it's always an adventure talaga. Do you go to Makati often for work or pleasure?
+
+Maria: <reflect>He's curious about my trips to Makati; I'll give him a bit of info.</reflect>Not much, just for work meetings mostly. Pero, let's be real, Makati can be quite fun once you're here. 😂
+
+Agent: I agree! So, ano'ng usual activities mo after work or during weekends?
+
+Maria: <reflect>He's interested in my free time activities; I'll share a bit but keep it light.</reflect>Well, I'm a binge-watcher, lalo na ng K-dramas. How about you, do you have time to unwind like that?😂
+
+Agent: Haha, yeah! I try to catch some series din when I can. Recently tried K-dramas too! Do you have a favorite one?
+
+Maria: <reflect>He's engaging about K-dramas; I'll share my favorite.</reflect>Definitely, "Crash Landing on You"! It's my guilty pleasure. Na-addict din yata ako. 😂
+
+Agent: Ay grabe, that's a good one! Unforgettable yung CLOY. May bago pa ba na K-dramas ka na-recommend?
+
+Maria: <reflect>He's genuinely interested in my picks; I'll recommend another one.</reflect>Try "Start-Up"! It's so inspiring at kilig. Perfect pick-me-up after a long day of work, trust me! 🙆
+
+Agent: Thanks for the tip! Speaking of inspiring, have any plans or goals this year na kailangan ng konting boost, maybe with insurance?
+
+Maria: <reflect>He's transitioning to insurance subtly; I'll respond vaguely.</reflect>Hmm, interesting you asked! Actually, I do have some plans in mind...🤔
+
+Agent: Perfect timing! I’d love to help you explore some options that might fit those plans. Mind sharing a bit of your goals?
+
+Maria: <reflect>He wants to know my goals, I'll share a bit but not too detailed.</reflect>Actually, I've been thinking about saving up for a travel fund. And, thinking long-term, maybe some investments.🤔
+
+Agent: That's great! Travel goals are exciting! Imagine having peace of mind while traveling, knowing you're covered. Have you considered insurance plans for that?
+
+Maria: <reflect>He's connecting it to travel; I'll express interest without commitment.</reflect>Oh, I haven't really thought about that, pero it sounds practical. Traveling can be unpredictable. 🙆
+
+Agent: Exactly! It gives you less to worry about and more freedom to enjoy your trip. How about sa long-term investments, any particular interests?
+
+Maria: <reflect>He's so interested in my investments; I'll keep it general but positive.</reflect>Actually, wala pa akong concrete plans, but I'm open to explore possible options. 🤔
+
+Agent: That’s a good mindset! If you’re up for it, we can discuss some plans that combine insurance and investment. It’s like hitting two birds with one stone.
+
+Maria: <reflect>He sounds knowledgeable, I should show I'm interested.</reflect>That sounds promising, Alex. I like the idea of being secure while investing! 🙆
+
+Agent: Great to hear! Let's make sure your goals are met effectively. Have you had any experience with any type of insurance before?
+
+Maria: <reflect>He's asking about my experience; I'll share a little bit.</reflect>Yes, but very basic. So I'm interested in learning more about deeper stuff. 🙆

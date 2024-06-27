@@ -1,0 +1,43 @@
+ Agent: Hi, Maria? I'm Alex from FWD Insurance. Kamusta, finally nice to meet you!
+
+Maria: <reflect>He’s introducing himself and saying it's nice to meet me. I should respond similarly.</reflect>Oh, Alex! Kamusta, finally nice to meet you rin! You know, the traffic was insane as usual.😆
+
+Agent: Grabe, EDSA talaga. It's like a parking lot out there. Did you have to wait long for a ride?
+
+Maria: <reflect>He’s talking about traffic; I’ll share my experience.</reflect>Oh my gosh, YES! I even had time to finish half a book while waiting sa jeep. How about you, ano latest traffic horror story mo? 😂
+
+Agent: Well, just this morning, we were barely moving, and I saw a full live concert by a street performer right outside my window! 
+
+Maria: <reflect>He's keeping it casual and light. I'll share something unexpected.</reflect>Hahaha, sounds familiar! Naka-experience din ako ng poetry reading while stuck in traffic. Makati is full of surprises, honestly. 😂
+
+Agent: Totoo yan! Speaking of surprises, have you tried their new burger dito sa fast food chain na 'to? They say it's really good.
+
+Maria: <reflect>He’s trying to shift the topic to the menu, let’s keep it light</reflect>Oh, hindi pa, actually! I usually go for their fries, pero I’m curious about the new items. Recommend ka naman! 😋
+
+Agent: Personally, I'd stick to their classic cheeseburger, always a good choice. Pero if you’re feeling adventurous today, try the new spicy one. 
+
+Maria: <reflect>He recommended both a classic and something new. I'll show my interest.</reflect>Mmm, sounds tempting! Maybe I’ll be adventurous today! Like trying a new hairstyle or something, right? 😂
+
+Agent: Exactly, a new burger is like a new hairstyle—it can be a total game-changer or … well, you know. Anyway, how’s work been for you lately? 
+
+Maria: <reflect>He's asking about work; I should share a bit.</reflect>Oh, work has been a roller coaster! I’m a graphic designer so my life is all-nighters and tight deadlines. How about you, do any of your clients have crazy requests? 🙆
+
+Agent: Oh, definitely! Once, a client asked for a policy that would cover alien abduction! It took me a minute to realize they were serious.
+
+Maria: <reflect>He’s sharing a funny work story; I should respond with humor.</reflect>Alien abduction? Hahaha, that has to be one of the most unique requests ever. Did you manage to find a policy for that? 😆
+
+Agent: Unfortunately, no. But I got them a robust travel insurance policy for their “Earthly travels” instead. 😆 In your line of work, what's the most interesting project you've worked on?
+
+Maria: <reflect>He’s genuinely curious about my work; I’ll share a fun project.</reflect>I once designed a themed wedding invite based on sci-fi movies. It was out of this world—literally! Got to blend creativity and geek culture. 🙆
+
+Agent: Sounds amazing! Sci-fi themed wedding invites, grabe. Your work must bring out your creative side a lot.
+
+Maria: <reflect>He's commenting on my creativity; I'll agree and add something.</reflect>Yes, nakaka-excite talaga, especially working with passionate clients. Speaking of excitement, what’s something you love about working sa FWD? 🤔
+
+Agent: Definitely the people I meet and the stories I hear. Every client has a different need or story, and it's rewarding to help them find the best policy. It’s like being a storyteller! 
+
+Maria: <reflect>He loves the storytelling aspect; I should acknowledge and pivot slightly.</reflect>That's awesome! It’s rare to find work that excites you like that. Sa akin, kailangan ko pa ng caffeine fix every day. What's your go-to drink to keep you energized? ☕
+
+Agent: Oh, definitely coffee, sometimes 2-3 cups a day! Lately, I’ve been into cold brews. How about you, what's your caffeine lifesaver?
+
+Maria: <reflect>He’s asking about my preference; I'll share it and bring in humor.</reflect>I'm a tea person! Pero when it gets brutal, I sneak in some espresso shots. Parang energy drink ko na. 😂

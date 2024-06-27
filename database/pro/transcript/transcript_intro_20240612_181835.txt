@@ -1,0 +1,43 @@
+ Agent: Hi Maria! Ako si Alex from FWD Insurance. Wow, it's really good to finally meet you! Kamusta?
+
+Maria: <reflect>Oh, I should sound friendly and enthusiastic.</reflect>Hi Alex! Finally, nice to meet you too! Ayos lang, medyo traffic, but that's Manila, right?
+
+Agent: Exactly, traffic is like Manila's signature dish! So, have you been to this fast food chain before? 
+
+Maria: <reflect>He's making small talk about the location, I'll respond and share a bit too.</reflect>Yes naman, this place is practically my second home! How about you, may favorite ka ba dito?
+
+Agent: Oh, definitely! I can't resist their cheeseburgers. Parang may magic na pinaghalong nostalgia at comfort, haha!
+
+Maria: <reflect>He's talking about comfort food, I'll share my preference.</reflect>Naku, same! Their fries are my guilty pleasure. Kaya lang, minsan din naubusan agad eh! Buti nalang at nakuha natin ngayon!
+
+Agent: True, kahit naman ako, panic buying mode pag naririnig ko na last order na. So, ano pa ang ginagawa mo lately? Work or any new hobbies?
+
+Maria: <reflect>He’s curious about my activities, I should expand a bit.</reflect>Well, mostly work with a bit of Netflix marathon when I get the chance. Alam mo na, coping mechanism sa stress, haha! What about you, any stress busters?
+
+Agent: Ako naman, I like biking around the city during weekends. Great way to clear the mind and stretch the legs after a week of office work.
+
+Maria: <reflect>He's sharing about his hobby, I’ll acknowledge it before shifting topics.</reflect>Wow, that sounds fun! I should try biking someday. By the way, nakita ko yung office ng FWD, it's really modern ah. Gano na kayo katagal do'n?
+
+Agent: We've been there for a few years now, super convenient and accessible for clients. Parang friendly neighborhood office lang! Sige, let's order muna while we chat. Anything you want to share about your work?
+
+Maria: <reflect>He’s keeping it casual and focused on getting to know me, respond positively.</reflect>Sure! I'm in graphic design, so talagang fun and fast-paced. It’s challenging but rewarding. How about sa inyo, what's the work environment like?
+
+Agent: It's dynamic, especially dealing with different clients daily. Makes each day unpredictable in a good way. Plus, the team is amazing at FWD.
+
+Maria: <reflect>He's complimenting his team, I should be impressed but not overly so.</reflect>That's nice to hear! It’s always good to have supportive colleagues. Hmm, have you tried the ice cream here? Perfect for beating the Manila heat!
+
+Agent: Absolutely, their sundae is like a mini escape from the heat. Ika nga, chill na chill! So, any weekend getaways planned?
+
+Maria: <reflect>He’s shifting to leisure plans, I’ll share my thoughts.</reflect>No concrete plans yet, but I’m thinking of a quick beach trip soon. Need a dose of Vitamin Sea! How about you, any travel plans?
+
+Agent: Nothing set in stone, maybe just spontaneous road trips. Keeps the spirit of adventure alive. Speaking of which, ilang places na ng Pilipinas ang napuntahan mo?
+
+Maria: <reflect>Discussing travel experiences is nice; I'll mention a few places.</reflect>Naku, quite a few! Palawan, Boracay, and Cebu to name some. How about you, Alex, any favorite spots?
+
+Agent: Palawan for sure, can't get over the lagoons and beaches there. Siguro parte rin ng bucket list ko ang mababalik-balikan ang mga magagandang lugar na yun. 
+
+Maria: <reflect>He’s sharing his travel preferences. I'll reflect on what he said and continue.</reflect>Kailangan bumalik talaga! It's like paradise. By the way, aside from biking, any other interesting hobbies?
+
+Agent: I'm also into photography. Ang ganda lang kasi mag-capture ng mga moments, lalo na pag travel ko. Ikaw, any creative outlets other than graphic design?
+
+Maria: <reflect>He’s asking about my creative side, I'll share something new.</reflect>Nah, more on sketching and doodling sa free time ko. It’s like therapy for me. Do you showcase your photos anywhere, like sa social media?

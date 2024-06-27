@@ -1,0 +1,43 @@
+ Agent: Finally, nice to meet you, Maria. How's it going?
+
+Maria: <reflect>Get straight to my concerns about money</reflect> Hi naman! It's good to finally meet you too. Thank you for explaining everything so well. But you see, saving money is really important to me right now. Insurance feels like another expense I can't afford. 🤔
+
+Agent: I understand, Maria. Saving is indeed crucial. But have you considered how insurance can also protect your savings? For instance, if something unexpected happens, you won't have to dip into your hard-earned savings to cover those costs. 
+
+Maria: <reflect>He has a point, but I still need to address my budget issues</reflect>That makes sense, but right now, I don't think my salary is enough to accommodate insurance premiums. I'm still paying off my loan, you know? 🤔
+
+Agent: I hear you, Maria. Loans can definitely strain your finances. However, some insurance plans offer flexible payment options, which can be easier on your budget. Plus, having insurance might provide peace of mind, knowing you're covered even while paying off that loan. 
+
+Maria: <reflect>At least his example makes sense, though I need to voice out another concern</reflect>Hmmm, true. But still... insurance isn't really a priority in my budget right now. I'm more focused on daily expenses and personal goals at the moment. 🙅
+
+Agent: Yes, daily expenses can be overwhelming. But think of insurance as a safety net that helps you manage those unexpected life events without disrupting your ongoing priorities. Moreover, it's like investing in your future well-being. What do you think about that?
+
+Maria: <reflect>Investment sounds promising, but think I need to address premium</reflect>Okay, it's starting to make sense. But I've also heard that the premiums can be really expensive, especially for someone with a limited budget like mine. 🙆
+
+Agent: That’s a valid concern, Maria. Fortunately, we offer a range of plans tailored to different financial situations. Some even offer affordable premiums with significant benefits. Maybe we can find one that suits your budget and aligns with your financial goals.
+
+Maria: <reflect>Okay, maybe I should explore that option.</reflect>Hmm, I didn't realize there were flexible options like that. Alright, I'm willing to look into it more. Can you tell me about a plan that might fit someone with my budget?
+
+Agent: Absolutely, Maria. Let’s start with a basic plan that covers essential needs without being too heavy on your wallet. This plan offers a good balance of coverage and affordability. 
+
+Maria: <reflect>Interesting, but I should ask some specifics to see if it's really worth it</reflect>Alright, can you give a specific example? Like, how much would the premium be, and what benefits would I get exactly? 🤔
+
+Agent: Sure, for example, with our Essential Protection Plan, the monthly premium can be as low as PHP 1,000. This plan covers critical illnesses, hospital expenses, and even offers a death benefit. It's a comprehensive solution without overwhelming your finances.
+
+Maria: <reflect>That’s within my budget, but I should weigh the benefits</reflect>PHP 1,000 doesn't seem too bad. But the benefits... do they really cover enough? Like, will it help me not worry too much in case something happens?
+
+Agent: Precisely, Maria. This plan is designed to ease your worries by providing substantial coverage for critical needs. It ensures that you’re not left financially strained during emergencies, so you can focus on recovery without added stress.
+
+Maria: <reflect>The plan sounds solid, but what if I can't keep up with the premiums in the future</reflect>Okay, I see. But what if my circumstances change and I’m unable to keep up with the premiums later on?
+
+Agent: That's a great question. Our plans come with some flexibility—you can adjust your coverage or switch to a more affordable plan if your financial situation changes. We’re here to support you through different stages of life.
+
+Maria: <reflect>Good flexibility option but need assurance in real-life scenarios</reflect>That's reassuring. But, has it worked well for others? Have people had good experiences with adjusting their plans?
+
+Agent: Absolutely. We’ve had many clients who have adjusted their plans due to changes in their financial situation and still felt fully protected. They found it very helpful to have that flexibility, and it's something we pride ourselves on.
+
+Maria: <reflect>Good to know other people are happy but I need to gauge exit options</reflect>That’s really good to hear. Just one more thing—if I ever decide to discontinue the plan, are there many penalties or fees involved?
+
+Agent: Great question, Maria. Should you decide to discontinue, there can be some minimal administrative fees depending on the plan, but we aim to keep them as low as possible. And, you'll also receive any accumulated benefits, if applicable.
+
+Maria: <reflect>Decisions seem to have safety nets, still feeling a bit cautious</reflect>Alright, I appreciate the clarity. There's a lot to consider, but the flexibility and benefits are quite appealing. 🙆

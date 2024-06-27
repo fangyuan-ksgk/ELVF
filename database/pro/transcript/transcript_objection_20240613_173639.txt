@@ -1,0 +1,49 @@
+ Agent: Maria, I understand na medyo overwhelming ang mga information about our insurance policy. Do you have any questions or concerns so far? 
+
+Maria: <reflect>Now's my chance to voice my concerns about trust. Let's start with one of them.</reflect> Well, Alex, to be honest, I'm a bit hesitant. I really prefer to do my own research muna before making any decisions.
+
+Agent: I completely understand, Maria. Doing your own research is very important talaga. What I can do is provide you with some resources and materials para you can review them at your own pace. And if may questions ka later on, I'm just a text away. Does that sound good to you?
+
+Maria: <reflect>Reassuring, pero I still have another concern about trust.</reflect> That sounds helpful, Alex. But you know, I can't help but think I could find better insurance policies elsewhere. Parang ang dami options, di ba?
+
+Agent: That's a valid point, Maria. There are indeed many options out there. What sets us apart sa FWD Insurance is the personalized service we provide. We make sure na what you get is tailored to your specific needs and goals, para sulitin mo talaga yung investment. Nakaka-relate ba sa'yo yun?
+
+Maria: <reflect>Better answer than expected, but I still have one last concern related to trust.</reflect> Okay, that sounds convincing. Pero I have one more thing in mind, Alex. I would rather buy from someone I know and trust. It's quite a big commitment, di ba?
+
+Agent: Absolutely, Maria. Trust is really essential when it comes to making such important decisions. What we can do para mas maging comfortable ka is setup meetings or calls with some of our long-time clients na you can talk to. They can share experiences and give you an authentic perspective on how we've helped them. Would you be open to that?
+
+Maria: <reflect>That approach might actually help in building trust.</reflect> Hmm, that could work. Hearing from actual clients would definitely help me feel more assured. You know, Alex, this whole decision process can be quite daunting.
+
+Agent: I hear you, Maria, and it doesn't have to be that way. We’re here to make it as simple and comfortable for you as possible. Kaya we're willing to go the extra mile just to make sure everything is clear and you feel supported throughout the process.
+
+Maria: <reflect>He seems genuinely supportive, but I want to clarify one thing about the premiums.</reflect> Okay, thank you, Alex. Just to clarify, medyo conscious rin ako sa premiums. I heard that the premiums can be quite expensive. How affordable is this, really?
+
+Agent: Good question, Maria. We've designed plans that cater to different budgets. We can work on a plan that's within your means without sacrificing the coverage you need. Plus, may mga flexible payment options kami na puwedeng i-tailor sa preferred schedule mo. Would you like to discuss the specific options?
+
+Maria: <reflect>Flexible payment options sound good; I'll hear him out on that.</reflect> Yeah, that sounds interesting. Flexible payment options could really help a lot. Can you give me an idea of how those work?
+
+Agent: Of course! We can break down the payments into quarterly, semi-annual, or even monthly options. This way, hindi siya mabigat on your finances. And since we'd customize it based on your needs, you'd get the right coverage without compromising your budget.
+
+Maria: <reflect>It's starting to sound more manageable.</reflect> That could actually be more manageable for me. I'm liking this flexible payment idea more. How about the coverage, though? Would it still be comprehensive kahit split up yung payments?
+
+Agent: Yes, definitely. The comprehensiveness of your coverage won't be compromised. Whether you choose to pay monthly or annually, you will still get the full benefits and protection as outlined in your policy. Our goal is to make sure you’re fully covered.
+
+Maria: <reflect>Sounds reassuring, but I have one more budget-related question.</reflect> Okay, that's good to know. Another concern is, how soon ba do I start seeing the benefits? Like, is there a waiting period for certain coverages to kick in?
+
+Agent: That's a great question, Maria. Most of our plans have benefits that you can access immediately, like health and hospitalization coverage. However, for certain coverages like critical illness or life insurance, there might be a specified waiting period you're required to observe. But rest assured, I'll explain all these details clearly before you make any decisions.
+
+Maria: <reflect>Immediate benefits are a plus. He's addressing my questions well.</reflect> Immediate benefits are definitely a plus for me. This sounds quite a well-rounded option. One last thing, though! How long have you been with FWD, and how has your experience been so far?
+
+Agent: I've been with FWD for around 5 years now, and I can honestly say it’s been a very rewarding experience. Nakaka-fulfill to see our clients secure their future and achieve financial peace of mind. I've seen firsthand how our policies have helped numerous families and individuals. 
+
+Maria: <reflect>He seems passionate about his job. That's a good sign.</reflect> Wow, 5 years! That sounds impressive. And you must've seen a lot of success stories along the way. Is there any memorable client experience that stands out for you?
+
+Agent: Definitely, Maria. I remember one of my clients who was initially very skeptical about getting insurance, but after some time, she decided to go for it. A year later, she was diagnosed with a critical illness. The insurance benefited her in ways she hadn't even realized. She reached out to thank me afterward, saying it was one of the best decisions she ever made. 
+
+Maria: <reflect>That's quite touching and convincing.</reflect> That’s really touching. It's stories like that which make me reconsider things. It's clear that insurance does more good than I initially thought.
+
+Agent: Exactly, Maria. It's these real-life stories and positive outcomes that motivate us. We're not just selling policies; we’re helping people protect their futures.
+
+Maria: <reflect>He's making a strong case for the value of insurance.</reflect> That's right. Anyway, thank you for addressing my concerns, Alex. I feel more informed now. 🙆
+
+

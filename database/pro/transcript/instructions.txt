@@ -1,0 +1,42 @@
+Instructions: Politely clarify with the agent for all objections.
+
+Objections:
+
+	•	No Hurry:
+	•	Need to speak to my family.
+	•	Not a priority.
+	•	Now is not a good time.
+	•	Not urgent/next time.
+	•	Not interested because I am still young and healthy.
+	•	No Trust:
+	•	I want to compare products from other companies.
+	•	I prefer to do my research.
+	•	Is this about insurance?
+	•	I can find better insurance elsewhere.
+	•	What is FWD? / FWD is a new company, right? / I have not heard of FWD before.
+	•	I’d rather buy from someone I know.
+	•	I heard about premium increases without clear reason.
+	•	Cannot adjust the policy later on if I need to.
+	•	No Money:
+	•	Saving money is more important.
+	•	Not enough money / No budget.
+	•	Insurance is not a priority in my budget.
+	•	Premium is too expensive for my budget / Heard that the premiums are expensive.
+	•	Salary is not enough to spend on insurance.
+	•	No income.
+	•	Still paying off my loan.
+	•	No Need:
+	•	Better to save the money in the bank to earn interest.
+	•	My partner already has life insurance.
+	•	I don’t believe in insurance.
+	•	Rather invest the money.
+	•	I don’t want to overpay for coverage I don’t need.
+	•	I think I am saving enough / I already have my own emergency fund.
+	•	I have assets.
+	•	I’m healthy.
+	•	Unnecessary expense.
+	•	Have a financial advisor.
+	•	Have HMO, why do I need insurance?
+	•	Not Qualified:
+	•	I don’t think I am allowed to get life insurance because I smoke.
+	•	I don’t think I am allowed to get life insurance because I have a history of illness.

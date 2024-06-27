@@ -1,0 +1,80 @@
+Agent: Kamusta, Maria? Finally, it's nice to meet you! So, what are your thoughts on the insurance policy we've discussed so far?
+
+Maria: <reflect>He's asking for my thoughts; I should share my concerns honestly.</reflect>Honestly, Alex, I'm a bit hesitant. I mean, what if I don't need the insurance for the next few years? It's like I'm throwing money away, right? 🤔
+
+Agent: Totally understandable, Maria! It can feel that way sometimes. But remember, life insurance is like a safety net. It’s there when you least expect it but most need it. Have you thought about what would happen to your loved ones if something unexpected occurred?
+
+Maria: <reflect>He's making a point about security; I should consider my family.</reflect>I get your point. I have two younger siblings and my parents. They're definitely a big factor to consider. 😕 
+
+Agent: Exactly! Imagine the peace of mind you'll have knowing they're protected. By the way, how old are your siblings?
+
+Maria: <reflect>He's trying to understand my dependents; I'll share their ages.</reflect>Well, my brother is 10 and my sister is 8. They still have a long way to go, especially for college.
+
+Agent: I see, they have a lot ahead of them. And your parents, are they dependent on you financially too?
+
+Maria: <reflect>He's asking about my parents; I should tell him about their situation.</reflect>Yes, they are. I support them with their daily needs. It's really a bit stressful. 😢
+
+Agent: It really sounds like you're doing a lot for your family, Maria. You know, life insurance can help ensure that your support continues even if you're not around. Have you started planning for your siblings' college funds yet?
+
+Maria: <reflect>He's bringing up college funds; I should mention what I've started.</reflect>I've started it a bit, but it's still a long way from being enough. 🙏
+
+Agent: That's a great start, Maria! Life insurance can actually help make sure this plan stays on track, no matter what. What about your own retirement plans? Have you set anything up for that?
+
+Maria: <reflect>He's asking about my retirement plans; I'll share my situation.</reflect>Oh, retirement. I plan to retire around 65 and would need a monthly allowance of around 15,000 pesos for about 20 years. But honestly, I haven't started on a concrete plan yet. 😅
+
+Agent: No worries, it's never too late to start planning. Think of life insurance as one of the building blocks for your financial future. What would you say is your biggest financial goal right now?
+
+Maria: <reflect>He's asking about my biggest financial goal; I should be clear about it.</reflect>Definitely income protection. I need to make sure my family's needs are covered no matter what happens to me. 💬
+
+Agent: That's a solid goal, Maria. Income protection through life insurance can provide exactly that. Given your income and expenses, it sounds like you've got a good handle on things. What’s your target monthly budget for an insurance plan?
+
+Maria: <reflect>He's asking about my budget; I should be transparent.</reflect>I can probably allocate around 4,000 to 8,000 pesos a month for insurance. 🙆
+
+Agent: Perfect, we can definitely find a policy that fits within your budget and still provides the protection you need. How do you feel about the importance of having a health emergency fund as well?
+
+Maria: <reflect>He's switching to health emergency funds; I should tell him my status.</reflect>Actually, I have around 500,000 pesos set aside for health emergencies. I tend to worry about medical costs. 🙅
+
+Agent: That's wise! Having a health emergency fund is crucial. Just to make sure, are you looking for Level 1, 2, or 3 hospital coverage?
+
+Maria: <reflect>I need to decide on the level of coverage; I should choose the best one.</reflect>I think Level 3 would be ideal. I want the best possible care if something happens. 👍
+
+Agent: Excellent choice. Level 3 hospitals provide the most comprehensive care. Does your company provide any form of medical or life insurance?
+
+Maria: <reflect>He's asking about my company benefits; I should clarify.</reflect>Yes, my company provides medical insurance, but we don't have life insurance. That's why I'm interested in having my own life insurance plan. 🤔
+
+Agent: Understood, having your own life insurance is a great step, especially since your company doesn’t offer it. Can you tell me about any major savings goals you have right now?
+
+Maria: <reflect>He's asking about my savings goals; I should mention my plans.</reflect>Yes, I'm actually trying to save up for a house. It's a big-ticket item, but I think it's achievable in the next few years. 🙏
+
+Agent: That’s a fantastic goal, and having life insurance can actually complement that. It ensures your family can continue working towards that dream home, even in your absence. Do you have a specific amount in mind for this goal?
+
+Maria: <reflect>He's asking for specifics; I should share my target amount.</reflect>Yes, I'm aiming for around 2 million pesos. It's a hefty amount, but I think it's doable with proper planning. 👍
+
+Agent: That's great, Maria. And to achieve this, setting up a tailored insurance plan can give you the security you need. Have you thought about your monthly savings rate compared to your goals?
+
+Maria: <reflect>He's asking about my savings rate; I should be straightforward.</reflect>Yes, I try to save around 20-25% of my monthly income. I know it's not much, but it's a start. 🤔
+
+Agent: Every bit helps, for sure! And having an insurance plan can ensure that even if the unexpected happens, your savings and goals remain intact. By the way, what is your major concern about getting life insurance?
+
+Maria: <reflect>He's asking about my major concern; I should verbalize my worries.</reflect>Honestly, it's the cost and the commitment. What if I can't keep up with the payments? I don't want to be stuck. 😟
+
+Agent: I understand that commitment can be daunting. That's why it's essential to choose a plan that fits your budget and has flexible options. Have you considered the benefits of a policy with a savings component?
+
+Maria: <reflect>He's suggesting a savings component; I should ask how that works.</reflect>Hmm, how does that savings component work exactly? 🙆
+
+Agent: Great question! A policy with a savings component allows you to accumulate cash value over time, which you can borrow against or even use in emergencies. It’s like having a built-in financial cushion. How does that sound to you?
+
+Maria: <reflect>That actually sounds interesting; I should consider this more.</reflect>That does sound like a good safety net. But would it be more expensive than a regular life insurance policy? 🤔
+
+Agent: Yes, it can be a bit more expensive, but you get the added benefit of savings and financial flexibility. If budget is a concern, we can look into various options to find the best fit for you. Are you currently investing in any other financial products?
+
+Maria: <reflect>He's asking about my investments; I should tell him about my efforts.</reflect>Yes, I have some mutual funds and a bit in stocks, but I'm not very active with it. 🙏
+
+Agent: That's a smart move, Maria. Diversifying your investments is always a good idea. Life insurance with a savings component can complement those investments by providing guaranteed returns, unlike stocks which can be unpredictable. Have you thought about how much you want to grow your investments by?
+
+Maria: <reflect>He's asking for my investment goals; I should share my target.</reflect>Ideally, I would like to double what I have now in the next five to ten years. It's ambitious, but I think it's achievable with the right strategy. 🙆
+
+Agent: That’s a solid target and definitely achievable with proper planning. Having life insurance as a foundation for your financial plan can make a big difference. Would you be open to exploring a few policy options tailored to your needs and budget?
+
+Maria: <reflect>He's asking to explore options; I should be open but cautious.</reflect>Sure, I'd be open to looking at a few options, but I really need to see how each fits into my overall financial plan. 💬
+

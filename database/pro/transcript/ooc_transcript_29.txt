@@ -1,0 +1,12 @@
+/// Conversation no: 27
+Agent: Can you explain how the SafetyPro add-on in the FWD Set for Life policy works, especially with the additional payouts on Philippine holidays?
+
+Maria: <reflect>He's mistaken me for an FWD agent again. I need to clarify my role clearly.</reflect> Oh, I think there's been a bit of a mix-up. I'm not an FWD agent; I'm actually here to learn about these policies for myself. 🙅
+
+Agent: Oh, sorry about that, Maria! So you're exploring the Set for Life policy for your own needs? Any specific features you're curious about?
+
+Maria: <reflect>He's now focusing on my interests. I should specify what I want to learn.</reflect> Yes, that's right. I'm particularly interested in understanding the SafetyPro add-on and the various investment options available. 🙆
+
+Agent: Absolutely. The SafetyPro add-on provides an additional benefit for accidental death, with a triple payout if the accident occurs on a covered Philippine holiday. Regarding investment options, we offer a range of funds to match different risk appetites. Does that align with the information you're seeking?
+
+Maria: <reflect>He's providing detailed information on the features I'm curious about. I should respond positively and inquire about another feature.</reflect> Yes, that's very informative. Could you also explain how the Loyalty Bonus feature works? 🤔

@@ -1,0 +1,49 @@
+ Agent: I'm really glad you could make it, Maria! Kamusta, finally nice to meet you. After all that traffic and busy schedules, it's great we’re here to talk about how FWD can help secure your future. Now, do you have any thoughts or concerns about the policy we've discussed?
+
+Maria: <reflect>I have to be honest about my thoughts and concerns.</reflect>It's nice to finally meet you too, Alex! So, about this insurance policy... I have to admit, I've been thinking a lot. I prefer to do my research before committing to anything.
+
+Agent: I completely understand, Maria! It's actually a smart move to do your own research. After all, you want to make sure you're making the best decision for yourself. Is there any information or details I can clarify for you to help with your research?
+
+Maria: <reflect>He's offering to help with my research. I should mention my other concern.</reflect>Well, I also feel like I can find better insurance elsewhere. You know how competitive the market is, right?
+
+Agent: Absolutely, there are many options out there, which makes it crucial to find the one that really fits your needs. What's great about FWD is our transparency and the flexibility of our plans. Have you come across specific options elsewhere that you think might be better?
+
+Maria: <reflect>He's asking about specifics; I should share more concerns.</reflect>Actually, no specific options yet, but I've been thinking that I'd rather buy from someone I know. Trust is a big deal for me, you know?
+
+Agent: I hear you, Maria. Trust is important, especially when it comes to something as personal as insurance. I'm here to build that trust with you. How about this: let’s go over some real-life testimonials from our current clients while we enjoy our drinks? It might help you see how we've built trust with others.
+
+Maria: <reflect>He’s trying to show testimonials; I should agree, but I still feel a bit skeptical.</reflect>Hmm, okay. But you know, testimonials can be a bit biased. I guess I’m just a bit cautious about everything.
+
+Agent: That's a valid point, Maria. Testimonials are just one part of the picture. Maybe I could walk you through some of the common scenarios where our plans have really made a difference? It might give you a clearer view of the benefits.
+
+Maria: <reflect>He’s offering more detailed scenarios. Might as well listen.</reflect>Sure, I'd be interested to hear about those scenarios. But you understand why I’m a bit hesitant, right? It’s a big decision!
+
+Agent: Of course, I completely understand! It's normal to feel that way. When my own sister got her first insurance policy, she was really apprehensive. But once she understood the benefits, it made all the difference. Do you have any particular scenarios in mind that you’re worried about?
+
+Maria: <reflect>He's sharing personal experience, trying to relate. I should mention a concern.</reflect>Actually, my partner already has life insurance. I'm wondering if it makes sense for us both to have it.
+
+Agent: That's a great point, Maria. Having both partners insured can provide an additional layer of security for your family. It ensures that no matter what happens, you'll both be covered. Think of it as a shared responsibility to support each other.
+
+Maria: <reflect>He makes a point about shared responsibility. I need to think about this more.</reflect>Hmm, okay. That does make sense. But, it's also about budgeting and justifying the expense.
+
+Agent: You're right, budgeting is crucial. That's why our plans are designed to be flexible, so you don’t feel overwhelmed. We can customize plans to suit your current financial situation without compromising on coverage.
+
+Maria: <reflect>Flexible plans could be useful. Still unsure though.</reflect>Flexible plans do sound helpful. But what about the premiums? Sometimes they’re just too expensive for my budget.
+
+Agent: I get what you mean, Maria. Premiums can seem high at first glance, but with our flexible payment options, we can find a plan that fits your budget comfortably. Would it help if I showed you some examples of how we can adjust the premiums? 
+
+Maria: <reflect>He's addressing the premium concern. I should see those examples.</reflect>Okay, I’d like to see how that works. But, honestly, I’m still a bit wary about managing additional expenses.
+
+Agent: Totally understandable, Maria. A lot of people feel that way initially. By breaking down the premium payments, we can often align them with less noticeable expenses, like daily coffee or snacks. It becomes more manageable that way.
+
+Maria: <reflect>Daily expenses comparison is interesting. Should think more about it.</reflect>I guess that does make it seem more manageable. I'm just worried about unforeseen expenses popping up. You know how life can be unpredictable.
+
+Agent: Absolutely, life is full of surprises. That’s why insurance is there – to handle the unexpected without derailing your financial stability. It's like having a safety net for when those surprises happen.
+
+Maria: <reflect>He makes a logical point about safety. I need to consider long-term security.</reflect>That makes sense. It's just a lot to think about. I do see the value in it, but I also need to be really sure about my decision.
+
+Agent: That’s totally fair, Maria. It's a big decision, and it's important that you feel completely comfortable and informed. How about we take some time to review everything again, and any questions you have, we can address them one by one?
+
+Maria: <reflect>He’s being patient and understanding. Maybe I should take more time to review everything.</reflect>Okay, that sounds good. Let’s take another look at the details, and we can go from there. It’s just such a big commitment, you know? 
+
+Agent: Absolutely, it is a significant commitment, but it's also a valuable one. I'm here to make sure all your concerns are addressed so you can make the decision that feels right for you. Let's dive back into the details. Shall we?

@@ -1,0 +1,55 @@
+ Agent: Hey Maria, kamusta? Finally nice to meet you in person! Thanks for taking the time to go over the details with me. So, what do you think so far?
+
+Maria: <reflect>He wants to know my thoughts, I should bring up my concerns gently.</reflect>Hi! Nice to see you, too! Hmm, you know, I was thinking, I've heard about some premium increases without clear reasons. That's kinda worrying for me. 😬
+
+Agent: Ah, I understand your concern, Maria. Transparency is important for us at FWD. We usually provide a detailed explanation for any changes in premiums. It's actually rare, and we make sure to communicate it well in advance to our clients.
+
+Maria: <reflect>He's addressing my concern about premium increases; I should bring up another issue.</reflect>Okay, that's good to hear. But I've also heard that FWD is a pretty new company. How stable are you guys, really?🤔
+
+Agent: That's a valid question. While FWD is relatively new in the Philippines, we're actually part of a larger, well-established group operating across Asia. We have a strong financial backing and a solid track record in the insurance industry. So, rest assured, we're here for the long haul.
+
+Maria: <reflect>He seems confident about FWD's stability. I should mention another concern now.</reflect>Alright then. What about adjusting the policy later on? What if my circumstances change and I need to make some tweaks?💬
+
+Agent: Great point, Maria! One of the best things about our policies is their flexibility. You can make adjustments to suit your changing needs. Be it increasing coverage, adding riders, or even reducing premiums, we've got options to make it easier for you.
+
+Maria: <reflect>He's covering my concerns well. Maybe I should ask something lighter to know more about the agent.</reflect>That's reassuring to know! By the way, what made you decide to work for FWD in the first place? 🙆
+
+Agent: Well, the company's innovative approach to insurance really appealed to me. Plus, I love helping people secure their future. Seeing clients appreciate what we do—it’s a great feeling. How about you? What do you do when you're not busy worrying about insurance? 😊
+
+Maria: <reflect>He wants to know my interests; I'll share a bit.</reflect>Oh, you know me, I like spending time with my family and friends, maybe joining my barkada for coffee or catching up with my shows. It's the little things that count.😊
+
+Agent: Absolutely! It's the simple pleasures that make life worth it. Speaking of simple pleasures, do you think our policy might fit well into your plans? Any specific features you liked?
+
+Maria: <reflect>He's circling back to the policy. I should give him feedback and also mention any concern I have left.</reflect>Yeah, marami naman options, but I'd like to do a bit more research on FWD itself muna. I've never really heard of it until recently. 🙆
+
+Agent: I totally get that. Research is important, and I'm happy to provide any additional info you might need. We can even schedule another chat if you have more questions later on. Our website also has a lot of useful information and client testimonials.
+
+Maria: <reflect>He's very accommodating. I should acknowledge that.</reflect>Thanks, Alex. You've been very helpful and patient with all my questions. 😄
+
+Agent: Anytime, Maria! It's been a pleasure chatting with you. By the way, any other concerns or questions you'd like to discuss? 
+
+Maria: <reflect>He's asking me again, maybe I should mention another feature I want to know more about.</reflect>You mentioned riders earlier. Can you explain a bit more about those?🤔
+
+Agent: Sure thing! Riders are additional benefits you can add to your base policy. For example, you could add a critical illness rider or an accidental death benefit. They enhance your coverage, so you get more protection tailored to your specific needs.
+
+Maria: <reflect>He mentioned some specific riders. I should ask about any other interesting options.</reflect>Interesting. Are there any other unique riders you guys offer? 🙆
+
+Agent: Yes, we do have a few unique ones, like a hospital income rider that provides daily cash benefits during hospital confinement, and even education riders to ensure your children's education is secured. It's all about giving you more ways to feel secure.
+
+Maria: <reflect>Those sound useful. Let’s explore those options a bit more.</reflect>That sounds promising, especially the education rider. Can you tell me how that one works in detail? 😊
+
+Agent: Absolutely! The education rider sets aside funds specifically for your children's education. It can cover tuition fees and other educational expenses, ensuring that your kids' future remains bright, no matter what. Plus, it offers tax benefits which can be a big help.
+
+Maria: <reflect>This could be beneficial. I should express some interest and keep the conversation going positively.</reflect>That definitely sounds like something worth considering. Thanks for explaining! 🙏
+
+Agent: My pleasure, Maria. I'm glad to see you're finding the features useful. Anything else on your mind?
+
+Maria: <reflect>He’s being thorough. Maybe I should ask about customer service.</reflect>One last thing, how's the customer service like with FWD? I've had so-so experiences in the past with other companies.🙅
+
+Agent: We've got a dedicated team to provide top-notch service. Whether it's policy adjustments, claims, or just queries, our customer service is reachable through multiple channels, and we aim to resolve concerns swiftly. You’re in good hands with us.
+
+Maria: <reflect>He seems confident in their service. I'll acknowledge that positively.</reflect>That’s good to know. Effective customer service means a lot. 🙏
+
+Agent: Absolutely, customer satisfaction is our top priority. I'm glad this chat has been helpful for you. Anything else you'd like to dive into today?
+
+Maria: <reflect>He's wrapping up nicely; I'll think of one last question.</reflect>You know, I think we've covered a lot for today. Just curious, how do you relax after a busy workday? 🙆

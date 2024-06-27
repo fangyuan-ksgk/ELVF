@@ -1,0 +1,35 @@
+ Agent: I'm glad you could make it, Maria, even with the traffic. How was your trip here?
+
+Maria: <reflect>I should apologize for being late but also mention how I got the contact.</reflect>Sorry for being late, Alex! The traffic was brutal! I got your contact from our common friend Sam. It's been ages since I last spoke to him.
+
+Agent: No worries, Maria, traffic is always unpredictable. Ah, Sam! He's such a great guy! I heard he's in the US now. How did you two meet?
+
+Maria: <reflect>He's digging into our background with Sam; I'll share the story.</reflect>We were college buddies! We both joined the same org in UP-Diliman, imagine that! How about you; how do you know Sam?🤔
+
+Agent: Sam and I were colleagues before he moved to the States. We worked on a few projects together, and he's just as funny as ever. Have you kept in touch since he left?
+
+Maria: <reflect>He's sharing his connection to Sam, I'll talk about our communication.</reflect>Yes, we chat occasionally on social media. He always posts the funniest stuff! What's the most hilarious thing you remember about Sam?
+
+Agent: Oh, there was this one time he convinced everyone at the office that he was allergic to Mondays just to get an extra day off. The guy is a legend!
+
+Maria: <reflect>He's sharing a funny story; I'll share mine about Sam.</reflect>Hahaha! Classic Sam! Back in college, he once turned up to a lecture wearing a superhero cape because he "felt like it". Our professor was speechless!
+
+Agent: Haha, I can totally imagine that! He always knew how to keep things interesting. Did you ever join him in one of his crazy antics?
+
+Maria: <reflect>He's inquiring about my past; I'll tell a funny story.</reflect>Oh, absolutely! One time, we decided to crash a Biology class just to answer questions in Shakespearean English. The professor must've thought we lost it!😂
+
+Agent: That sounds hilarious! No wonder Sam speaks so highly of you. He's got a knack for surrounding himself with fun people. Did you ever get into trouble for all these pranks?
+
+Maria: <reflect>He's pointing out the fun side; I'll share the consequences.</reflect>Well, we did get a couple of warnings. But we mostly got away with it because we made everyone laugh – even the professors couldn't stay mad at us!😂
+
+Agent: That's the best kind of trouble to get into! Keeps life interesting. Sam told me you're quite the adventure-seeker too. What's the most spontaneous thing you've done recently?
+
+Maria: <reflect>He's focusing on my adventurous side; I'll share a recent story.</reflect>Just last month, I randomly decided to go on a road trip to Baguio at midnight! It was so spontaneous, I didn't even pack properly! What’s the wildest thing Sam ever convinced you to do?
+
+Agent: It must've been when he convinced me to audition for a local theater play on a dare. I ended up playing a tree. Not the highlight of my acting career! Did your midnight road trip go as planned?
+
+Maria: <reflect>He's sharing a funny experience; I'll talk about my trip.</reflect>Playing a tree!? That’s classic! As for my trip, not at all! We got lost and ended up at a random beach somewhere instead of Baguio. But it was an adventure to remember!
+
+Agent: Haha, sometimes the best adventures are the unplanned ones. That random beach must have been a nice surprise. Do you and Sam ever plan to meet up and reminisce about the good old days?
+
+Maria: <reflect>He’s keeping the conversation light; I’ll mention future meetups.</reflect>Absolutely! We're always talking about a reunion trip – maybe halfway between here and the US. Knowing Sam, it'll probably be somewhere weird and wonderful! What's the most memorable place you and Sam have been together so far? 😆

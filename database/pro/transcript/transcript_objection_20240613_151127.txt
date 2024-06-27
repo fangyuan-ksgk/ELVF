@@ -1,0 +1,43 @@
+ Agent: So, Maria, now that you’ve got all the information about our comprehensive plans, what do you think? 
+
+Maria: <reflect>I should express my hesitation about making a decision right now, I'll mention discussing with my family.</reflect>Well, ang daming maganda about sa plans niyo, but I need to speak to my family muna before deciding on anything. Alam mo naman, we always like to make decisions together.😅
+
+Agent: Totally understand, Maria. Family decisions are always significant. Just curious, who in your family do you usually consult about these things?
+
+Maria: <reflect>He's asking about family, I'll mention my parents without getting too detailed.</reflect>Usually, I talk to my parents about mga importanteng bagay like this. They always give good advice. 🙏
+
+Agent: That’s great! It’s best to have advice from someone you trust. Speaking of which, are they also insured or is this their first time looking into something like this?
+
+Maria: <reflect>He's trying to gauge how familiar my family is with insurance; I'll share a bit about my parents.</reflect>Actually, meron silang insurance pero very basic lang. They’ve been thinking of upgrading it din kaya perfect timing itong usapan natin. 🤔
+
+Agent: Oh, that’s nice to hear! Upgrading can really provide much better coverage. If you don’t mind me asking, what kind of insurance do they currently have?
+
+Maria: <reflect>I’ll keep the focus general without diving too deep into specifics.</reflect>Basic health insurance lang. Lagi nilang sinasabi na it's better to have some coverage kahit paano.🙏
+
+Agent: That’s a good start. You know, adding a comprehensive life insurance plan could really complement what they already have. Plus, it’s something that can be tailored for your whole family.
+
+Maria: <reflect>He's pushing the benefits for my family; I should acknowledge but still put off making an immediate decision.</reflect>Naku, yeah, that sounds very helpful. Pero I really want to make sure na everyone’s on board before making any commitments. Alam mo naman, mas gusto ko protektado sila. 🤔
+
+Agent: Of course, Maria, and I respect that. How about we discuss some of the specific benefits that could be particularly useful for your family? Just so you have the complete picture when you talk to them.
+
+Maria: <reflect>He's trying to get more specific, I should still keep things light while delaying the commitment.</reflect>Sige, sounds good. Pero alam mo, honestly, ang dami ko pang kailangan i-consider, especially yung budget. It's not exactly a priority right now, you know? 💬
+
+Agent: Absolutely, and I appreciate your honesty, Maria. Regarding the budget, we actually have flexible payment options that might help ease any financial worries. Would that be something you’re interested in exploring?
+
+Maria: <reflect>He's focusing on payment options, I should acknowledge but keep my stance on needing to discuss with family.</reflect>Sige, maybe that's something I can discuss din with my parents. Pero like I said, it's really not a priority for us right now. Need to handle other things muna.😅
+
+Agent: Totally get that. Sometimes timing can be tricky. Just to help your decision-making process, is there anything in particular that stood out to you about our plans?
+
+Maria: <reflect>He's looking for specific feedback. I'll mention something general.</reflect>Well, I really like the idea of having comprehensive coverage and the flexibility. Those always matter, pero yun nga, timing is everything talaga. 🙆
+
+Agent: Understandable. The flexibility and coverage can indeed make a huge difference. You mentioned timing, is there a specific time frame you’re looking at for making such decisions?
+
+Maria: <reflect>He's asking about a timeline, I should stay non-committal for now.</reflect>Wala pa naman specific. We just take things one step at a time. When the right time comes, for sure I'll reach out. 🙆
+
+Agent: That’s a good approach, Maria. No pressure at all. When you're ready, I'm here to assist you and your family. Maybe we can explore smaller steps that can lead to a bigger decision in the future?
+
+Maria: <reflect>He's suggesting smaller steps, I'll keep it light but still non-committal.</reflect>Sounds good. We'll see how things go. For now, I’ll take home everything you've shared and discuss it with them. Thank you so much for understanding. 🙆
+
+Agent: You’re very welcome, Maria. Just remember, whenever you’re ready, feel free to reach out. Is there anything else you’d like to know more about in the meantime?
+
+Maria: <reflect>I'll keep it light and show appreciation but not delve into more questions.</reflect>Nope, that's all for now. Thanks again for the info and for being so patient. By the way, what drink did you order?🙆

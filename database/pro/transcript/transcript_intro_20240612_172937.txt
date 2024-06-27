@@ -1,0 +1,51 @@
+Agent: So, Maria, you mentioned you don’t know a lot about FWD Insurance. How can I help clear things up for you?
+
+Maria: <reflect>He's asking what I need to know. Maybe I should ask what makes them special.</reflect>Yes, exactly. I’ve only seen your ads around. I’m curious, what makes FWD better than other insurance companies here in the Philippines?🤔
+
+Agent: Great question! For starters, FWD is known for its customer-centric approach. We make sure our policies are easy to understand and claims are processed quickly. Have you had any experiences with other insurance companies?
+
+Maria: <reflect>He’s asking about my past experiences. I should mention my minimal experience.</reflect>Actually, wala masyado. Just a basic health insurance from work. But what do you mean by 'customer-centric'? It's medyo broad eh.💬
+
+Agent: By 'customer-centric,' I mean we really focus on making things simple for our clients. Our plans are transparent with no hidden fees. We also use technology to make the process smoother. Have you ever had to file a claim before?
+
+Maria: <reflect>He’s asking if I’ve filed a claim. I should mention that I haven’t.</reflect>Naku, never pa! I guess I’ve been lucky so far. But quick question – how does your technology make things smoother?🤔
+
+Agent: Good to know you’ve never had to! Well, our mobile app allows you to manage your policy, file claims, and even consult with doctors online. Less paperwork and more convenience. Do you use a lot of apps for other services?
+
+Maria: <reflect>He’s talking about their app. I should mention that I do use apps.</reflect>Yes, I rely on apps for almost everything – from banking to food delivery. Pero, managing an insurance policy through an app, is that secure?💬
+
+Agent: Absolutely! We use top-notch security measures to protect your data. Plus, with encrypted transactions, you can be assured your information is safe. Do you usually feel secure doing transactions online?
+
+Maria: <reflect>He’s asking if I feel secure online. I should talk about my general experience.</reflect>Generally, yes. As long as there's proper encryption and security features, I'm okay. But still, it can be tricky, right? So, what other features does your app have?🙆
+
+Agent: It’s definitely important to stay cautious online. Aside from managing your policy and filing claims, our app lets you track your investments, access wellness tips, and join community events. Any of those sound useful to you?
+
+Maria: <reflect>He’s listing features. I should point out what sounds interesting.</reflect>The wellness tips and community events sound interesting. It’s like you guys are more than an insurance company. How do these events work?🙆
+
+Agent: Correct! We aim to be a partner in your overall well-being. Our community events vary – we’ve had wellness webinars, financial planning workshops, and even fun runs. Have you ever attended similar events before?
+
+Maria: <reflect>He’s asking about my past event experiences. I should answer and pivot.</reflect>Not really, but they do sound fun! Pero, focusing back on the technology – how user-friendly is your app? My mom's using my backups, baka she'll need her own.🙏
+
+Agent: Don’t worry, our app is designed for all age groups. We have a dedicated support team to help with any questions your mom might have. Do you think she'd be comfortable using a mobile app for her insurance needs?
+
+Maria: <reflect>He's addressing my concern for my mom. I'll answer and ask another question.</reflect>That’s good to know! She’s pretty tech-savvy for her age. So, what’s your top-selling policy? 🤔
+
+Agent: Our top-selling policy would be the Set for Life plan. It’s a versatile policy offering both life coverage and an investment component. Perfect for securing your future. Are you interested in policies with investment options?
+
+Maria: <reflect>He’s mentioning an investment component. I should express my curiosity.</reflect>Investment options sound intriguing. How does it work, combining insurance with investment?🤔
+
+Agent: It's a great way to have protection while growing your money. Part of your premium goes into an investment fund of your choice, so you gain from market growth. You can even switch funds based on your financial goals. Are you familiar with investment funds?
+
+Maria: <reflect>He's explaining the investment part. I should mention I'm somewhat familiar.</reflect>Yes, somewhat. I have a bit invested in mutual funds. Sounds like your policy is quite flexible. Any additional benefits?🙏
+
+Agent: Yes, it is very flexible! Additional benefits include access to our wellness programs, a loyalty bonus after a few years, and a coverage booster for critical illnesses. Does that sound like something you'd be interested in?
+
+Maria: <reflect>He's listing more benefits. I'll acknowledge and ask another question.</reflect>Oo, interesting! So, what’s the approval process like? Is it tedious?🙆
+
+Agent: Good question! Our approval process is streamlined. You could complete most of it online and within a few days, you’ll get a response. Medical exams are usually required, but we try to make it as hassle-free as possible. How does that sound to you?
+
+Maria: <reflect>He's making it sound easy. I'll delve further.</reflect>That sounds convenient. But do you offer any packages that don't require medical exams? My friend might be interested.💬
+
+Agent: Yes, we do have policies that don’t require medical exams, more like simplified issue policies. They’re quicker to issue, although the coverage might be lower. Does your friend prefer quick approval over higher coverage?
+
+Maria: <reflect>He's explaining the simplified policies. I'll point out the preference.</reflect>Knowing her, she’d prefer the quicker approval. So one last thing, how often do you update the app?🤔

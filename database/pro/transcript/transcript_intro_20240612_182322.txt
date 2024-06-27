@@ -1,0 +1,51 @@
+ Agent: Hi Maria! Ikaw si Maria, tama? I'm Alex from FWD Insurance. Kamusta, finally nice to meet you!
+
+Maria: <reflect>He's confirming my name and introducing himself. I'll respond positively and reciprocate the excitement.</reflect>Hi Alex! Yes, it's Maria. Finally nice to meet you din! Kamusta ka naman? 😆
+
+Agent: I'm doing great, thanks for asking. You know, the traffic on the way here was no joke. How was your trip? 
+
+Maria: <reflect>He's sharing about the traffic; I'll respond with a relatable experience.</reflect>Ay grabe! It was like paandar-stop every 5 seconds! But shout-out to my playlist for keeping me sane. 😜
+
+Agent: Haha, good thing you had your music. So, what do you usually do to pass the time in traffic?
+
+Maria: <reflect>He wants to know what I do in traffic, I'll answer with something fun.</reflect>Well, I usually watch my backlog of K-dramas on my phone. Traffic is my binge-watching session! 😂
+
+Agent: That's a great way to pass the time! Ano’ng latest K-drama na pinapanood mo?
+
+Maria: <reflect>He's interested in my K-drama watching habits; I'll share and shift the topic slightly.</reflect>Oh, it's Crash Landing on You, syempre! Nakaka-kilig sobra! But enough about my love for K-dramas, tell me, bakit nga ba insurance? 💬
+
+Agent: Ah, good choice! Anyway, about the insurance—I've always wanted to help people secure their future. It's fulfilling to know you're making a difference. By the way, have you thought about what you’d like to secure for your future?
+
+Maria: <reflect>He's sharing his motivation and asking me about my thoughts. I'll keep it light but sincere.</reflect>Naku, honestly, I'm still figuring it out. Siguro securing something for my family first. You know, just in case... 🙏
+
+Agent: That’s a good point. It's really important to think about our loved ones. Speaking of family, are you close with yours?
+
+Maria: <reflect>He's steering towards a personal angle; I’ll share a bit about my family without getting too deep.</reflect>Oh definitely! We're a big family, and we love to gather for Sunday lunches. Life's too short not to! How about you, gaano ka-close sa family mo? 🙆
+
+Agent: That's wonderful! Ako naman, we're pretty tight. We always find reasons to get together. Family makes life colorful, diba?
+
+Maria: <reflect>He's sharing more about his personal life, I’ll keep it engaging.</reflect>Absolutely! Parang everyday is a fiesta! Speaking of fiestas, do you enjoy attending Filipino festivals or events?
+
+Agent: Of course! I love the energy and the food—especially the food! How about you, any favorite Filipino festival?
+
+Maria: <reflect>He shares interest in festivals; I'll share mine too.</reflect>No contest, it's Sinulog! The street dancing and drumbeats always get me hyped! Have you ever been? 🙆
+
+Agent: Yes, once! It was an unforgettable experience. Ok, going back, since you mentioned you’re figuring plans for securing your family's future, mind if I share some options that might interest you?
+
+Maria: <reflect>He's circling back to the main topic, I'll let him introduce the options.</reflect>Sure, I'd love to hear what you have in mind. But first, how long have you been in this field, Alex? 🤔
+
+Agent: I've been in the insurance industry for about five years now. It’s been quite the journey. So, one of the plans I have in mind is...
+
+Maria: <reflect>He has experience which is reassuring; I’ll take interest in his suggestion.</reflect>Wow, that's impressive! Go on, I'm intrigued about these plans you're mentioning. 🤔
+
+Agent: Thank you! One of our popular plans is the life insurance with investment features. It not only covers life insurance but also helps you grow your savings. 
+
+Maria: <reflect>That sounds versatile; I should show some curiosity.</reflect>Really? That's interesting! So parang hitting two birds with one stone. How does it actually work? 🙆
+
+Agent: Exactly! It works by allocating a portion of your premium into investment funds that grow over time. So while you're covered, your funds are also growing. Very practical, right?
+
+Maria: <reflect>This sounds beneficial, I’ll continue showing interest.</reflect>Wow, tama nga naman! That really gets me thinking. Do you have any clients who were super thankful for this kind of policy? 🙆
+
+Agent: Yes, maraming stories of gratitude. One client was able to use the investment fund for their child's college tuition fee. It's really rewarding to see that. 
+
+Maria: <reflect>That’s a touching story; I should acknowledge it while keeping it light.</reflect>Nakaka-taba ng puso to hear stories like that! Maybe I should start considering these things more seriously. Any downsides I should be aware of? 🙆

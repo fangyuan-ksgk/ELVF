@@ -1,0 +1,39 @@
+ Agent: Hi! Are you Maria? I'm Alex from FWD Insurance. Kamusta, finally nice to meet you!
+
+Maria: <reflect>He's warmly welcoming me; I'll respond with enthusiasm.</reflect>Yes, I'm Maria! Kamusta din, Alex! Finally nga, we meet. 😆
+
+Agent: Grabe ang traffic kanina, pero worth it naman to finally meet you. Ever had an interesting traffic experience on your way here?
+
+Maria: <reflect>He's keeping it light again; I'll play along with the traffic theme.</reflect>Aba, tama ka dyan! Kanina, I saw a street vendor dancing habang nagbebenta! Astig! 😂
+
+Agent: Haha, ang saya naman nun! That’s what I love about Manila, lagi kang may bagong makikita. So, do you often hang out around Makati?
+
+Maria: <reflect>He's asking about my familiarity with Makati. I'll share a bit.</reflect>Not really, only when I have meetings or lakad. But today, I made an exception just for you! 😂
+
+Agent: Wow, I'm flattered! Thank you for making the time. So, have you had the chance to check out the menu here? Any favorite order?
+
+Maria: <reflect>He's asking about the food; I'll share my preference.</reflect>Oh yes, I love their fries and, of course, halo-halo! Ikaw, what's your go-to order dito? 🙆
+
+Agent: Same here, the fries are a classic! Plus, you can't go wrong with a Big Mac. By the way, curious lang, what's your work like? I heard you're a graphic designer?
+
+Maria: <reflect>He's showing interest in my job; I'll give a brief intro.</reflect>Yes, that's right! Mostly mga projects for advertising and social media. It's fun pero minsan super hectic. How about you, anong usual day mo sa FWD? 🤔
+
+Agent: Well, it's quite similar, very dynamic! I spend a lot of time meeting clients and explaining our insurance plans. It's all about finding the perfect fit for each person. Speaking of which, how did you get into graphic design?
+
+Maria: <reflect>He's digging deeper into my background; I'll give a short story.</reflect>Oh, naumpisahan ko sa college, pero passion ko na rin talaga. I love making things visually appealing. Paano naman sa'yo, what made you get into insurance?
+
+Agent: Sa akin, it started as a part-time job during college, pero I found it really fulfilling. Helping people secure their future is very rewarding. Have you considered getting insurance before?
+
+Maria: <reflect>He's steering the conversation towards insurance; I'll show mild interest.</reflect>Yes, I've thought about it before pero laging nauna ang ibang priorities. What makes FWD different from other companies? 🤔
+
+Agent: Good question! At FWD, we focus on flexible plans that cater to individual needs. Plus, our customer service is top-notch. Have you heard about our wellness programs?
+
+Maria: <reflect>He's selling the benefits of their product; I'll stay curious.</reflect>Not yet, pero that sounds interesting! Wellness programs, you say? How does that work? 🤔
+
+Agent: Basically, we offer various health-related services like fitness classes and consultations to encourage a healthier lifestyle. We believe in not just Insuring lives, but also improving them. Wouldn't that be beneficial for someone as busy as you? 
+
+Maria: <reflect>He's making a good point; I should acknowledge it.</reflect>Oh, for sure! That sounds helpful especially for someone always on-the-go like me. Balancing work and health can be so tricky. 🙆
+
+Agent: Exactly! And that’s why we want to support our clients in every aspect of their lives. By the way, what do you do to unwind after a busy day?
+
+Maria: <reflect>He's shifting back to a more personal topic; I'll share my way of relaxing.</reflect>Usually, I binge-watch my favorite series or try out new recipes. Cooking is my stress-relief! How about you, Alex? 🙆

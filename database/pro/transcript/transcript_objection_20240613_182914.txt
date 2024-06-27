@@ -1,0 +1,42 @@
+ Agent: So Maria, what do you think about the coverage we've discussed so far? I believe our policies offer great benefits.
+
+Maria: <reflect>I don't want to overpay for coverage I don't need.</reflect>Well, you know, I have to be honest. I'm a bit hesitant kasi I don't want to overpay for coverage that I don't really need. 🙆
+
+Agent: I understand, Maria. Overpaying is definitely not something anyone wants to do. Our policies are actually very flexible. You can choose the coverage that really fits your needs and nothing more. What specific concerns do you have about overpaying?
+
+Maria: <reflect>Discussing flexibility is good, but I have assets that might cover my needs already.</reflect>I get that, but you see, I have a few assets na rin that I think might cover my needs in the future. So, parang, I’m not sure if it’s necessary for me to get more coverage. 🙅
+
+Agent: That's good to hear na you have assets. Having assets can help, but it's also important to think about liquidity. Assets can take time to convert to cash during emergencies, unlike an insurance policy, which gives you immediate financial support. Have you thought about this aspect?
+
+Maria: <reflect>I'm healthy, why would I need insurance right now?</reflect>That's true, but honestly, I’m healthy naman. I exercise, I eat well, and I haven't had any major health issues. So why would I need insurance at this point in my life?🤔
+
+Agent: That's great to hear that you're healthy, Maria! But health can be unpredictable, and insurance is about planning for the unexpected. Being proactive while you're in good health can actually get you better rates and coverage. Have you considered how insurance can complement your existing health routine?
+
+Maria: <reflect>I have a financial advisor who helps me plan these things.</reflect>Well, I have a financial advisor that I trust and he helps me plan these things. He's been doing a good job so far. 🙋
+
+Agent: That's excellent, having a financial advisor is a great step. Many of our clients actually come to us upon the recommendation of their financial advisors. We've worked hand-in-hand with financial planners to create customized policies that fit perfectly into their financial plans. Do you think your advisor might be open to discussing a tailored plan for you?
+
+Maria: <reflect>This sounds convincing, but still, I'd rather invest the money elsewhere.</reflect>Maybe, but to be honest, I'd rather invest the money elsewhere. Investments can grow over time, and it's more appealing to me. 💬
+
+Agent: Investing is definitely a wise choice, Maria. However, it's also important to diversify your financial strategy. Insurance isn't just an expense; it's a safety net that ensures your investments can continue growing even if life's unpredictable events occur. How do you feel about combining both strategies for more comprehensive financial security?
+
+Maria: <reflect>He's making a point, but I think I am saving enough as it is.</reflect>I think I’m already saving enough. I have my emergency fund, and I regularly put money into my savings and investments. So, isn't that enough? 🙃
+
+Agent: Saving and having an emergency fund are great practices, Maria. Insurance can actually complement your savings. In the event of a major life event, your savings might get depleted quickly, while an insurance policy would provide you with additional funds to stabilize your situation. How comfortable are you with the idea of having that extra layer of security?
+
+Maria: <reflect>I guess additional security sounds good, but it's an unnecessary expense.</reflect>I get your point, but I still think it's an unnecessary expense na it, ang mahal din kasi eh.🤔
+
+Agent: I hear you, Maria. While it might seem like an additional expense now, think of it as an investment in your peace of mind. Being protected means you and your loved ones can focus on rebuilding and moving forward without financial stress if something happens. Have you ever thought about how this peace of mind could be an invaluable addition to your current financial strategy?
+
+Maria: <reflect>I have assets that might cover my needs already.</reflect>Well, kasi nga I have assets already. I have properties and some investments. Can't they just cover my needs?
+
+Agent: Your properties and investments are valuable assets, Maria. But remember, they might not be readily accessible or might have to be liquidated under duress, often at a loss. Insurance provides immediate liquidity and alleviates the pressure to sell assets under unfavorable conditions. Have you considered how protecting your assets through insurance can actually help preserve their value?
+
+Maria: <reflect>This sounds convincing, but still, I'd rather invest the money elsewhere.</reflect>Hmmm, interesting point. But really, I just think investing my money elsewhere sounds more appealing. Investments can grow over time unlike insurance premiums, di ba?
+
+Agent: Absolutely, investing is essential and can yield significant returns. However, insurance plays a different but equally important role. It ensures that your investments aren't compromised by unforeseen events. Combining both might be the key to a well-rounded financial plan. Have you ever thought about how this approach could complement your current strategy?
+
+Maria: <reflect>That makes sense but I don’t want to overpay for something I might never use</reflect>You've got a point, but still, I worry about paying for something I might never even use. 🙆
+
+Agent: That's a valid concern, and it's quite common. Think of insurance as a safety net—one you hope you never have to use, but it's invaluable if you do. While you may not directly 'use' it, the peace of mind and financial security it offers is a significant return on your investment. Is having that level of assurance something you think would add value to your overall financial strategy?
+

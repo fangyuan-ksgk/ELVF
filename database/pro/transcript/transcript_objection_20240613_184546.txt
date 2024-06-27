@@ -1,0 +1,57 @@
+ Agent: Maria, thank you for taking the time to discuss our insurance products. What do you think about them?
+
+Maria: <reflect>I think the products seem good, but I have my doubts about needing insurance.</reflect>Alex, honestly, I already have my own emergency fund. Parang unnecessary expense lang ang insurance for me, you know? 🙆
+
+Agent: I understand where you're coming from. Having an emergency fund is great! But did you know life insurance offers more than just financial support? It provides peace of mind. What if there’s an unexpected medical need that your fund might not cover?
+
+Maria: <reflect>He makes a point, but I'm still healthy. I'll mention that.</reflect>Well, I get that pero I'm healthy naman, I don't think I'll need it anytime soon. 🙆
+
+Agent: That's wonderful to hear that you're in good health, Maria! Our insurance isn't just for health issues; it also covers sudden life changes that could impact your financial stability, like accidents or job loss.
+
+Maria: <reflect>He keeps addressing my points, but I still see it as an expense.</reflect>Hmm, I still feel it's an unnecessary expense. Tambak na rin sa gastusin, eh. 🤔
+
+Agent: I see your concern about expenses. But consider this, the small premium you pay now can potentially save you or your loved ones from higher financial trouble in the future. It's more like an investment in your financial security.
+
+Maria: <reflect>Hmm, sounds like an investment, but I have a financial advisor. I'll bring that up.</reflect>Well, I already have a financial advisor who helps me manage my money. So, baka redundant na kung kumuha pa ako ng insurance. 🙆
+
+Agent: It's great that you have a financial advisor, Maria. I think you both can work hand-in-hand. Your advisor can help with investments and savings, while insurance provides a safety net for unforeseen events.
+
+Maria: <reflect>He thinks they complement each other. I should think of another concern.</reflect>That’s interesting. Pero, what if I decide to quit smoking? Would that affect my eligibility or the rates?
+
+Agent: Good question! Quitting smoking can actually lower your premium rates after a certain period of staying smoke-free. Plus, it shows a commitment to a healthier lifestyle, which is a win-win.
+
+Maria: <reflect>I didn't expect quitting would affect rates. But what about my history of illness?</reflect>What if I have a history of illness? Will that disqualify me from getting insurance? 🙆
+
+Agent: It won't disqualify you, but it might affect the premium slightly. We assess each case individually. The important thing is to provide accurate information for the best policy suited to your needs.
+
+Maria: <reflect>He has answers for everything, but premium increase worries me.</reflect>Hmm, but a higher premium still worries me. What's to prevent it from getting too high to manage? 🙆
+
+Agent: That’s a valid concern. We have different plans tailored to various budget ranges. You can choose a plan that fits your budget without compromising coverage. There are flexible payment options too.
+
+Maria: <reflect>Flexible options might be interesting, but let me ask about long-term savings.</reflect>I see. Paano naman ang long-term savings and benefits? Can you shed more light on that? 🙆
+
+Agent: Absolutely! Many of our plans offer cash value accumulation and can earn dividends over time. This way, your policy can contribute financially in the long-term, not just as a safety net.
+
+Maria: <reflect>That's intriguing—I didn't know about dividends. But back to premiums, any discounts?</reflect>Okay, sigh. Are there any discounts or ways to lower premiums, aside from quitting smoking? 🙆
+
+Agent: Yes, maintaining a healthy lifestyle and opting for a longer-term policy can lower your premiums. Also, bundling different insurance products often comes with discounts.
+
+Maria: <reflect>Sounds like there are ways to manage premiums, but what if I travel a lot?</reflect>I travel a lot for work, does that complicate anything? 🙆
+
+Agent: Not at all! Our policies cover you locally and internationally. Whether you're here in the Philippines or abroad, you'll have peace of mind.
+
+Maria: <reflect>Okay, that's reassuring. He’s making strong points but should I quickly think of last question.</reflect>What happens if I miss a premium payment? 🙆
+
+Agent: We have a grace period for premium payments, Maria. If you miss one, you have a certain number of days to make the payment without losing your coverage. It’s designed to be flexible to your needs.
+
+Maria: <reflect>Flexible payment terms are good. Should ask about other hidden charges.</reflect>Hmm, are there any hidden charges or fees that I should be aware of? 🙆
+
+Agent: There are no hidden charges, Maria. Everything is laid out clearly in our policy documents. Full transparency is a key part of how we do business.
+
+Maria: <reflect>Transparent terms are good. Let me steer towards my last concern.</reflect>That’s good to know. What if I decide to cancel my policy later? Is there anything specific I need to consider? 🙆
+
+Agent: You can cancel anytime, though there may be some surrender charges depending on how long you've held the policy. Our goal is to ensure you're always informed about your options.
+
+Maria: <reflect>That sounds fair. He's addressed most of my concerns.</reflect>Okay, Alex, you've given me a lot to think about.🙆
+
+

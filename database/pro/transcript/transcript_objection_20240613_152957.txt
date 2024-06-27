@@ -1,0 +1,51 @@
+ Agent: I'm glad we got to discuss the details of our life insurance policies. Do you have any questions or concerns, Maria?
+
+Maria: <reflect>I have some concerns about this company and product. I'll mention them and see his response.</reflect>I do have a few questions. First, I haven't really heard much about FWD before. Is this a new company?🤔
+
+Agent: Great question, Maria. Actually, FWD is relatively new in the Philippines, but it’s part of the Pacific Century Group, which has a strong financial foundation and presence in several Asian markets. We're committed to providing innovative and user-friendly insurance products.
+
+Maria: <reflect>Okay, he's answered that. Now I'll bring up another concern about trust.</reflect>Alright, but I also heard about other insurance companies having premium increases without clear reasons. How do I know that won't happen here?🙅
+
+Agent: That’s a valid concern. At FWD, we pride ourselves on transparency. We make sure our customers are well-informed about any changes to their policies. Plus, we have dedicated customer support to address any issues or questions you might have. 
+
+Maria: <reflect>He's addressing my trust issues, let's see how he handles this next one.</reflect>Okay, that's good to hear. But another thing, I usually do my own research before making decisions. How do I know I can trust the information you're giving me?🙅
+
+Agent: I fully understand that, Maria. It's always good to do your own research. While I can provide you with all the necessary documents and brochures, we also have an array of customer testimonials and independent reviews available online. You can verify our standing and credibility through those as well.
+
+Maria: <reflect>He's providing options for verification. I'll mention my budget concerns next.</reflect>Thanks for that. You know, one thing I'm also worried about is the premium. Can I really afford this given my budget constraints?😢
+
+Agent: I totally get where you're coming from. We have flexible payment options that can fit various budgets. Plus, our team can help you prioritize and customize your plan so that it won't be a financial burden.
+
+Maria: <reflect>He's addressing affordability. Let's see how he reacts to the idea of me finding better options elsewhere.</reflect>But what if I find better insurance options elsewhere? Is FWD really the best choice for me?🤔
+
+Agent: It’s important to compare and find what suits you best. FWD offers unique benefits like instant approval for certain policies and a straightforward claims process. We also focus on providing good value with features that cater to your specific needs. 
+
+Maria: <reflect>Hmm, I should inquire about policy adjustments in the future.</reflect>Can I adjust the policy later on if my needs change? I heard some companies don’t allow that.🙆
+
+Agent: Absolutely! Flexibility is one of our key features. As your life circumstances change, you can make adjustments to your policy like updating beneficiaries or tweaking coverage amounts. We aim to adapt to your evolving needs.
+
+Maria: <reflect>He's reassuring about policy flexibility. Let's bring up the research thing again since it's important to me.</reflect>Okay, that sounds good. But really, I prefer to do my research before committing. Can you give me more resources that I can look into?🙅
+
+Agent: Of course! I can email you detailed information and links to our website, where you’ll find in-depth guides and customer reviews. You can also visit our office if you want to speak to more of our advisors in person.
+
+Maria: <reflect>He's offering more information and a visit option. I'll acknowledge that.</reflect>Alright, I'll definitely look into that. You know, it’s always better to be informed.👍
+
+Agent: Definitely, Maria. It's important to make an informed choice. Have you had any experience with other insurance providers before?
+
+Maria: <reflect>I'll share a bit about my past experience.</reflect>Yes, I had a policy a few years back, but it wasn’t a great experience. That’s why I'm cautious now.🙏
+
+Agent: I understand, past experiences can really shape your perspective. We really strive to offer a different, more positive experience for our clients. Will it help if I walk you through some client testimonials?
+
+Maria: <reflect>He's persistent in reassuring me through testimonials, that's a good move.</reflect>Sure, testimonials would be helpful. It would give me a better idea of what to expect.👍
+
+Agent: Great! I'll compile some for you and send them along with the other resources. So aside from insurance, what else have you been up to lately?
+
+Maria: <reflect>He's trying to steer the conversation towards a more casual topic. I'll share a bit about my recent activities.</reflect>Well, I've been really into gardening lately. It's quite therapeutic amidst all this chaos.🙆
+
+Agent: That’s wonderful. Gardening does seem like a great way to relax. What kind of plants are you growing?
+
+Maria: <reflect>Stay light and continue the conversation.</reflect>Mostly succulents and some herbs. They're low-maintenance and perfect for someone like me who’s always busy. How about you? Any hobbies?🙏
+
+Agent: Interesting! Oh, I’m more into hiking and exploring nature. It's my way of unwinding during weekends. It’s a good way to stay active and enjoy the great outdoors.
+
+Maria: <reflect>He seems friendly and open. I'll keep the conversation going.</reflect>Nice! I should try hiking sometime. Any favorite spots you recommend?💬

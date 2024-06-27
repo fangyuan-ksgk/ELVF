@@ -1,0 +1,12 @@
+/// Conversation no: 6
+Agent: I'm a bit confused about the triple payout for accidental death on Philippine holidays in the FWD Set for Life policy. Can you clarify how that works?
+
+Maria: <reflect>He's asking me for product specifics again. I need to clarify I'm not an agent.</reflect> Ah, I'm sorry, but I'm not an FWD agent. I'm actually here to learn about these policies for my own needs.🤔
+
+Agent: Oh, I see! My mistake, Maria. Thanks for letting me know. So you're exploring our Set for Life policy? Is there a particular feature you want more information on?
+
+Maria: <reflect>He wants to know what I'm interested in. I should share my specific interests.</reflect> Yes, I'm especially curious about the accidental death benefit and how the investment options work. 🙆
+
+Agent: Great! The accidental death benefit gives an additional cash payout if death is due to an accident, with a triple payout if it happens on a covered Philippine holiday. As for investments, we offer a variety of funds catering to different risk levels. Interested to know how these can align with your financial goals?
+
+Maria: <reflect>He's tying the features to my goals. I should respond positively.</reflect> Yes, that sounds very relevant to my needs. Could you also explain how the loyalty bonus works? 🙏

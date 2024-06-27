@@ -1,0 +1,48 @@
+ Agent: Maria, I’m glad we’ve discussed the different policies that FWD has to offer. Now, are there any concerns or objections you have in mind?
+
+Maria: <reflect>Mukhang gusto niya akong maconvince na kumuha ng insurance, but I have concerns about my health.</reflect>Well, I don't think I am allowed to get life insurance because I smoke. Baka hindi na ako qualified. 🙆
+
+Agent: Naku, Maria, that's a common concern pero rest assured, may solutions tayo diyan. Sa FWD, we understand that many people smoke and we have policies that can accommodate smokers. Does that sound reassuring?
+
+Maria: <reflect>Okay, he addressed smoking, how about my medical history?</reflect>Really? But what if I have a history of illness? Di ba, bawal din yun? 🙆
+
+Agent: Good question, Maria. Ang maganda kasi dito sa FWD, we carry out medical checks and assess each case individually. Having a history of illness doesn't automatically disqualify you. In fact, we cater policies that could still work for you. Ano ba ang mga existing conditions mo if you don’t mind sharing?
+
+Maria: <reflect>Okay, that's interesting, but I really have a lot of doubts.</reflect>Hmm, that's quite reassuring Alex, pero I really need more details. Like what happens if I get diagnosed with something serious after getting the insurance? 🙆
+
+Agent: Maria, you have nothing to worry about. It really depends on the condition, but for many policies, once you’re accepted, you’re covered regardless of any sickness diagnosed after. Kailangan lang talagang maireport agad and comply with our policy terms. Mas detailed info tayo may FAQs, puwede ko ipakita sa 'yo. What do you think?
+
+Maria: <reflect>His answers are detailed but there's still a bit of confusion.</reflect>Okay, that makes sense pero isn't it expensive when you have pre-existing conditions? 🙆
+
+Agent: Excellent point, Maria. Insurance premiums can be more expensive for those with pre-existing conditions, but we try our best to offer competitive rates. Usually, once we do a proper risk assessment, we can offer a realistic and fair premium. Would you be interested in knowing the full process on how we evaluate this?
+
+Maria: <reflect>He's addressing everything in detail. Let's see how personalized it can get.</reflect>Yeah, but how personalized is this assessment? I mean, di ba baka itsura lang ako ng numbers sa kanila? 🙆
+
+Agent: Great question, Maria. At FWD, we take a very individualized approach. We look at your unique situation and tailor our services to fit your needs. You are never just a number to us—part of our values is to really understand our clients. Maybe if you visit our office, you can see our process first-hand. Would that be helpful?
+
+Maria: <reflect>That’s good to know. I’m quite curious about how other people view their experience.</reflect>Interesting. What do your other clients say about their experience with assessments and policies? 🙆
+
+Agent: Oh, marami talaga ang satisfied and relieved once they understand the flexibility and accommodation we offer. Madami nang natulungan ng FWD who have similar concerns as yours—many of them appreciate how we go the extra mile. Would you like to review some of their testimonials?
+
+Maria: <reflect>Testimonials will give a better picture.</reflect>Yes, I think that would help. It’s reassuring to know na may happy clients kayo. Pero di ba sometimes it takes a long time ang approval?
+
+Agent: Depende, Maria, but we strive to make the process as efficient as possible. Standard processing time might take a few weeks, but most clients find it quicker than they expected. Our goal is to make sure that you're informed and covered as soon as possible. Does that ease your concern a bit?
+
+Maria: <reflect>That does ease the concern, but still wondering about claims.</reflect>Yes naman, that’s comforting. Pero how about sa claims process? Baka maging hassle yan rin? 🙆
+
+Agent: Understandable na concern yan, Maria. Our claims process is structured to be straightforward and easy to navigate. We provide support every step of the way, so di ka magiging hassle na makuha ang claims mo. Gusto mo ba malaman ang mga specific steps on filing a claim?
+
+Maria: <reflect>His answers have been good. Another concern regarding commitment.</reflect>Yes, please. And I was also wondering, how long do I need to commit to these plans? Baka it's too long term? 🙆
+
+Agent: Great question, Maria. Commitment periods vary per policy. Meron tayong short-term and long-term plans to fit different needs and budgets. I can provide more details on both options if you’re interested. Do you prefer short-term flexibility or long-term security?
+
+Maria: <reflect>Flexibility sounds great but I need to understand the cost too.</reflect>Short-term flexibility sounds good to me, pero wouldn’t that be more costly compared to long-term security? 🙆
+
+Agent: That’s a valid observation, Maria. Short-term plans can indeed have higher premiums, but the flexibility might be more beneficial depending on your current situation. We can evaluate which plan suits you financially better and gives you the protection you need. Would you like to schedule a detailed consultation for this?
+
+Maria: <reflect>His answers have been reassuring, open to discussing more.</reflect>I think that sounds like a plan, Alex. Mahirap mag-commit without knowing everything.🙆
+
+Agent: Absolutely, Maria, I understand completely. Taking the time to understand everything thoroughly ensures you make the best decision for yourself. Are there any other concerns you’d like to discuss right now?
+
+Maria: <reflect>Let's see if he's ready to address immediate issues fully.</reflect>Yes, what if I change my mind halfway through the policy duration? 🙆
+

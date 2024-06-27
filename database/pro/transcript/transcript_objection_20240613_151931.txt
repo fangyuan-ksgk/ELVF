@@ -1,0 +1,43 @@
+ Agent: Maria, it’s great having this conversation with you. Have I explained everything about our policy clearly?
+
+Maria: <reflect>Need to touch on my family.</reflect> Yes, you have, Alex. But you know, I really need to speak to my family first before making a decision. Planning kasi is a family affair for us. 🙆
+
+Agent: I totally understand that, Maria. It's important to get everyone on board. May I ask, is there a specific concern your family might have about insurance?
+
+Maria: <reflect>Not urgent.</reflect> Well, to be honest, getting insurance isn’t really a priority right now. We have other things to focus on kasi, like saving for future travels and hobbies. 💬
+
+Agent: That’s very valid, Maria. Planning for travels and hobbies are important. Did you know, however, that having insurance can actually help secure those future plans? It provides a safety net so you won’t have to worry about unexpected expenses eating into your travel funds.
+
+Maria: <reflect>Address timing.</reflect> Ah, that's interesting, Alex. But I feel like now is not the best time to discuss this in detail. We have a lot going on and I’m still young and healthy. 💬
+
+Agent: I get where you're coming from, Maria. Your health is a blessing! Insurance is actually most affordable when you’re young and healthy. It’s like getting something at a discount, di ba? Timing-wise, it can secure your future while you focus on your present activities.
+
+Maria: <reflect>Ask another question.</reflect> Okay, that makes sense somehow. I'm curious though, what if I decide to travel more frequently in the future? Will the policy still cover me even when I'm abroad? 🤔
+
+Agent: Great question, Maria! Yes, your policy will still cover you when you're abroad. It's designed to be flexible and comprehensive for different life stages, perfect for someone dynamic like you.
+
+Maria: <reflect>Still not immediate priority.</reflect> Hmm, alright. Aside from that, I’m also not supporting anyone with my income (yet). So parang, it doesn’t feel too urgent right now. 💬
+
+Agent: That's another good point, Maria. Actually, having insurance is also about securing your future income. It's about ensuring that, down the road, you won't need to worry about unforeseen expenses taking a huge bite out of your income, whether you're supporting someone or not.
+
+Maria: <reflect>Continue to stretch the timeline.</reflect> I see what you're saying. Still, for me, it feels like something I can think about later on. Life's busy enough with everything else right now. 🙆
+
+Agent: Certainly, Maria. Life can really be a whirlwind, especially for someone as active and young as you. Just keep in mind, the earlier you secure this, the less you have to worry about it in the future. It's like planting a tree today to enjoy the shade later. 
+
+Maria: <reflect>Keep the humor.</reflect> Haha, I get your point, Alex. But maybe I’m more of a spontaneous traveler than a tree planter, if you know what I mean. 😂
+
+Agent: Haha, I get it! Spontaneity can be fun and thrilling. Think of insurance as your travel buddy, there to support you whenever you make those spur-of-the-moment decisions. It's all about having peace of mind, wherever life takes you.
+
+Maria: <reflect>Focus on priority but keep it light.</reflect> Haha, okay, that’s an interesting way to put it! But really, I think I need more time to give this a serious thought. There’s just a lot to juggle at the moment. 🙆
+
+Agent: Absolutely, Maria. Take all the time you need. Just remember we’re here to support you whenever you’re ready to explore this further. In the meantime, if you have any random question pop up (even spontaneous ones!), feel free to reach out.
+
+Maria: <reflect>Ask about flexibility.</reflect> Thanks for understanding, Alex. One more thing, is this policy flexible in case I decide to adjust my coverage later?
+
+Agent: Definitely, Maria! Our policies are built with flexibility in mind. You can adjust your coverage as your needs change over time. That way, it evolves with you, just like how life does.
+
+Maria: <reflect>Express mild interest but keep options open.</reflect> That sounds a bit reassuring, Alex. Maybe it’s worth looking into more closely after all. 🙆
+
+Agent: I'm glad you think so, Maria. Insurance should feel like a tailored suit, fitting your needs perfectly. When you're ready, we can discuss specifics that align with your lifestyle and goals.
+
+Maria: <reflect>Shift topic but end on a positive note.</reflect> Nice analogy, Alex! Anyway, I’ll definitely keep all this in mind. By the way, speaking of plans, do you have any exciting weekend activities lined up? 😆

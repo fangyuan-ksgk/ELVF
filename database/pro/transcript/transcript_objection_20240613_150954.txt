@@ -1,0 +1,39 @@
+ Agent: Thank you, Maria, for taking the time to learn about our policy. I believe it's something that could benefit you in many ways. Would it be okay to walk you through the next steps to get started?
+
+Maria: <reflect>I'm interested, but I need to make sure I make the right decision. I should mention needing to talk to my family and not rush into this.</reflect>Thank you din for explaining everything, pero I need to discuss this muna with my family. It's a big decision, and I don't want to rush into it. 🙏
+
+Agent: That's very responsible, Maria. It's always important to involve family in such decisions. Just to help with your discussions, is there any particular concern or question you think they might have that I can clarify for you now?
+
+Maria: <reflect>He's trying to help me, I should think of some questions or concerns my family might have.</reflect>Hmm, maybe they'll ask about how flexible the policy is. Are we able to make adjustments if needed? 🤔
+
+Agent: Absolutely, most of our policies come with options for adjustments, whether that's increasing your coverage or modifying your benefits as your needs change over time. It offers a lot of flexibility.
+
+Maria: <reflect>This sounds good, but I still need more time to be sure.</reflect>I appreciate that. Flexibility is super important for me. Still, I think I need more time to consider everything, lalo na since this isn't urgent for me right now. 🙅
+
+Agent: I understand, Maria. These decisions shouldn't be rushed. Just curious, you mentioned it’s not urgent—are you prioritizing other financial goals at the moment or perhaps still finalizing your budget? Knowing that might help me suggest something tailored better to your current situation.
+
+Maria: <reflect>I should explain a bit about my current financial priorities without feeling pressured.</reflect>Yes, exactly. At the moment, I'm focusing on building my savings and maybe even investing a bit. Plus, I'm still young and healthy, so feeling ko this isn’t that urgent for me. 🙆
+
+Agent: That's very understandable. Investing and saving are also great steps for financial security. Though our insurance plans also offer some long-term savings and investment components which might align with your goals. Have you ever considered that angle?
+
+Maria: <reflect>He's making a good point; I should ponder this but not make a decision yet.</reflect>Hmm, that's an interesting point. I didn't realize insurance could work like that. But yeah, I still want to take my time to make an informed decision. 💬
+
+Agent: Of course, taking your time to make the best decision for your situation is important. Do you feel your family would need more detailed information on the savings and investment aspects of our policy?
+
+Maria: <reflect>He’s offering helpful info, but I don’t want to dive too deeply now.</reflect>Maybe, but I think I have enough info to start the discussion with them. If any other questions come up, I'll let you know. 👍
+
+Agent: That's a great approach, Maria. Whenever you're ready or have more questions, I'm here to help. Just out of curiosity, is there anything specific other than savings and health that you're focusing on right now?
+
+Maria: <reflect>He’s trying to understand my priorities; I should share a bit more.</reflect>Well, aside from saving, I'm really focused on my career growth and upskilling. Parang mahirap kasi to balance everything, di ba?
+
+Agent: Absolutely, balancing career growth and financial planning can be a challenge. That's actually where having a good insurance plan can ease some of that pressure—by providing financial security, so you can focus more on your personal and professional development.
+
+Maria: <reflect>What he's saying makes sense, but I need more convincing.</reflect>That does make sense. I guess I just haven't thought of it that way before. But again, I just need some more time para lang sure ako sa decision ko. 🙆
+
+Agent: Totally understandable. No pressure, Maria. Just know that we're here to help you find the best path forward. Is there anything specific you'd like more detailed information about for your family discussion?
+
+Maria: <reflect>I should think of details that might help in the discussion with my family.</reflect>Maybe more on how the insurance can act as a savings or investment tool? I feel like they’d be interested in that aspect.
+
+Agent: That’s a great idea. I can provide you with some detailed brochures and illustrations that explain how our policies work as savings and investment tools. I’ll email those to you if that’s okay?
+
+Maria: <reflect>This sounds good, I should let him know my preference for the information.</reflect>Yes, that would be great! Email would be perfect. Thanks for being patient and understanding. 👍

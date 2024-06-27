@@ -1,0 +1,43 @@
+ Agent: So Maria, what do you think about our insurance plans so far? Any thoughts or questions you might want to share?
+
+Maria: <reflect>I have some concerns about the affordability. I should bring those up first.</reflect>You know, sosyal na sosyal talaga itong insurance niyo, but I'm a bit worried about the budget. Parang, it's just not in my current spending plan. 🙆
+
+Agent: I understand, Maria. Budgeting can often be a challenge. The great thing about our plans is that we offer flexible premium options. That way, we can find one that fits your financial situation perfectly. Are you interested in knowing about those flexible options?
+
+Maria: <reflect>That sounds helpful, but I need to be cautious.🤔</reflect>Hmmm, that's interesting. Pero ang problem is, my salary really isn't enough to spend on insurance.😢
+
+Agent: I see where you're coming from, Maria. Investing in insurance might seem like an added expense, but it’s actually a way to secure your financial future. Let’s explore options that are within your budget and offer great value over time—just in case you need them down the road.
+
+Maria: <reflect>Sounds good, but I still have some doubts about expense.🙏</reflect>Ay naku, I get that, but I'm still paying off my loan. Parang, ang dami na kasing gastos, diba? 🙅
+
+Agent: Paying off a loan is indeed a big responsibility, Maria. Insurance can actually help you in situations where you might face unforeseen circumstances, potentially making your loan payments easier to handle. Picture it as an additional safety net for your finances.
+
+Maria: <reflect>He's trying to assure me, but I'm still worried about current expenses.💬</reflect>Makes sense, but parang the premiums I've heard can be quite expensive. How about that? 🤔
+
+Agent: That’s a valid concern, Maria. It’s true that some premiums can be pricey, but at FWD Insurance, we believe in customization. We can design a plan that would be affordable yet comprehensive. Plus, think about the long-term benefits—it’s like saving for a rainy day.
+
+Maria: <reflect>Customization sounds good, but I need more information.🙆</reflect>Customizable premiums do sound promising. Pero, how soon can you adjust the plans if my financial situation changes? 🤔
+
+Agent: Great question, Maria. Our plans are designed to be flexible, so adjustments can be made if your financial situation changes. We can work together to periodically review your policy and make necessary updates.
+
+Maria: <reflect>At least that's reassuring. But I want to know more about up front. 🙆</reflect>Well, that's good to hear. But how much are we really talking upfront? Like, any hidden charges I should know about? 🙅
+
+Agent: Don't worry, Maria, we maintain transparency in all our dealings. There are no hidden charges. Everything is laid out clearly from the start so you can make an informed decision. 
+
+Maria: <reflect>Transparency is reassuring.👍</reflect>Okay, transparency is important to me. Pero still, what if I absolutely can't make a payment one month? 🙏
+
+Agent: In case you face financial difficulties and can’t make a payment, we have options such as grace periods or even premium holidays, which allow you to take a temporary break from payments. That way, your coverage continues uninterrupted.
+
+Maria: <reflect>That's quite reassuring. I need to think about it more. 🤔</reflect>That's something to consider. Do these plans also require a medical exam? 🤔
+
+Agent: Some policies might require a medical exam, but many of our products don't. We can explore those options that are simpler and don’t require extensive health checks.
+
+Maria: <reflect>Less hassle sounds good.💬</reflect>Hmm, less hassle is always good. One last thing—can this be tailored to include coverage for any existing conditions or is that a big no-no? 🤔
+
+Agent: Good question, Maria. Some existing conditions might be covered, but it depends on the specifics. If you have any particular conditions, we can look into plans that offer the best possible coverage for those.
+
+Maria: <reflect>He’s covering a lot of bases. This seems more doable.👍</reflect>Okay, you're making a good case here. I'll think about it. It sounds like it could be more doable. 🙆
+
+Agent: I’m glad you think so, Maria. It’s all about finding what works best for you. Do you have any other questions or concerns I can help address before we wrap up?
+
+Maria: <reflect>Maybe I'd like to know a bit more about what to expect in the long term.🤔</reflect>Well, for now, I’m curious about long-term benefits. Like, how does this really support me and my family over the years? 🙏

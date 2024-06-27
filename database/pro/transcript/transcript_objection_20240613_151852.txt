@@ -1,0 +1,45 @@
+ Agent: Thanks for enjoying the coffee, Maria. So, we went through all the product details. Anything specific you'd like to talk about or maybe any concerns?
+
+Maria: <reflect>I'm feeling awkward about this because insurance isn't really a priority right now. I have other things to consider.</reflect>You know, I really appreciate the time you took to explain everything. But honestly, insurance isn't a priority for me at the moment. There are so many other things going on, like my family's plans... 🙅
+
+Agent: I understand, Maria. Making sure your family's all set is important. But wouldn't it also be great to have that extra peace of mind knowing they're financially secure in case anything unexpected happens?
+
+Maria: <reflect>He makes a good point, but I'm still feeling like this is something I can delay. I should tell him that.</reflect>True, but we're still in the early stages of our plans. I feel like we can address this later. We have plenty of time, right? 🤔
+
+Agent: I see your point but think about this. Insurance rates and benefits might be more favorable the sooner you secure it. It's like investing in your family's future while you're still getting everything in place.
+
+Maria: <reflect>That's interesting, but still, I don't see it as urgent. There are other financial goals we're targeting first.</reflect>That's a nice way to put it, but, like I said, it's not urgent for us. We're more focused on other financial goals right now. 🙅
+
+Agent: I get it, those are important too. Actually, insurance can complement those goals by offering coverage that supports your plans. It's really about creating a balance.
+
+Maria: <reflect>He's persistent but reasonable. I'll bring up that I'm young and healthy as another reason to delay this.</reflect>Well, another thing is, I'm still young and healthy. I feel like I don't need to rush into getting insurance yet. 🙆
+
+Agent: That's good to hear, Maria. Being young and healthy can be an advantage because you can lock in lower premiums and get better coverage now rather than later. 
+
+Maria: <reflect>It does make sense but I should mention the family plans again. Emphasize that it’s not a priority.</reflect>Makes sense, pero like I mentioned, I'm more inclined to focus on my family's plans first. We have other priorities. 🙅
+
+Agent: Absolutely, Maria. Kasi we tailor our plans to fit right into your budget. It's like securing a solid foundation without stretching your finances too much.
+
+Maria: <reflect>I still don’t want to rush into this, mentioning the family again might make him realize it's a big factor.</reflect>That sounds great, pero honestly, we really need to talk this through as a family first. I don't want to make instant decisions without their input. 🙆
+
+Agent: Understandable, Maria. It's always best to consult with loved ones about big decisions. Speaking of family, who makes the final call among you if you don't mind me asking?
+
+Maria: <reflect>An awkward question but it should be fine to answer. Makes it more conversational.</reflect>Ay, we usually decide as a team. No one really has the final call—we discuss and agree on everything together. 🙆
+
+Agent: I think that's a wonderful approach, Maria. In that case, I'm here to provide any information your family might need to arrive at a decision that works for everyone. Could you see how planning now makes things easier down the road for your team?
+
+Maria: <reflect>He is very focused on providing information, I'll still bring up that we might consider it later.</reflect>Yes, I get that. Maybe later on, when things calm down a bit for us. Right now, we're just swamped with other priorities. 🙆
+
+Agent: Balancing priorities is definitely a challenge. I'm just here to make sure you have all the info when you're ready. Any specific question that maybe I can clarify for you or for them?
+
+Maria: <reflect>He's really trying to help. Maybe it's a good time to switch the topic a bit.</reflect>Hmm, let me think about that. For now, I'm good with the info you've shared. Oh, by the way, where did you learn so much about financial planning? 🙆
+
+Agent: Funny you should ask that! I actually started out in a different field—engineering, can you believe it? But then I realized my knack for numbers could really help people in a more personal way.
+
+Maria: <reflect>That's an interesting shift. Let’s ask more about that as it seems like a nice break from the insurance pitch.</reflect>Wow, from engineering to helping people with insurance? That's quite a career switch! What made you take the leap? 🙆
+
+Agent: It was quite a leap! I guess it was seeing how my family struggled financially when unexpected things happened. I wanted to be part of the solution for other people. Maybe that's why I’m persistent on these concerns, it's really close to my heart.
+
+Maria: <reflect>That sounds genuine. Let's keep this conversation light and engaging.</reflect>I can see that! And your passion really comes through. Ever think about returning to engineering, or is this your calling now?
+
+Agent: Definitely feels like my calling now. Although, fixing finances is almost like solving an engineering problem—except with more emotions involved!

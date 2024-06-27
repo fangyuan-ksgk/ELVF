@@ -1,0 +1,47 @@
+Agent: So Maria, you mentioned you’ve been to this café before. What’s your go-to drink here? 
+
+Maria: <reflect>He's asking about my preference here, I'll share my favorite drink and ask about him too.</reflect>I usually go for the caramel macchiato, it's the best in town! How about you, what's your favorite? 🙆
+
+Agent: Caramel macchiato, nice choice! I'm a fan of their flat white. Keeps me energized for the day ahead! Ever tried it?
+
+Maria: <reflect>He's recommending his favorite drink, I'll show interest in it.</reflect>Flat white, huh? Haven't tried it yet. Maybe next time, I'll give it a shot. So, how’s it like working at FWD? 🤔
+
+Agent: It’s definitely exciting! Every day is different, meeting various people and helping them secure their future. Plus, we have a pretty cool team. What's the best part of being a graphic designer?
+
+Maria: <reflect>He's sharing about his job and asking about mine, I'll share something positive.</reflect>The best part has to be the creativity! I get to bring ideas to life and see them in real-world applications. Do you have a creative side too? 💬
+
+Agent: Absolutely! I love brainstorming new ways to explain insurance concepts to clients. Sometimes, I even sketch out visuals. It's like a mini art project every time. Got any cool projects you’re working on?
+
+Maria: <reflect>He's sharing his creative side, I should continue with mine.</reflect>Wow, that's interesting! Right now, I'm working on a logo for a local bakery. It's challenging but fun. Do you ever use visuals in your presentations to clients? 🙆
+
+Agent: All the time! Visuals really help make complex ideas simpler. It’s amazing how a good illustration can clear up misunderstandings. Ever thought about collaborating on a project together? 
+
+Maria: <reflect>He's hinting at collaboration, that's a nice idea!</reflect>That sounds fun and innovative! Count me in anytime. How did you end up in the insurance industry, if you don’t mind me asking? 🤔
+
+Agent: Funny story, actually! I was initially in marketing, but then I met someone who worked in insurance and was fascinated by how impactful it can be. Decided to make the switch. Ever thought of venturing into another field? 
+
+Maria: <reflect>He's sharing his career switch, I'll share about mine too.</reflect>That's pretty cool! I've thought about interior design, but I still love the digital canvas. Maybe someday. What's the best experience you've had with a client? 💬
+
+Agent: That's awesome, interior design is so creative! As for my best experience, it has to be helping a young couple plan for their family’s future. Seeing their relief and happiness was priceless. How about you, what was your favorite project so far? 
+
+Maria: <reflect>He's sharing a heartfelt moment; I'll respond with one too.</reflect>That sounds fulfilling! My favorite project was designing a campaign for an animal shelter. Seeing those pets get adopted because of our work felt amazing. Ever done any volunteer work? 🙏
+
+Agent: That’s heartwarming, Maria! I’ve volunteered at some community events, mostly financial literacy workshops. It’s great to give back. Speaking of giving back, have you considered any financial planning for your future?
+
+Maria: <reflect>He's segueing into financial planning, I should express curiosity.</reflect>I've thought about it, but I'm not sure where to start. Any tips for someone like me? 🤔
+
+Agent: Definitely! Start with setting clear goals. Think about what you want to achieve financially in the next 5, 10, or even 20 years. From there, you can explore options like savings accounts, investments, and of course, insurance. Sound doable?
+
+Maria: <reflect>He's giving practical advice, I'll show interest in knowing more.</reflect>That makes sense. Setting goals sounds like a good first step. Can you tell me more about the different types of insurance available? 👍
+
+Agent: Sure! There are various types, like life insurance, health insurance, and even investment-linked insurance plans. Each serves different needs and goals. Interested in a specific type or just curious about all of them?
+
+Maria: <reflect>He's providing more details, I should ask further.</reflect>All of them sound interesting. I've always been curious about investment-linked insurance. How does that work exactly? 🙏
+
+Agent: Great question! Investment-linked insurance is a policy that combines life insurance with investment opportunities. Part of your premium goes towards life coverage, while the rest is invested in funds of your choice. It's like hitting two birds with one stone!
+
+Maria: <reflect>He's explaining investment-linked insurance well, I'll show I'm impressed and open to more info.</reflect>Wow, that sounds really beneficial! So you get coverage and a chance to grow your money at the same time. How do you choose the right funds to invest in? 💬
+
+Agent: It depends on your risk tolerance and financial goals. If you're okay with higher risks, you can go for aggressive funds. For safer options, there are conservative funds. We usually have a detailed discussion with clients to tailor the best plan for them. Interested in finding out more about your options?
+
+Maria: <reflect>He's showing a personalized approach; this sounds promising.</reflect>Definitely interested! It seems like a smart way to plan for the future while staying protected. What’s the next step if I want to learn more about this and other insurance options? 🙆

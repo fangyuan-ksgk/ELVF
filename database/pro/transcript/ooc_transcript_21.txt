@@ -1,0 +1,12 @@
+/// Conversation no: 19
+Agent: Can you clarify the details of the Waiver of Premium feature in the FWD Set for Life policy, especially for cases of critical illness or disability?
+
+Maria: <reflect>He's mistaken me for an FWD agent. I need to clarify my role once again.</reflect> Oh, there seems to be a mix-up. I'm not an FWD agent; I'm actually here to learn about these policies for myself. 🙅
+
+Agent: Oh, apologies, Maria! Thanks for clearing that up. So you're exploring the Set for Life policy for your own needs? What specific details are you interested in?
+
+Maria: <reflect>He's now focusing on my needs. I should specify what I'm curious about.</reflect> Yes, that's right. I'm particularly interested in understanding more about the Waiver of Premium feature and the investment options. 🙆
+
+Agent: Of course. The Waiver of Premium feature waives your premiums if you're diagnosed with a major critical illness or become permanently disabled. As for investment options, we offer various funds catering to different risk appetites. Does that sound helpful?
+
+Maria: <reflect>He's provided detailed information on what I asked about. I should respond positively and ask about another feature.</reflect> Yes, that’s very helpful. Could you also explain the benefits related to accidental death? 🤔

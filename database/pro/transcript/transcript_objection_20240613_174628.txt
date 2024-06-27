@@ -1,0 +1,47 @@
+ Agent: So, Maria, what do you think about the benefits of our insurance policy? Does it align with what you're looking for?
+
+Maria: <reflect>I'm worried about how much this will cost, so I'll bring that up first.</reflect>Well, honestly, the premiums sound expensive for my budget. I'm still paying off my loan and my salary is not enough to spend on insurance.
+
+Agent: I understand where you're coming from, Maria. Many clients initially have the same concern, but let me share how our policy can actually help you save money in the long run. Why do you think saving money is more important for you right now?
+
+Maria: <reflect>He's trying to convince me that the insurance will save money. I should explain my priority to save instead of spending more.</reflect>Saving is crucial for me because I need to build an emergency fund. Honestly, I just don't believe insurance should be a priority in my current budget situation.
+
+Agent: That's a valid point. Building an emergency fund is essential. Did you know our policy includes features that could aid in financial emergencies too? It's like hitting two birds with one stone—saving while being secured.
+
+Maria: <reflect>It’s interesting, but still, I have no budget for extra expenses. I should bring this up again.</reflect>Sige, I get that. Pero, I'm still hesitant kasi wala talagang budget for additional expenses. Teacher naman si mama, minimum lang. And ako nga, I'm still trying to save kahit papano. 
+
+Agent: Totally understandable, Maria. Let me share a different perspective—our policies offer flexible payment options that could fit a tighter budget. We can customize the plan to make it more affordable for you.
+
+Maria: <reflect>Flexible payment options sound good, but I'm still skeptical. I need to dig deeper into how this aligns with my financial goals.</reflect>Flexible payment options seem appealing, pero... how does it align with my goal to prioritize immediate savings and still secure insurance?
+
+Agent: Good question, Maria. It's all about striking a balance. With a customized plan, you're not sacrificing your savings. Immediate savings remain intact while your long-term security is also addressed. 
+
+Maria: <reflect>Ok, I want to know more about this balance he’s talking about. Maybe he’s onto something, but I’m still cautious.</reflect>Hmm, interesting. But how does this balance work in real life? Let's say I have unexpected expenses. How does this affect the policy?
+
+Agent: Great point, Maria. With our flexible payment options, you could adjust your contributions temporarily if unexpected expenses arise. We aim to support your financial stability, not burden you.
+
+Maria: <reflect>Ok, he’s making some sense now. Still, my immediate concern is that I really need every peso saved right now.</reflect>Gets ko yung flexibility, pero may tipid pa rin akong kailangan ngayon. How does paying for a policy compare to just saving the money in the bank?
+
+Agent: That's a fair comparison. While saving money in the bank is a good move, insurance gives you that extra safety net. The security and benefits you get from insurance mitigate risks that savings alone can't cover.
+
+Maria: <reflect>He’s pointing out the importance of a safety net... Makes sense but it's still a lot to swallow when I'm already tight on budget.</reflect>I see your point. It makes some sense to have a safety net, but I'm still on a tight budget. What happens if I can't continue paying the premiums down the road?
+
+Agent: If things get really tight, we have options to pause the policy without losing your coverage. Our approach is to ensure you stay protected even through financial hardships.
+
+Maria: <reflect>That’s a relief to hear. But... back to reality, my salary is only so much. I still feel it's a little too steep.</reflect>Relieved to know that, pero reality check naman, my salary hardly covers my needs. Ayoko naman gumastos ng sobra for something na di ko alam if I really need ngayon.
+
+Agent: Understandable, Maria. What if I tell you we could start with the most basic plan? It’s a very minimal expense but still gives you that important safety net.
+
+Maria: <reflect>Starting small sounds safer. Maybe I should consider this minimal option he's talking about.</reflect>Starting small sounds safer. So, tell me more about this basic plan. How minimal is the expense? 🙏
+
+Agent: Glad you're considering it! The basic plan can be as affordable as a daily cup of coffee. It covers essential benefits, ensuring you get some protection without straining your budget.
+
+Maria: <reflect>A daily cup of coffee sounds manageable. I'm interested but still cautious. Let’s see how convincing the coverage is.</reflect>A daily cup of coffee, you say? That sounds manageable. What essential benefits are covered by this basic plan? 🤔
+
+Agent: Excellent! With the basic plan, you get life coverage, accidental coverage, and some critical illness protection. It’s designed for essential security without overwhelming your finances. Sounds good?
+
+Maria: <reflect>It’s a good offer, but I want to make sure it truly fits in with my financial priorities. I need to ask if I can customize further.</reflect>Sounds good indeed. Pero, can I customize it even further? Like maybe tweak some coverage that fits my specific needs and budget constraints? 💬
+
+Agent: Absolutely, Maria. Customization is key. We can sit down and adjust the coverages to find the perfect fit for you. This way, you get what you need without stretching your budget too much.
+
+Maria: <reflect>He's very accommodating, which is helpful. Now I’m really thinking about this.</reflect>That sounds favorable. Let's talk more about the customization then. How soon can I get this set up if I decide to go for it? 🙆

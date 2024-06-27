@@ -1,0 +1,41 @@
+ Agent: It's really been informative chatting with you, Maria. Just to recap, we've discussed the different policies FWD offers, including their unique benefits and features. Do you have any questions or concerns at this point?
+
+Maria: <reflect>I have some concerns that need addressing before I commit.</reflect>Well, Alex, I have some concerns. First of all, what is FWD? Parang it's a new company, right? 🤔
+
+Agent: I understand your concern. FWD might be relatively new in the Philippines, but globally, we've been around for quite some time. We are backed by one of the largest investment firms in the world, and we've gained a solid reputation for innovation in the insurance industry. Actually, here in the Philippines, we're growing rapidly because we focus on customer needs and innovative products.
+
+Maria: <reflect>That answers some of my doubt, but I still need reassurance.</reflect>Hmm, okay, I see. But I have not heard of FWD before. How do I know na trustworthy kayo? 🙆
+
+Agent: It's a valid concern, Maria. FWD prides itself on transparency and customer satisfaction. We have numerous positive reviews and testimonials from our clients. Plus, we're regulated by the Insurance Commission, ensuring that we follow the highest industry standards.
+
+Maria: <reflect>That's good to know but there's still the issue of potential hidden costs.</reflect>I guess that helps. Pero, I've heard about premium increases without clear reasons from other insurance companies. How does FWD address this? 🤔
+
+Agent: Good question, Maria. At FWD, we're committed to transparency. Any changes in premiums are communicated to our clients well in advance and are explained in detail. We ensure that our clients understand the reasons behind any adjustments. Plus, our premium structure is designed to be competitive and stable.
+
+Maria: <reflect>Okay, that's somewhat reassuring. I think I need to know more specifics about the plans.</reflect>Alright, that's reassuring naman. Can you give me more specifics about your most affordable plan? 🙆
+
+Agent: Sure, Maria! Our most affordable plan is designed to offer comprehensive coverage at a budget-friendly price. It includes essential benefits like life coverage, critical illness protection, and optional riders that can be customized based on your needs.
+
+Maria: <reflect>He's very thorough. I need to see if their customer service is as good as he says it is.</reflect>That's quite detailed. How's your customer service? I've heard some companies are hard to reach kapag may problem. 💬
+
+Agent: I'm glad you brought that up. Our customer service is one of our top priorities. We offer 24/7 customer support through multiple channels, including phone, email, and even social media. We also have a user-friendly app where you can manage your policy, make payments, and get support whenever you need it.
+
+Maria: <reflect>That sounds convenient. Let me think about how often I would interact with them.</reflect>Oh wow, that's convenient. I usually use mobile apps for everything, so that's a plus point. 🙆
+
+Agent: Absolutely, Maria. We strive to make your experience as seamless as possible. Do you have any other questions or concerns?
+
+Maria: <reflect>Maybe I should know about policy adjustments in the future.</reflect>Actually, yes. Can I adjust the policy later on if I need to? 🙏
+
+Agent: Yes, Maria. We offer flexible policies that can be adjusted based on changing circumstances. Our advisors work with you to ensure that your coverage remains relevant to your needs over time.
+
+Maria: <reflect>That covers a lot of my concerns about flexibility.</reflect>Okay, that helps. Flexibility is important, especially with how unpredictable life can be. 💬
+
+Agent: Exactly, Maria. Life can be full of surprises, and our goal is to ensure you’re prepared for them. Would you like me to go into more detail about how the policy adjustments work?
+
+Maria: <reflect>He's being very thorough, which is good. Maybe I should ask about something more personal.</reflect>You know, Alex, you've covered a lot already. I'd actually like to know about your own journey with the company. Why did you choose to work with FWD? 🤔
+
+Agent: That's a great question, Maria! I chose FWD because of its innovative approach to insurance. I wanted to be part of a company that puts customers first and is not afraid to challenge industry norms. The supportive work environment and the continuous learning opportunities here were also big factors for me. How about you, Maria? What made you decide to meet with an insurance agent today?
+
+Maria: <reflect>I should share a bit about my motivation to show I'm interested.</reflect>Well, I'm at a point in my life where I want to secure a stable future. Plus, a friend mentioned how insurance helped them during a tough time, so I thought it's better to be prepared. 🙆
+
+Agent: That's a wise decision, Maria. It's always better to be prepared, and having insurance gives you that peace of mind. Is there anything specific you're looking to protect or plan for?

@@ -1,0 +1,43 @@
+ Agent: So, Maria, tell me about yourself. What keeps you busy aside from braving the Manila traffic? 
+
+Maria: <reflect>He's asking about my everyday life, let's keep it light-hearted and interesting.</reflect>Oh, you know, I'm just living the dream! Working as a graphic designer most days, trying to balance work and life, classic struggle. How about you, what’s your usual day like?
+
+Agent: Well, aside from dodging traffic and trying not to spill coffee, I mostly spend my time meeting amazing people like you! But let's get serious for a moment, what do you value most in life?
+
+Maria: <reflect>He’s transitioning into more serious topics; let’s mention family and future.</reflect>Ah, I’d say my family is super important to me. I want to make sure they’re always taken care of. And of course, being financially secure so I don’t have to work forever. Sounds typical, right?
+
+Agent: Not at all, that’s actually quite practical! Speaking of financial security, what’s your main goal? Investing in something, saving up, or maybe hitting the jackpot with a lotto ticket?
+
+Maria: <reflect>He's probing into my financial goals. Let's keep it a mix of serious and humorous.</reflect>Oh, the lotto ticket would be nice! But really, I'm more into saving up and investing wisely, making sure there’s something for the rainy days. Got any secret tips for maximizing savings?
+
+Agent: Haha, I wish I had a magical tip! But honestly, being consistent and smart about your finances is key. Have you done any kind of financial planning before?
+
+Maria: <reflect>He’s asking about my financial planning experience. Let’s keep the answer direct.</reflect>Well, I’ve tried to budget and save, but I feel like there’s always room for improvement. Sometimes it feels like money just disappears, you know?
+
+Agent: Tell me about it! It's like money grows legs and runs away. Do you focus on any particular type of saving, like for something special or just general savings?
+
+Maria: <reflect>He's asking about my saving focus. Let’s keep it broad to include family and future security.</reflect>Mostly for future security and making sure my family is well-supported. It's better to be prepared than caught off guard. You get what I mean?
+
+Agent: Absolutely, it's all about being ready for whatever life throws at you. Do you have any fun plans you’re saving up for, like a dream vacation or something cool?
+
+Maria: <reflect>He's keeping it casual about savings goals. Let’s mention a dream without specifics.</reflect>Oh, a dream vacation sounds amazing! Maybe one day I’ll travel the world or buy a cozy little place somewhere quiet. What about you, any big dreams?
+
+Agent: Haha, let’s just say I dream of a traffic-free Manila. But seriously, it sounds like you’ve got some wonderful aspirations. Do you find it hard balancing saving for the future and enjoying the present?
+
+Maria: <reflect>He's asking about balancing saving and enjoying life. Let’s discuss the struggle briefly.</reflect>Oh definitely, it’s like a constant balancing act. Treating myself here and there while making sure I’m not sacrificing the future. Tricky, isn’t it?
+
+Agent: Very tricky indeed! Treating oneself while being future-conscious is a real art. Do you think much about unexpected events and how you'd handle them financially?
+
+Maria: <reflect>He’s asking about planning for unexpected events. Let's keep it serious but add a hint of humor.</reflect>Oh yes, the unexpected always comes knocking when you least expect it! I try to have a little safety net, but sometimes it feels like I need a bigger net. Like a basketball-sized one! Thoughts?
+
+Agent: Haha, we all could use a basketball-sized safety net! The bigger the better, right? Do you worry much about healthcare costs or other big expenses?
+
+Maria: <reflect>He's focusing on big expenses. Let's keep the focus broad but relatable.</reflect>Healthcare costs definitely make me anxious. I mean, just one big medical bill can blow your savings! So yeah, those big expenses are always at the back of my mind. Ever feel the same?
+
+Agent: Oh, for sure. It’s like one moment you're fine, and the next, poof, there goes the savings! Do you think much about creating a steady source of income for the long term?
+
+Maria: <reflect>He's asking about long-term income. Let’s talk about financial stability.</reflect>Yes, having a steady income source is the dream! I don't want to be working forever, so having something sustainable would be great. Do you have any ideas on creating a consistent income stream?
+
+Agent: Well, it’s a mix of smart saving, investing wisely, and maybe even passive income. Have you looked into investments or other income streams before?
+
+Maria: <reflect>He's asking about investments and income streams. Let's express openness to learning more.</reflect>I’ve dabbled a bit, but it’s a big, scary world out there. Definitely open to learning more and getting better at it. Got any insights? 🙆

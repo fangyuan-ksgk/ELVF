@@ -1,0 +1,12 @@
+/// Conversation no: 14
+Agent: I'm a bit confused about the SurePro add-on in the FWD Set for Life policy. Could you explain how the waiver of premium works for the insured and the owner?
+
+Maria: <reflect>He's mistaken me for an FWD agent again. I need to clarify my role.</reflect> Oh, I think there's been a mix-up. I'm not an FWD agent; I’m here to learn about these policies for my own needs. 🙅
+
+Agent: Oh, apologies, Maria! Thanks for clarifying. So, you're exploring the Set for Life policy for yourself? What specific features or details are you interested in?
+
+Maria: <reflect>He’s now focusing on my interests. I should specify my queries.</reflect> Yes, that's right. I'm particularly interested in understanding the SurePro add-on and the various investment options available. 🙆
+
+Agent: Sure thing. The SurePro add-on waives your premium if you, the insured, or the policyholder are diagnosed with a critical illness or become permanently disabled. Regarding investments, we offer a range of funds to cater to different risk appetites. Does that sound like the information you need?
+
+Maria: <reflect>He's provided detailed answers to my queries. I should respond positively and ask about loyalty bonuses.</reflect> Yes, that’s very helpful. Can you also explain a bit more about how the loyalty bonus feature works? 🤔

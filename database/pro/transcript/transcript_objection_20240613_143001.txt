@@ -1,0 +1,51 @@
+ Agent: So Maria, we've gone through all the details of the policy. What do you think?
+
+Maria: <reflect>Parang hindi ako ready mag-commit agad, I need more time and consultation with my family.</reflect>You know, parang I'm not ready to commit agad. I feel like I need to talk to my family first, siyempre, their input is very valuable to me. 🙏
+
+Agent: I understand naman, Maria. It's always important to involve your family sa ganitong decisions. But just out of curiosity, what do they usually think about insurance?
+
+Maria: <reflect>He’s curious about my family's opinion, which is valid.</reflect>Well, some of them are very practical about it, pero others feel it's not a priority right now. You know how it is, sakto lang na balance lahat ng things. 🤔
+
+Agent: Yeah, I get that. And it’s smart to weigh all your options. When you say it’s not a priority, do they have any particular concerns in mind?
+
+Maria: <reflect>He's trying to dig deeper, maybe I should mention na health is not a big issue right now.</reflect>Wala naman specific concerns, it's more of hindi lang urgent kasi we're all healthy pa naman. Tsaka not married, no kids, so wala pa masyadong dependents. 🤔
+
+Agent: Ah, I see. Makes sense naman yan. But just to keep it on your radar, even if we're healthy today, things can change unexpectedly, right? Life can be unpredictable.
+
+Maria: <reflect>He's stating the obvious, but it's true.</reflect>Tama ka dyan. I mean, things can really be unpredictable. But, you know, I still feel like now is not the best time to decide. 🙅
+
+Agent: No worries, Maria. How about this, I can provide some additional materials that you can review with your family to help them understand better. Would that be okay?
+
+Maria: <reflect>It sounds helpful, but I'm still leaning towards waiting.</reflect>Sure, that sounds helpful. Although, I still think I’m more inclined to wait until it feels more urgent. 🙅
+
+Agent: Perfectly reasonable. Pero Maria, if I may ask, what would make it feel more urgent for you?
+
+Maria: <reflect>He's really pushing to understand my perspective; I should clarify.</reflect>Siguro pag there's a significant change in life, like getting married or starting a family. For now, it seems like I have more time to decide. 🤔
+
+Agent: Got it. Those are definitely big milestones. Just a thought, though, starting early can give you better rates and peace of mind na rin?
+
+Maria: <reflect>He has a good point about starting early.</reflect>That does make sense. Better rates are enticing, but yeah, timing is really my concern. 🙆
+
+Agent: Of course, I appreciate your honesty. By the way, speaking of timing, have you ever looked into how other types of insurance work in general?
+
+Maria: <reflect>He’s shifting the conversation back to general insurance.</reflect>Honestly, not really. I always thought insurance is something you get pag may reason na talaga, like kids or big investments. 🙆
+
+Agent: That’s understandable. It usually feels like something for the future. But even now, there are options that could benefit you, not just for the later years.
+
+Maria: <reflect>I’m curious about other benefits he mentioned.</reflect>Interesting. What kind of benefits are you talking about ba? 🙆
+
+Agent: For example, there are policies that offer living benefits, such as critical illness coverage or even just peace of mind with a small investment.
+
+Maria: <reflect>That sounds useful, but I still don't feel pressured.</reflect>That sounds useful naman, but I guess I still feel like these are things I can think about later. No rush talaga. 🙆
+
+Agent: Absolutely, no rush at all. It’s really more about planning for unexpected moments. Would it help if I gave you some scenarios to think about?
+
+Maria: <reflect>Scenarios could be helpful in understanding more.</reflect>Yeah, sure, scenarios could be useful. It might make things clearer for me. 🙆
+
+Agent: Great! Let’s take a simple example—imagine if there’s a sudden medical emergency. Having insurance can help cover unexpected expenses without stressing your finances.
+
+Maria: <reflect>He has a valid point about emergencies.</reflect>True, emergencies can be tough on finances. But thankfully, I've been putting money aside for such cases. 🤔
+
+Agent: That’s good practice, Maria! Having savings is definitely beneficial. The insurance is more like an extra layer of protection, especially for larger emergencies that savings might not fully cover. 
+
+Maria: <reflect>Extra layer of protection does sound reassuring.</reflect>Extra protection does sound reassuring nga. Still, I think I need more time to digest all of this information before making a decision. 🙆

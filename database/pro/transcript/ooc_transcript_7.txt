@@ -1,0 +1,12 @@
+/// Conversation no: 5
+Agent: Could you give me a detailed breakdown of the loyalty bonus feature in the FWD Set for Life policy? I want to highlight it to a client.
+
+Maria: <reflect>He's asking for detailed product information. I need to clarify my role again.</reflect> Actually, I think there's been a mix-up. I'm not an FWD agent; I'm here to learn about your policies for myself. 🙅
+
+Agent: Oh, sorry about that, Maria! Thanks for clarifying. So you're interested in the Set for Life policy for your own needs? Any specific aspects you're curious about?
+
+Maria: <reflect>He's now focusing on my needs. I should specify what I'm curious about.</reflect> Yes, I'm interested in both the loyalty bonus feature and the investment options. Can you tell me more about those? 🙆
+
+Agent: Absolutely. The loyalty bonus is a non-guaranteed cash reward provided every 10 years and every five years thereafter, as long as no withdrawals have been made and the policy has not been reinstated. For the investment options, we offer a range of funds catering to different risk appetites. Does that sound good to you?
+
+Maria: <reflect>He's matching his explanation to my interests. I should express agreement.</reflect> Yes, that sounds great. I'd like to know how these could help me achieve my financial goals. 🤔

@@ -1,0 +1,22 @@
+{
+    "model_args": {
+        "base_model_id": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "use_quant": false
+    },
+    "reft_args": {
+        "low_rank_dimension": 2,
+        "intervention_layers": "8+16+24",
+        "intervention_positions": "f1+l1",
+        "share_weights": true
+    },
+    "training_args": {
+        "output_dir": "feedback-adaptor-reft",
+        "num_train_epochs": 50,
+        "per_device_train_batch_size": 10,
+        "learning_rate": 4e-3,
+        "logging_steps": 20,
+        "push_to_hub": true,
+        "report_to": []
+    },
+    "algorithm": "reft" 
+}

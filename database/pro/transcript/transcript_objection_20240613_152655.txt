@@ -1,0 +1,47 @@
+ Agent: Kamusta, Maria! Finally nice to meet you. So, what did you think about our products? Any feedback or concerns you'd like to discuss?
+
+Maria: <reflect>He's asking for my thoughts; I should mention my concerns about trust.</reflect>Well, Alex, everything sounds promising, but I have a few concerns. I've heard about premium increases without clear reasons. Is this something that happens frequently with FWD?
+
+Agent: That's a great question, Maria. At FWD, we believe in transparency. Any changes in premiums are communicated well in advance, and they're usually tied to specific factors like inflation or adjustments in coverage. We make sure our clients fully understand these changes before they take effect.
+
+Maria: <reflect>He's addressing my concern, so I should bring up another issue about trust.</reflect>Okay, that helps, but I'm still worried about not being able to adjust the policy later on if I need to. Is FWD flexible with changes?
+
+Agent: Absolutely, Maria. Our policies are designed with flexibility in mind. We understand that life changes, so we provide options to adjust coverage, add riders, or even tweak premium payments to better suit your evolving needs.
+
+Maria: <reflect>He's being very reassuring. I should mention my last concern about trust.</reflect>That’s good to know. One last thing, I've heard about FWD only recently. It's a new company, right? How can I be sure it's trustworthy?
+
+Agent: Actually, Maria, FWD has been around for a while and is part of a much larger, well-established financial group. We're relatively new to the Philippine market but have a solid reputation and track record in other countries. Plus, our customer service team is always available if you have any concerns.
+
+Maria: <reflect>His answers are quite convincing, but I still want to see how other products compare.</reflect>Thanks for clarifying, Alex. I appreciate the information, but I still feel like I should compare FWD with other companies to make an informed decision.
+
+Agent: I completely understand, Maria. It's always good to do thorough research before making any financial decision. If you have any more questions about our offerings or want to see more detailed comparisons, I'm here to help.
+
+Maria: <reflect>He's really supportive. I'll acknowledge his willingness to help but maintain my stance.</reflect>I appreciate that, Alex. It's reassuring to know you're here to answer questions. By the way, how does FWD support clients during claims? Is there a dedicated team?
+
+Agent: Yes, indeed! We have a dedicated claims team that guides our clients through the entire process. Our goal is to make sure claims are handled as smoothly and quickly as possible. We even offer a digital claims submission option for added convenience.
+
+Maria: <reflect>He's giving detailed answers; I should acknowledge his thoroughness.</reflect>Great, that's good to know. And how about customer service? Can I reach someone easily for any inquiries or issues?
+
+Agent: Absolutely, Maria. Our customer service is highly accessible through various channels like phone, email, and even chat. We're committed to providing timely and helpful responses to all our clients.
+
+Maria: <reflect>He seems to cover all bases. I should thank him for his time.</reflect>Thank you for taking the time to explain everything, Alex. It's been very informative. 
+
+Agent: My pleasure, Maria. It's important to us that you feel confident and well-informed. If anything else comes up or if you have more questions later on, don't hesitate to reach out.
+
+Maria: <reflect>He's really supportive. Maybe I should ask something more specific about a policy to get a clearer picture.</reflect>Speaking of specifics, do you happen to have examples of how these policies have been beneficial to other clients?
+
+Agent: Yes, I do! For instance, we had a client who needed to adjust their policy due to a change in their financial situation. They added a rider to increase their coverage for critical illness, which provided them with financial support during a tough period. Stories like these are quite common with FWD, where flexibility and comprehensive support really make a difference.
+
+Maria: <reflect>That's a compelling example. I should think about what I need most in a policy.</reflect>That does sound beneficial. I'll take these examples and everything you've shared into consideration. 
+
+Agent: Take your time, Maria. Making the right choice for your needs is what matters most. If you'd like, I can provide more personalized illustrations based on your specific situation. 
+
+Maria: <reflect>He's really going above and beyond. Maybe I should ask about policy customization next.</reflect>Thanks, Alex. Can we discuss how customizable these policies are?
+
+Agent: Absolutely! Our policies offer a range of customization options. From adjusting the sum assured, changing payment terms to adding riders like hospital benefits or disability coverage — it's all about making the policy work for you.
+
+Maria: <reflect>He mentioned hospital benefits; that's interesting.</reflect>Hospital benefits sound useful. Can you tell me more about that?
+
+Agent: Sure! Our hospital benefits rider provides additional coverage for medical expenses during hospital stays. It can be added to your base policy and can help ease the financial burden during hospitalization.
+
+Maria: <reflect>This could be particularly useful. I should think about how this fits into my budget.</reflect>That's definitely something to consider. Thank you for explaining everything, Alex.

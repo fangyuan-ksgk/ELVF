@@ -1,0 +1,43 @@
+ Agent: So, Maria, with all the details I’ve shared about our life insurance policy, what do you think so far?
+
+Maria: <reflect>I should bring up that savings are more important to me for now.</reflect>Well, you know, savings talaga are important to me right now. I'm really trying to save up for other things. 🙆
+
+Agent: I understand. Savings are indeed important. But, remember, life insurance actually helps you save money in the long run by protecting your financial future. You’re essentially paying yourself!
+
+Maria: <reflect>That's a good point, but the premium still seems expensive.</reflect>That makes sense, pero, honestly, the premium seems a bit too expensive for my budget. 🙅
+
+Agent: That's a common concern, Maria. Our plans are very flexible, and we can find one that fits perfectly with your budget. Think of it as setting aside a small amount monthly for a much bigger benefit later on.
+
+Maria: <reflect>True, but I really don't think my salary is enough to spend on insurance right now.</reflect>I get that, pero my salary talaga is not enough to spend on insurance right now. 🤔
+
+Agent: That's totally understandable. It’s tough when you're balancing all your expenses. Maybe we can look into a more affordable plan that still offers great coverage? You’d be surprised at how budget-friendly it can be.
+
+Maria: <reflect>I'll ask for more details on the budget-friendly options then.</reflect>Okay, can you tell me more about these budget-friendly options? 🙆
+
+Agent: Absolutely. We have several plans where you can start with a lower premium and gradually increase it as your financial situation improves. Plus, these plans come with great benefits like health coverage and investment options.
+
+Maria: <reflect>The gradual increase option sounds a bit better for my current situation.</reflect>Hmm, the gradual increase thing sounds more doable. I just worry kasi I’m still paying off my loan din. 😅
+
+Agent: That’s a valid concern. Some of our plans are tailored to help you manage current financial obligations while still providing the insurance coverage you need. Think of it as a cushion while you pay off your loan.
+
+Maria: <reflect>It seems more practical if I don’t feel the pressure financially while paying off my loan.</reflect>Okay, that sounds more practical nga. But I’m still scared mag-commit with my current situation. 🤔
+
+Agent: No worries, Maria. The whole idea is to give you peace of mind without adding pressure. Maybe we could look into plans with a financial grace period, in case you need to pause payments. 
+
+Maria: <reflect>A grace period would definitely make it easier to commit to a policy.</reflect>A grace period? Wow, that’s actually comforting to hear! 🙆 
+
+Agent: Yes, it gives you flexibility if unexpected things come up. So you won’t feel too pressured to make payments every single month. It's designed to adapt to your life.
+
+Maria: <reflect>This flexibility makes it sound less overwhelming.</reflect>Hmm, okay, that's quite reassuring. Flexibility is really important for me. 🙆
+
+Agent: Exactly, and it aligns with your goal of saving money. Think of it as a financial backup plan that adjusts with you.
+
+Maria: <reflect>Being a financial backup sounds like a good strategy while I save up.</reflect>That does sound like a smart strategy while I save. Yeah, I could see that working out. 🤔
+
+Agent: I'm glad you see the value in it. So, it’s more about securing your savings and making sure you’re covered for the unexpected. It's a long-term investment in your peace of mind.
+
+Maria: <reflect>The idea of long-term investment for peace of mind is appealing.</reflect>You know, the idea of it being a long-term investment for peace of mind, I do like that. It’s definitely something to think about. 🙆
+
+Agent: Absolutely, Maria. Just imagine not having to worry about sudden expenses. You can focus on achieving your financial goals while knowing you’re protected. Now, do you have any other financial priorities you’re focusing on that we could take into account?
+
+Maria: <reflect>I should mention my other savings and investments.</reflect>Well, aside from my current loan, I’m also trying to build up my emergency fund and invest a bit in stocks. 🙆

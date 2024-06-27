@@ -1,0 +1,39 @@
+ Agent: Hi Maria! I'm Alex from FWD Insurance, it's really good to meet you. Kamusta, finally nice to meet you! 
+
+Maria: <reflect>He seems friendly and eager to start the conversation. I'll respond warmly.</reflect>Hi Alex! It's really nice to meet you too. Kamusta ka? How was your trip here? 🙆
+
+Agent: It was a bit of a challenge, but you know how it is with Makati traffic, everyday's an adventure! How about you, did you have much trouble getting here?
+
+Maria: <reflect>He's sharing about his trip; I should share mine too.</reflect>Oh my gosh, same here! The traffic was insane, but I managed to get here in one piece. Do you come here often?
+
+Agent: Yeah, quite often for work meetings. This place has become like my second office, but masarap naman food dito kaya hindi nakakainis.
+
+Maria: <reflect>He's making it sound like he’s a regular; I should keep the convo light.</reflect>Aba, second office talaga, ha! Mukhang you're a regular then. Any menu recommendations for today? 😂
+
+Agent: Definitely! The spaghetti here is a classic, and their chicken is always a go-to for me. Ikaw ba, what do you prefer?
+
+Maria: <reflect>He's sharing food preferences; I'll share mine too.</reflect>I love their chicken too, and the fries—oh my goodness, can't resist that! Have you ever tried any of their desserts?
+
+Agent: Oh yes, their sundaes are the best. Perfect way to end a meal! So, Maria, what do you usually do when you’re not navigating the traffic of Makati?
+
+Maria: <reflect>He's trying to know a bit about me; I'll share my work.</reflect>Well, I work as a graphic designer, so most of my time is spent in front of a computer screen. But on weekends, I like to unwind with some cooking or Netflix. You know, balance! 😂
+
+Agent: That sounds fun and relaxing! I feel you, kailangan talaga ng balance. What's your current Netflix binge, if you don't mind me asking?
+
+Maria: <reflect>He's sharing interest in my hobbies; I'll keep this engaging.</reflect>Currently obsessed with "Money Heist," it's so thrilling! How about you? Any favorite shows or movies?
+
+Agent: Haha, "Money Heist" is really good! Me? I'm into documentaries, mostly about nature or history. It's fascinating to see the world from a different perspective.
+
+Maria: <reflect>He's a fan of documentaries. I'll mention something related.</reflect>Wow, documentaries, huh? You must be into interesting trivia then. Any recent ones that blew your mind?
+
+Agent: Recently watched one about deep-sea exploration. The creatures they discover down there are like from another planet—really mind-blowing stuff.
+
+Maria: <reflect>I'll keep the humor going.</reflect>Wow, deep-sea creatures! Parang I'm already watching a sci-fi movie just hearing about it! Are you into any other cool hobbies?
+
+Agent: Besides binge-watching documentaries and surviving EDSA traffic, I'd say I'm into outdoor activities—hiking, and biking. It's a nice change from the urban chaos.
+
+Maria: <reflect>He sounds active; I'll keep it light and fun.</reflect>Nice! Hiking sounds fun, though I prefer my "hiking" to be from my couch to the fridge. 😂 Speaking of, have you got any fun plans for the weekend?
+
+Agent: Haha, that's a good one! This weekend, I might go for a ride around BGC or maybe just a nice walk at a park. What about you? Any exciting plans?
+
+Maria: <reflect>I'll keep it light-hearted.</reflect>Nothing too fancy—probably just some Netflix and trying out a new recipe. You know, keeping it chill. 😂

@@ -1,0 +1,47 @@
+ Agent: It's great that we've covered all the product details, Maria. What do you think about the life insurance plan we've discussed so far?
+
+Maria: <reflect>I have some health concerns that might make me ineligible.</reflect> Well, I have to admit, very impressed ako sa offerings ng FWD. But I'm worried kasi I smoke, and I think that disqualifies me from getting life insurance.🤔
+
+Agent: Oh, I understand, Maria. Actually, there are a lot of smokers na may life insurance. We have specific policies that can accommodate your situation with a little higher premium. 
+
+Maria: <reflect>They still accommodate smokers? That's good.</reflect>Oh, talaga? Akala ko kasi hindi talaga pwede. So, those policies, are they still comprehensive kahit mataas yung premiums?🙆
+
+Agent: Yes, absolutely. The coverage remains comprehensive. The higher premium just accounts for the added risk, but it won’t lessen the benefits you’ll receive.
+
+Maria: <reflect>The coverage is still good. That's reassuring.</reflect>Okay, that makes me feel a bit better. Isa pa, I have a history of illness. Does that mean I’ll be declined din totally?😢
+
+Agent: Not necessarily, Maria. We take the overall health into account. You might need to undergo a medical examination for us to evaluate your condition, but that doesn’t mean an automatic decline.
+
+Maria: <reflect>Medical examinations are standard. That's fair, I guess.</reflect>Ah, so ganun pala. Undergo medical exam and then we'll see, right? Kakaba, but I guess it makes sense.🙅
+
+Agent: Yes, it’s a standard procedure. But rest assured, our goal is to tailor-fit the best plan sa'yo. We've had many clients na may previous health conditions na na-approved din eventually.
+
+Maria: <reflect>They've helped others with health conditions. That's promising.</reflect>That's nice to hear. It’s just that sometimes I feel na parang life insurance is too good to be true for someone like me.😢
+
+Agent: I understand your concerns, Maria. It’s natural to feel that way, pero life insurance is designed to help everyone. It's not about being perfect; it's about being prepared.
+
+Maria: <reflect>Being prepared is essential. It's a good point.</reflect>True naman ‘yan. Being prepared talaga is important, especially sa ganitong uncertainties sa buhay. 
+
+Agent: Exactly. And having that peace of mind knowing that you and your loved ones are protected is invaluable. Does that ease your worry a bit?
+
+Maria: <reflect>It does provide assurance.</reflect>Yes, medyo nakaka-relieve knowing na may options rin kahit may mga health issues.😊
+
+Agent: That’s good to know. Plus, we also have different add-ons and bonuses that might interest you. But for now, it’s great na we’re addressing your concerns.
+
+Maria: <reflect>Options are good, but too much info might overwhelm.</reflect>Hmm, let’s stick muna sa basics. Too many details might confuse me. 😅
+
+Agent: Na gets ko, Maria. Focus muna tayo sa main plan. If you have any more concerns or questions, feel free to ask. That’s what I’m here for.
+
+Maria: <reflect>Being well-informed is key.</reflect>Okay, salamat for explaining everything. I'll think about it more. Anong next steps usually?
+
+Agent: Next steps would be filling out a health questionnaire and scheduling your medical exam if necessary. Then we'll review everything and see the best possible plan for you.
+
+Maria: <reflect>Sounds like a plan.</reflect>Parang okay na nga ‘yan. I'll review everything riyan once we’re done dito.😊
+
+Agent: Great! Take your time to review. We’re here to help out whenever you're ready.
+
+Maria: <reflect>It's reassuring to know there's support.</reflect>Alright, thanks Alex for explaining everything. At least hindi ako masyado kinakabahan now.👍
+
+Agent: It’s my pleasure, Maria. It's all about making sure you're comfortable and informed. Anything else you’d like to clarify or ask?
+
+Maria: <reflect>Clear enough for now.</reflect>I think I’m good for now. Thanks again! 🙏

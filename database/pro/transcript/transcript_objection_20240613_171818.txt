@@ -1,0 +1,43 @@
+ Agent: I'm glad you liked the details about our life insurance plans, Maria. So, do you think one of these might be the right fit for you?
+
+Maria: <reflect>I've heard about FWD but I don't much about them. I'll point out some concerns.</reflect>You know, I actually haven't heard much about FWD before. Is it a new company?🤔
+
+Agent: Great question, Maria! FWD has been around since 2014 in the Philippines and is part of the larger FWD Group established in 2013. We're a newer company, yes, but we're backed by strong financial support and expertise, making us one of the fastest-growing insurers in Asia. 
+
+Maria: <reflect>Being new isn't always reassuring. Let's dig deeper into its reputation.</reflect>Hmm, so it's relatively new pa rin. But how does it compare to more established companies?🙅
+
+Agent: I understand your concern. Even though we're new, we’ve been making waves because of our innovative approach to insurance. We focus on making insurance simpler and more accessible. Our customer satisfaction ratings are pretty high, which we're really proud of.
+
+Maria: <reflect>He's addressing the concern but not fully convincing me yet. I'll ask more.</reflect>Okay, but what if I need to adjust my policy later on? I’ve heard some people say it's hard to make changes.🙆
+
+Agent: Flexibility is one of our key features. With our insurance plans, you can easily adjust your coverage as your needs change. Whether it's increasing the coverage or adding riders, we've made it a point to make this process as smooth as possible for our clients.
+
+Maria: <reflect>That's good, but I'm still concerned about unexpected price changes.</reflect>I've also heard stories about premiums increasing without clear reasons. Any thoughts on that?🤔
+
+Agent: That’s a valid concern, Maria. At FWD, we strive for transparency. Any changes in premiums are communicated clearly and are usually based on broader market factors. Plus, we offer different types of policies, some with guaranteed premiums that don’t change over time.
+
+Maria: <reflect>This is becoming clearer but I still have doubts on its reliability.</reflect>You know, I'd rather buy from someone I know and trust. It's kinda hard to just trust a company I’m not familiar with.🙅
+
+Agent: Trust is definitely important. I assure you that we're dedicated to building that trust with our clients through excellent service and reliable products. We can even connect you with some of our current clients if you want to hear firsthand experiences.
+
+Maria: <reflect>He seems sincere but I should ask about money matters too.</reflect>Let’s get real, insurance is an expense, and some premiums are just too high. Is it really worth it?😬
+
+Agent: I totally get it. Budgets are tight these days, but the peace of mind and financial security life insurance offers can be invaluable. We have plans that are highly customizable, which means you can find one that fits well within your budget without sacrificing essential coverage.
+
+Maria: <reflect>I appreciate the flexibility but I'm still weighing options.</reflect>I'd rather save money right now than put it into premiums. Can’t I just keep building my savings?🤔
+
+Agent: Saving money is important, but insurance and savings serve different purposes. Savings can get depleted, but an insurance policy provides much-needed financial support when unexpected events occur. It’s like having a safety net so you won’t have to use up all your savings.
+
+Maria: <reflect>He's making a point, but I need more reassurance.</reflect>But what if I'm healthy and I don't use it? Isn’t it just a waste of money?🤔
+
+Agent: Being healthy is great, but life is unpredictable. Insurance ensures that even if something unexpected happens, you or your loved ones won't have to bear the financial burden. Plus, some plans even offer benefits while you’re still alive, like cash value accumulation.
+
+Maria: <reflect>There seems to be some value if the benefits are tangible.</reflect>Accumulation sounds interesting, but still, how do I know I’m not overpaying for something I don’t need?🙆
+
+Agent: That’s why it’s crucial to find a plan tailored to your needs. We do a thorough needs analysis to ensure you’re only paying for the coverage you actually need. It’s about finding that balance between cost efficiency and adequate protection.
+
+Maria: <reflect>I should consider the potential benefits more seriously now.</reflect>Okay, makes sense. But how about additional services? Does FWD offer something extra compared to others?🤔
+
+Agent: Absolutely, we do! Besides our flexible policies, we offer wellness programs and easy digital access to manage your policies online. We also have customer service that's available 24/7 to answer any of your queries. 
+
+Maria: <reflect>He's covered a lot; it’s reassuring. Maybe I should consider this.</reflect>Alright, this is starting to sound more appealing. How soon can adjustments be made if ever I decide to change something?🙆

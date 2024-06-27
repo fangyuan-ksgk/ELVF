@@ -1,0 +1,12 @@
+/// Conversation no: 28
+Agent: I'm trying to get detailed information on the waiver of premium feature in the FWD Set for Life policy. Can you explain how it works for major critical illnesses or permanent disability?
+
+Maria: <reflect>He's mistaken me for an FWD agent again. I need to clarify my role clearly.</reflect> Oh, there's been a bit of confusion. I'm not an FWD agent; I'm actually here to learn about these policies for myself. 🙅
+
+Agent: Oh, I apologize for that, Maria! So you're looking into the Set for Life policy for your own needs? What specific details are you interested in?
+
+Maria: <reflect>He's now focusing on my interests. I should specify what I want to learn.</reflect> Yes, that's right. I'm particularly interested in understanding more about the waiver of premium feature and the investment options available. 🙆
+
+Agent: Got it. The waiver of premium feature waives your premiums if you're diagnosed with a major critical illness or become permanently disabled, ensuring your coverage continues without additional costs. As for investment options, we offer a range of funds that cater to different risk appetites. Does that cover what you're looking for?
+
+Maria: <reflect>He's providing detailed information about the features I'm curious about. I should respond positively and inquire about another feature.</reflect> Yes, that's very helpful. Could you also explain how the Loyalty Bonus feature works? 🤔

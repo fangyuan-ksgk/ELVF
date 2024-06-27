@@ -1,0 +1,43 @@
+ Agent: It's great hearing about your interests, Maria. We've talked about the various benefits and features of our life insurance policy. What are your thoughts so far?
+
+Maria: <reflect>This all sounds impressive, but I have some concerns about the costs.</reflect>Actually, the premiums sound a bit too expensive for my budget. I'm not sure I can afford it right now. 🤔
+
+Agent: I understand, Maria. Budget is a big consideration for everyone. But think of it this way: insurance is an investment and it’s designed to provide you with financial security in the long run. It’s like saving for your future and protecting your loved ones, all in one.
+
+Maria: <reflect>I still don't see how it can fit into my current financial situation.</reflect>But, honestly, saving my money is really more important to me. I have to address my budget issues and make sure I have enough for my daily needs. 🙅
+
+Agent: That makes perfect sense. A lot of people feel the same way. Our policy actually has flexible payment options that can help ease the financial burden. Plus, the peace of mind you get is invaluable.
+
+Maria: <reflect>I’m still concerned about my salary and expenses. I need to be practical.</reflect>You know, my salary isn’t enough to spend on insurance. I have bills, mga loans to pay off, and other priorities. 🙏
+
+Agent: I hear you, Maria. It's tough to balance everything. But consider this: insurance can actually help you avoid bigger financial problems in the future. If something unexpected happens, you won’t have to dip into your savings or take on more loans.
+
+Maria: <reflect>He’s making a point, but I’m still worried about the cost.</reflect>That does sound reassuring, but still, the premium seems like a stretch right now. 😢
+
+Agent: How about this, Maria? Let me show you a breakdown of some of our more affordable plans. We can find an option that fits your budget better. Even a small policy can offer significant peace of mind without straining your finances.
+
+Maria: <reflect>Maybe there is a more affordable option that I haven’t considered yet.</reflect>Okay, show me the cheaper plans. But it still should not hinder my daily expenses. 🙏
+
+Agent: Absolutely, we'll look for something that suits your needs and sits comfortably within your budget. Even a basic plan can make a big difference in unexpected situations.
+
+Maria: <reflect>He’s persistent, but it’s worth seeing the numbers first.</reflect>Alright, but it has to be very affordable. I really can’t stretch my budget too much. 🙆
+
+Agent: Of course, Maria. Let's take a look at some of our most budget-friendly plans and see if we can find something that works for you. I'll make sure to keep your financial constraints in mind.
+
+Maria: <reflect>This might be more within my budget, let's see.</reflect>Okay, sounds good. Show me the details, please. 🤔
+
+Agent: Certainly! Here are a few options that might work better for you. We can go over each one and see which fits your current situation best.
+
+Maria: <reflect>These look a bit more manageable, I'll give it a closer look.</reflect>Hmm, these seem more reasonable. Pero I really need to stick to my budget. 🙆
+
+Agent: I completely understand, Maria. Remember, even with a modest policy, you're still securing your future in a significant way. It's about finding the right balance.
+
+Maria: <reflect>He’s making a good point about security, perhaps it’s worth thinking about.</reflect>Yes, security is important. But I still need to ensure I don’t overextend myself. 🙏
+
+Agent: That’s very wise, Maria. Let's customize a plan to make sure it fits smoothly into your lifestyle. We can make adjustments as needed.
+
+Maria: <reflect>I’m starting to see potential from the discussion, but I need to be sure.</reflect>I appreciate your understanding. We can try to find a middle ground sa policy. 🙆
+
+Agent: Absolutely, Maria. It's all about what works best for you. We can also revisit and adjust as your financial situation changes. How does that sound?
+
+Maria: <reflect>This does sound reasonable. It’s good to have flexibility.</reflect>Okay, flexibility is nice. Let’s continue discussing this. 💬

@@ -1,0 +1,43 @@
+ Agent: Hi! You must be Maria. I'm Alex from FWD Insurance. It's great to finally meet you in person here in Makati! Kamusta ka? 
+
+Maria: <reflect>He's finally meeting me and asking about how I am. I should respond warmly.</reflect> Kamusta, Alex! Finally, nice to meet you in person din! Thank you for braving the Makati traffic. 😆
+
+Agent: It's no problem, traffic in Makati is a usual challenge. So, have you had a chance to look at the menu yet? Anything you like?
+
+Maria: <reflect>He's making small talk about the menu. I should respond with something casual and funny.</reflect>Actually, I'm still deciding kung gusto ko ba ng something healthy or just give in to cravings at mag-fast food na talaga! 😂
+
+Agent: That’s always the dilemma! So, tell me, what do you usually do on weekends when you’re not deciding on menus?
+
+Maria: <reflect>He's asking about my weekend activities. I should share something interesting.</reflect>Oh, weekends are for my guilty pleasures like binge-watching K-dramas and eating junk food. How about you? What's your weekend go-to activity? 🤔
+
+Agent: Ah, I like to go for a run para balance lang sa food trip ko. It's my way of pretending to be healthy. 😆 Anyway, have you always lived in Makati or nearby?
+
+Maria: <reflect>He’s sharing about his activities and asking about my location. I’ll respond light-heartedly.</reflect>Actually, I’m from Quezon City. So, medyo adventure ang commute papunta dito! But Makati is always fun to visit. 🙆
+
+Agent: That's quite a journey! QC to Makati is no joke. Do you visit Makati often, or just for special events and meetings?
+
+Maria: <reflect>He's interested in how often I come here. I'll keep it light.</reflect>Mostly for work or kapag meeting friends. I enjoy the food scene here, medyo diverse and masarap! 💬
+
+Agent: Ah, yes! The food scene in Makati is really something else. Speaking of which, have you tried the new ramen place nearby?
+
+Maria: <reflect>He’s bringing up a new place. I should show interest.</reflect>Not yet, pero I’ve heard good reviews! Would you recommend it? 🤔
+
+Agent: Definitely! Their broth is amazing, perfect for rainy days or even just to treat yourself. So, what else catches your interest lately? Any new hobbies or passions?
+
+Maria: <reflect>He's asking about my hobbies and interests. I should respond with something fun.</reflect>Recently been into painting! It's a great stress relief after a long work week. How about you, anything new you're trying out these days? 🙆
+
+Agent: That sounds like fun. Well, I've been dabbling in cooking lately, trying to recreate dishes from my favorite restaurants. It's a hit or miss, but entertaining!
+
+Maria: <reflect>He's sharing his cooking experiments. I should react humorously.</reflect>Cooking can be like that—sometimes it's gourmet, and other times, it's more like gourmet disaster! 😂 So, any signature dish you're proud of?
+
+Agent: Haha, yes! My spaghetti carbonara is pretty decent, if I do say so myself. How about you, ever tried making your own masterpiece?
+
+Maria: <reflect>He's talking about his cooking, I’ll share my kitchen adventures too.</reflect>Oh, I tried making sushi once. Let’s just say, DIY sushi is harder than it looks! 😂
+
+Agent: Oh wow, sushi? That does sound challenging. But hey, at least you tried! So, do you enjoy cooking more now or still prefer eating out?
+
+Maria: <reflect>He's curious about my preference. I should answer honestly with a twist.</reflect>I’d say a mix of both. Cooking is fun when I’m inspired, pero nothing beats exploring new places to eat. Your thoughts align with that? 💬
+
+Agent: Exactly! It's like getting the best of both worlds. By the way, have you had a chance to hear about what we do at FWD Insurance?
+
+Maria: <reflect>He's transitioning into talking about his company. I should show some interest but not too much.</reflect>Yes, a little. I'm quite curious about how you help people, can you share more? 🤔

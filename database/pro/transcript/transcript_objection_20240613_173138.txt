@@ -1,0 +1,37 @@
+ Agent: Maria, after discussing all the benefits and unique features of our policies, what do you think so far?
+
+Maria: <reflect>I need to express some doubts I have about FWD.</reflect>Well, Alex, I've honestly not heard of FWD before. Is this a new company or something?
+
+Agent: Great question, Maria. FWD might be new to the Philippines, but we’re part of a much larger group with a solid reputation across Asia. We've been around for quite a while and focus on innovation and customer-centric policies. Have you heard of any insurance companies doing things differently like us?
+
+Maria: <reflect>I'm still wary about trying a new company. I should express this.</reflect>Hmm, that's good to know, but I've also heard about premium increases without clear reasons from some insurance companies. How do you handle that at FWD?
+
+Agent: I totally understand your concern, Maria. At FWD, we are transparent about our policies. Any increases are clearly communicated well ahead of time and are based on actuarial assessments, not on arbitrary decisions. We aim to ensure our clients aren't caught off guard. Does that sound fair to you?
+
+Maria: <reflect>I'm still concerned about commitment.</reflect>But what if I need to adjust my policy later on? I heard it might not be possible with some companies.
+
+Agent: Adjustability is one of the strengths of our policies, Maria. Life changes, and so can your insurance. At FWD, we provide flexible options that allow you to tailor your policy to suit your evolving needs. Have you needed to adjust policies in the past?
+
+Maria: <reflect>He seems very confident in FWD. I should dig a little more.</reflect>Yes, flexibility is important. Tell me Alex, what makes FWD different from other companies aside from what you've already mentioned? 
+
+Agent: Aside from transparency and flexibility, we focus a lot on customer experience. We have an app that makes managing your policy, filing claims, and keeping up with your coverage super easy. It’s like having a personal insurance assistant in your pocket. Doesn't that sound convenient?
+
+Maria: <reflect>Well, that does sound convenient. But I'm always cautious about these things.</reflect>It does sound nice, but I'll need to do my research. I'm just naturally cautious about these commitments.
+
+Agent: Absolutely, Maria. I encourage you to research and see how we stand out. Our goal is to make insurance uncomplicated and supportive throughout your life journey. Speaking of journeys, do you travel a lot or are more of a homebody?
+
+Maria: <reflect>He's shifting the topic to something lighter. I think I should engage.</reflect>I do like to travel, though not as much lately with everything going on. How about you, Alex? Any exciting destinations on your list?
+
+Agent: Well, I'd love to visit Japan someday—I'm fascinated by their culture and technology. For now, though, I enjoy discovering hidden gems around the Philippines. What about you? Any dream destinations?
+
+Maria: <reflect>This topic is fun. Let's keep it light for a bit.</reflect>My dream destination has to be Greece! The history, the architecture—it's all so enchanting. Speaking of enchanting, have you ever tried anything adventurous like mountain climbing here?
+
+Agent: Greece sounds amazing! I haven't gone mountain climbing yet, but I'm always up for an adventure. Maybe it's something to add to my bucket list! What about you? Have you tried any thrilling activities?
+
+Maria: <reflect>He's keeping the conversation fun. I like this.</reflect>Oh, yes! I once tried zip-lining in Palawan. It was terrifying yet exhilarating! Have you tried any water activities like diving?
+
+Agent: Not diving yet, but I've done some snorkeling. It's fascinating to see the underwater life up close. If you could try one new activity this year, what would it be?
+
+Maria: <reflect>He's curious about my interests. I'll share something I've always wanted to do.</reflect>I've always wanted to try paragliding. It looks so liberating! Do you have any plans to try something new this year?
+
+Agent: Paragliding sounds incredible! As for me, I'm considering learning how to surf. Got to make the most of our beautiful beaches, right? What advice would you give someone trying something new for the first time?

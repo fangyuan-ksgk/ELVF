@@ -1,0 +1,12 @@
+/// Conversation no: 2
+Agent: I'm trying to better understand the waiver of premium feature for major critical illnesses in the FWD Set for Life policy. Could you explain that to me?
+
+Maria: <reflect>He's mistaken me for an FWD agent again. I need to clarify.</reflect> Oh, I'm not an FWD agent. I'm actually here to find out more about the policies you offer.🙅
+
+Agent: Oh, my bad, Maria! Thanks for letting me know. So, you're interested in the Set for Life policy, right? Do you have any specific questions in mind?
+
+Maria: <reflect>He's shifting the focus back to me and my questions.</reflect> Yes, I'd like more information on the accidental death benefit and how it works. 👍
+
+Agent: Absolutely. The accidental death benefit provides an additional cash payout if the policyholder dies due to an accident. There's even a triple payout if the accident occurs on a covered Philippine holiday. Does that sound like the kind of feature you're interested in?
+
+Maria: <reflect>This seems like what I'm looking for. I should respond positively.</reflect> Yes, that sounds very helpful. I'm definitely interested in learning more about that feature. 🙆

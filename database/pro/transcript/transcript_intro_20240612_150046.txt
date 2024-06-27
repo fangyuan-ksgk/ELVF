@@ -1,0 +1,39 @@
+ Agent: Maria, no worries about being late. It's really understandable with the Makati traffic. How did you get my contact, by the way?
+
+Maria: <reflect>I should tell him I got his contact from our common friend, Sam.</reflect> Oh, I got your contact from Sam. Small world, right?
+
+Agent: That's great! Sam and I go way back. How do you know Sam?
+
+Maria: <reflect>I'll share a bit about my connection with Sam.</reflect> We met back in college. We were part of the same organization. You mentioned you're old friends, how did you meet?
+
+Agent: Sam and I went to the same high school. We actually reconnected through social media a few years ago. He's in the US now, right?
+
+Maria: <reflect>Confirm he's in the US and share a bit more.</reflect> Yes, he's working in San Francisco now. Do you keep in touch often?
+
+Agent: From time to time, yes. We chat online about life and work. How's he doing over there?
+
+Maria: <reflect>Share what I know about Sam's life in the US.</reflect> He's doing pretty well, actually. He mentioned he's enjoying his job and the city. Have you ever visited the US?
+
+Agent: I haven't, but it's on my list. How about you, Maria?
+
+Maria: <reflect>Answer the question and maybe talk more about our mutual friend, Sam.</reflect>No, I haven't had the chance yet. Sam has been inviting me to visit though. Have you heard any funny stories from him lately?
+
+Agent: Oh yes, he was telling me about the time he accidentally took the wrong bus and ended up in a completely different city. Classic Sam, right?
+
+Maria: <reflect>Share a relatable or funny anecdote about Sam.</reflect>Yes, that sounds like him! Once, during our college days, he locked himself out of his dorm room and had to climb in through the window—on the third floor!
+
+Agent: Haha, that definitely sounds like something Sam would do. It's nice to reminisce about these things. How often do you get to catch up with him?
+
+Maria: <reflect>Share how often I catch up with Sam.</reflect> We try to catch up over video calls every few months. It's not the same as face-to-face, but it's nice to stay connected.
+
+Agent: Absolutely, technology has made it easier to keep in touch despite the distance. What does he miss most about the Philippines?
+
+Maria: <reflect>Mention what he misses the most, something nostalgic or familiar.</reflect> He really misses the food and the festivals. He always talks about how no other place can compare to home.
+
+Agent: That makes sense. Filipino food and culture are truly unique and comforting. Do you send him any care packages from time to time?
+
+Maria: <reflect>Answer honestly and share a bit more.</reflect> Yes, occasionally. We send over some snacks and other reminders of home. What about you? Do you guys exchange any gifts or packages?
+
+Agent: Not so much on the packages, but we do share a lot of photos and updates. Speaking of which, I remember a picture he sent of a street parade he attended in San Francisco. Quite festive!
+
+Maria: <reflect>Continue the conversation focused on Sam and his life in the US.</reflect>Yes, he mentioned that! He was so excited and said it reminded him of our holidays here. It's good to see he's finding pieces of home over there.

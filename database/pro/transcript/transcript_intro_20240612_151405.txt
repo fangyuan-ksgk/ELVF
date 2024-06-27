@@ -1,0 +1,49 @@
+ Agent: Hello po, Maria correct? I'm Alex pala from FWD Insurance. I'm glad you could make it despite the traffic. How was your trip here?
+
+Maria: <reflect>He's acknowledging I was late and making sure I'm okay; I should apologize for being late and answer his question.</reflect>Ay, Sorry for being late, Alex. The traffic was really crazy! Good thing I didn’t drink too much water, hahahaha. But I made it, so thank you for waiting.🙏
+
+Agent: No worries, Maria. The traffic is really unpredictable these days. By the way, our common friend Sam mentioned you were looking for some information. How do you know Sam?
+
+Maria: <reflect>He's mentioning our common friend, makes sense to explain our connection.</reflect>Sam and I go way back to college. We were actually in the same project group. How about you, how do you know Sam?💬
+
+Agent: Sam and I worked together on a few projects when he was still in the Philippines. He's a great guy and a hard worker. Did you know he's now in the US?
+
+Maria: <reflect>He's focusing on Sam. I should express some curiosity about Sam's life in the US.</reflect>Yes, I heard about that. Do you have any updates on how he's doing there?🤔
+
+Agent: Absolutely. Sam is doing quite well. He's been promoted recently and seems really happy with his life there. He mentioned he misses the food here though.
+
+Maria: <reflect>Agent seems to know a lot about Sam. I'll ask more about Sam's experience abroad.</reflect>That's great to hear! Has he mentioned anything about adjusting to life in the US?🙏
+
+Agent: Yes, Sam did mention that the initial adjustment was a bit challenging, but thanks to his new colleagues and the community, he feels more settled now. He even joined a Filipino community group there.
+
+Maria: <reflect>Agent's sharing more details, I should ask something that could relate to me.</reflect>Good to know that he's adjusting well. Did he say anything about the Filipino community there and how they help each other out?🙆
+
+Agent: He did. Sam said the Filipino community there is very supportive. They have regular meet-ups and even organize events for Filipino festivals. It's like a small piece of home abroad.
+
+Maria: <reflect>It's nice to hear about the close-knit community. I'll share something about how Sam used to be in college.</reflect>That sounds heartwarming. Back in college, Sam was always the one organizing get-togethers for our group. Nice to know he's doing the same there.👍
+
+Agent: Oh really? That doesn't surprise me at all. Sam always had that natural leadership quality. It's good to hear that he continues to influence people in a positive way.
+
+Maria: <reflect>Agent is complimenting Sam. I'll share something positive about Sam's character.</reflect>Absolutely, Sam has always been so dedicated and supportive. He was the one who pushed me to join extracurricular activities, which I'm grateful for.🤔
+
+Agent: That's wonderful to hear, Maria. Sam actually mentioned you were one of his closest friends and that you're a very hardworking person too. You have quite a supportive bond.
+
+Maria: <reflect>He's recognizing my relationship with Sam, I should acknowledge that and say something about our bond.</reflect>Yes, we've been through a lot together. He's always been a mentor and a friend to me. I really miss our study sessions.💬
+
+Agent: It's rare to have such long-lasting friendships. I’m sure Sam feels the same way. He often talks about the good times you both had during your college days.
+
+Maria: <reflect>Agent keeps sharing more about Sam's thoughts. I should ask something specific.</reflect>Do you know if Sam has any plans to visit the Philippines soon?🙏
+
+Agent: From our recent conversations, Sam mentioned he’s hoping to visit next year if his schedule permits. He really wants to catch up with everyone here.
+
+Maria: <reflect>That's great news, I should express my excitement.</reflect>That's wonderful to hear! It would be nice to see him again and reminisce about old times.👍
+
+Agent: Definitely. Catching up in person after so long would be special. I’m sure he’ll be excited to see you all too.
+
+Maria: <reflect>Conversation is flowing well about our common friend. I should ask something personal about Sam's current life.</reflect>Did Sam mention anything about what he's up to these days aside from work?🙆
+
+Agent: Yes, he mentioned he’s been getting into hiking and exploring the national parks there. It's his new way of destressing from work.
+
+Maria: <reflect>Interesting to hear about Sam's hobbies. I should share my thoughts about it.</reflect>That's nice to hear. He always loved nature. Hiking sounds like a perfect fit for him. What kind of trails has he been exploring?🤔
+
+Agent: He’s been exploring a variety of trails, ranging from easy walks to more challenging ones. He recently did a hike at Yellowstone and said it was a breathtaking experience.

@@ -1,0 +1,45 @@
+ Agent: Before we proceed further, I've noticed you're holding back regarding the policy. May I ask if there's something specific you're concerned about?
+
+Maria: <reflect>I need to address my concerns about not being qualified due to smoking and health history.</reflect>Oh, well, actually, I'm afraid I might not qualify for life insurance because I smoke and I have a history of illness. 🙆
+
+Agent: I understand your concerns, Maria. But don't worry! At FWD, we have policies that cater to people with various health backgrounds and lifestyles. Smoking or having a medical history doesn't disqualify you automatically.
+
+Maria: <reflect>He is assuring me about flexibility; I should ask for more details.</reflect>Really? How does that work po? I thought those were deal-breakers for life insurance. 🙆
+
+Agent: We evaluate each individual case. For smokers, premiums might be higher, but it doesn't mean you're disqualified. As for medical histories, we might require a few extra steps like health checks, but we have options that might still fit your needs.
+
+Maria: <reflect>Extra steps? That sounds like a hassle but let's clarify what those steps are.</reflect>Extra steps? As in, medical examinations and filling out more forms? 🤔
+
+Agent: Yes, medical examinations are part of the process to ensure we provide the right policy for you. It helps us understand your health better and tailor the policy accordingly.
+
+Maria: <reflect>That can be intrusive, but I understand it's necessary. I'll confirm.</reflect>Okay, I see. It makes sense naman to understand fully before giving a policy. But is it a long process po? 🙆
+
+Agent: It depends on the healthcare provider and the type of tests required. Usually, it does take some time, but we make sure it's as smooth and quick as possible.
+
+Maria: <reflect>Queuing for health tests, that sounds tiring but knowing the duration isn't too bad.</reflect>Oh, okay. I guess it's okay if it's not too long. 🙆
+
+Agent: Absolutely. We'll be there to assist you every step of the way. You're not alone in this. We want to make it convenient for you.
+
+Maria: <reflect>It's good to know they'll assist, but I still have doubts about the smoking issue.</reflect>Thanks. But what about me being a smoker? Will the premiums be too high? 🙆
+
+Agent: The premiums might be slightly higher for smokers, given that it poses health risks, but that doesn't mean it's unaffordable. We've managed to find suitable plans for many clients who smoke.
+
+Maria: <reflect>So the premium is higher for a good reason. I should know how much higher.</reflect>I get that. But how much higher are we talking about? I mean, like a rough estimate? 🙆
+
+Agent: It's hard to give an exact figure without knowing specific details, but typically, it could be around 25-50% more compared to non-smokers.
+
+Maria: <reflect>That's a significant increase. I'll see if I can manage it.</reflect>That's quite an increase. I'll have to think about it, but it's good to know there are still options. 🙆
+
+Agent: It is, but we believe it's still worth it considering the protection and peace of mind it offers. Plus, there are ways to potentially reduce that over time, like smoking cessation programs.
+
+Maria: <reflect>This smoking cessation program sounds beneficial; I should dig deeper.</reflect>Oh, really? How would that work with the policy? 🙆
+
+Agent: If you quit smoking for a certain period, we can review your policy and possibly adjust your premiums accordingly. It's an incentive to adopt a healthier lifestyle.
+
+Maria: <reflect>A healthier lifestyle and saving on premiums is tempting.</reflect>That sounds like a good motivation to quit! Okay, maybe I should consider that. 🙆
+
+Agent: Exactly! It's a win-win situation. Better health and potential savings. So, do you have any other concerns or questions about the policy?
+
+Maria: <reflect>I'll ask about pre-existing illnesses and how they affect the policy.</reflect>Yes, if I get a policy, will it cover my pre-existing conditions too? 🙆
+
+Agent: Pre-existing conditions are usually reviewed on a case-by-case basis. Some conditions might have a waiting period before they are covered, but again, it's specific to each policy.

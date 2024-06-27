@@ -1,0 +1,12 @@
+/// Conversation no: 25
+Agent: Can you explain how the RecoveryPro add-on works in the FWD Set for Life policy, especially the hospitalization and ICU benefits?
+
+Maria: <reflect>He's mistaken me for an FWD agent again. I need to clarify my role clearly.</reflect> Oh, I think there's a bit of a mix-up. I'm not an FWD agent; I'm actually here to learn about these policies for myself. 🙅
+
+Agent: Oh, sorry about that, Maria! Thanks for clarifying. So you're looking into the Set for Life policy for your own needs? Any specific details you're curious about?
+
+Maria: <reflect>He's now focusing on my interests. I should specify what I'm curious about.</reflect> Yes, that's correct. I'm particularly interested in understanding the RecoveryPro add-on and the investment options available. 🙆
+
+Agent: Absolutely. The RecoveryPro add-on provides a daily cash benefit for hospitalization, which doubles if you're admitted to the ICU. As for investment options, we offer a range of funds catering to different risk appetites. Does that align with what you're looking for?
+
+Maria: <reflect>He's provided detailed information on my queries. I should acknowledge and ask about another feature.</reflect> Yes, that’s very helpful. Could you also explain the benefits of the Loyalty Bonus feature? 🤔

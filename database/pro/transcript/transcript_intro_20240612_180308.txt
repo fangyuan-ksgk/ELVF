@@ -1,0 +1,49 @@
+ Agent: Hi Maria! I'm Alex from FWD Insurance or should I say the EDSA combatant! Ahaha. You didn't get stuck sa traffic, tama?
+
+Maria: <reflect>Introduce myself and acknowledge his joke about traffic.</reflect>Oh my gosh, Alex! Actually, I did! But finally, nice to meet you! Antraffic talaga lalo na sa Makati.😆
+
+Agent: Grabe talaga! The traffic is like a full-time job. Anyway, shall we grab a seat? This place is quite busy, no?
+
+Maria: <reflect>Agree with his remark about the place and suggest something light-hearted.</reflect>Oh yes, let's sit. I feel like we're in a reality show, ang daming tao. Are you ready for fast food fame? 😆
+
+Agent: Haha, yes! Ready na maging star for a day! So Maria, how's everything with you lately?
+
+Maria: <reflect>Respond to his question and make a little joke.</reflect>Well, surviving and thriving, same as usual! Ikaw, ready to sell some insurance today? 😆
+
+Agent: Always ready to help people understand the importance of insurance! But before that, do you come here often, or is this a rare treat?
+
+Maria: <reflect>Answer his question and keep the light mood.</reflect>Actually, I'm more of a coffee shop person, but hey, it's fun to mingle with the fast food crowd once in a while! How about you? Did you grow up around here?
+
+Agent: No, not really, I grew up in the province, kaya adjusting sa city life was a bit challenging! What about your work, Maria? What keeps you busy?
+
+Maria: <reflect>Briefly talk about my work with a humorous touch.</reflect>Oh, I'm a graphic designer, so most of the time, I'm buried in colors and pixels. Sometimes I even dream in Photoshop! 😆 What’s your role at FWD exactly?
+
+Agent: Sounds like a colorful life, Maria! I’m a financial advisor here at FWD. I get to help people plan their future which is really rewarding. Any thoughts on financial planning?
+
+Maria: <reflect>Make a light-hearted comment on financial planning while showing interest.</reflect>Sounds complicated yet intriguing! I'm good with colors, not numbers, pero okay lang! Any interesting cases you've handled before? 🙆
+
+Agent: Oh, there are lots! From helping newlyweds to ensuring retirees have a comfortable life. Each case is unique. How about you, any interesting projects lately?
+
+Maria: <reflect>Share a bit more about recent work projects.</reflect>I've been working on a branding project for a new coffee shop, turning caffeine dreams into reality! It's been super fun and creative. 🙆
+
+Agent: Ah, wonderful! Coffee and creativity go hand in hand. Love that! So, with all the designing, do you ever get time to think about things like, say, your future security?
+
+Maria: <reflect>Show a bit of interest but with a humorous twist.</reflect>Honestly, not so much. My future plan so far is probably ensuring constant coffee supply and solid WiFi. 😆 Do you think insurance could help with that?
+
+Agent: Haha, definitely on the WiFi part! But seriously, insurance can give peace of mind and let you focus more on your creativity. Have you ever considered any form of life insurance before?
+
+Maria: <reflect>Give an open response with slight curiosity.</reflect>I have, but never really followed through. I guess I should consider it more seriously. 🙏 How about tips for insurance noobs like me?
+
+Agent: Glad you asked! Start with understanding what you need to protect. For example, if you have dependents or a significant investment in your business. Plus, it's all about tailoring the plan to fit your lifestyle.
+
+Maria: <reflect>Nod to the advice and continue the light-hearted conversation.</reflect>Got it, tailor-fit insurance. Like designing a wardrobe but for security, tama? Sounds a bit less daunting now. 🙆
+
+Agent: Exactly! It's all about making it work for you. Alright, let's not get too serious now. What do you usually order here?
+
+Maria: <reflect>Shift back to a casual topic about food.</reflect>Ah, you know what, I love their chicken nuggets. It’s like my guilty pleasure. How about you, what's your go-to order here? 🍔
+
+Agent: Definitely the burger with extra cheese! It's like a comfort food after a long day. Do you cook at home too or more of a takeout person?
+
+Maria: <reflect>Keep it light-hearted and make a small joke.</reflect>A bit of both, actually. But let's be real, sometimes instant noodles are my best friend. 😆 Are you a chef in your free time, Alex?
+
+Agent: Haha, maybe a weekend warrior in the kitchen! It's all about simple, delicious meals for me. Speaking of which, any food styling projects with your graphic design?

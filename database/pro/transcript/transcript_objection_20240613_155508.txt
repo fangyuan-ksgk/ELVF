@@ -1,0 +1,43 @@
+ Agent: Kamusta, Maria? Finally nice to meet you. So we've walked through most details about the insurance policies. Any questions or thoughts so far?
+
+Maria: <reflect>I want to make sure I understand their reputation and benefits. Need to express my concerns about trust.</reflect>Well, Alex, you’ve been very thorough, but to be honest, I want to compare products from other companies. You know, just to make sure. 🤔
+
+Agent: I totally get that, Maria. It's always smart to compare. But just to share, FWD Insurance is quite unique in that we focus on customer experience and flexibility with our plans. Have you heard about any other companies that offer what we do?
+
+Maria: <reflect>He’s trying to highlight their uniqueness. I need to ask him more about the company.</reflect>Hmm, fair point. But I prefer to do my research, kasi I've just heard of FWD. Can you tell me more about its background? 🙆
+
+Agent: Absolutely. FWD started in Asia and has quickly grown its presence across several countries. We've been known for modernizing insurance, making it more accessible and easier to understand. Any specific feature you’re curious about?
+
+Maria: <reflect>That sounds promising, but I need more assurance about their reliability.</reflect>That’s interesting, but FWD is a new company, right? I’ve heard about premium increases without clear reasons in newer companies. 🤔
+
+Agent: Great question, Maria. In reality, premiums can change with any company, but with us, we ensure transparency. We keep our clients in the loop about any changes. Plus, we've got a dedicated team to support and help you understand your policy.
+
+Maria: <reflect>He's assuring me about transparency. Another concern about adjustability.</reflect>Okay, but what if my needs change? I've heard you can't adjust the policies later on. 🙅
+
+Agent: I'm glad you asked! Our plans are actually designed to be flexible. You can make adjustments depending on life changes, like adding riders for extra coverage or tweaking benefits. We believe in evolving with your needs. Does that sound like something that would help you?
+
+Maria: <reflect>Flexible policies are good. Maybe I should clarify that.</reflect>Yes, that does sound helpful. Still, I'd rather buy from someone I know. It's just more comfortable that way. 🙆
+
+Agent: I can understand that, Maria. Trust and comfort are crucial. Maybe we can work on building that trust. I'm always here to provide any information you need and assist you personally. How about that?
+
+Maria: <reflect>He is trying to build rapport. I should give him the chance but cautiously.</reflect>Alright, that sounds fair, Alex. But, lagi akong praning about these things. What if those premium increases catch me off guard? 🤔
+
+Agent: Haha, no worries, Maria! We have a very clear communication system in place. You’d be notified well in advance about any changes. And remember, you can always reach out to me for clarifications.
+
+Maria: <reflect>That’s slightly reassuring. Back to researching on my own.</reflect>Okay, noted. But like I said, I still want to compare with others. It’s just my style. 🙆
+
+Agent: Understood, Maria. Comparison shopping is wise, and we're here to answer any further questions. By the way, did you know that our policies also come with wellness programs and rewards? Any thoughts on that?
+
+Maria: <reflect>Surprised by the wellness programs. Should ask more.</reflect>Wellness programs? That’s a new one. Tell me more about those. 🙆
+
+Agent: Sure! We offer various wellness benefits like discounts on gym memberships, dental and vision care, and even mental health support. We believe in not just insuring lives but also enhancing them.
+
+Maria: <reflect>That's quite comprehensive. Should give him credit for that.</reflect>That's quite impressive, Alex. Parang you thought of everything. Does that include routine health checkups too?
+
+Agent: Exactly, Maria! We have partnered with some medical institutions for routine health checkups. Our goal is to keep you in the best health, not just to cover you in times of need.
+
+Maria: <reflect>He’s got a point. Should mention how much this helps.</reflect>I have to say, that sounds pretty thorough and helpful. I didn’t expect insurance could cover so much. 🙆
+
+Agent: I’m glad you find it helpful, Maria. FWD really strives to offer comprehensive and flexible plans that fit into all aspects of your life. Any more questions or anything else you'd like to discuss?
+
+Maria: <reflect>Think of another concern. Maybe about the claims process next.</reflect>Actually, how about the claims process? It’s known to be tedious with some companies. 🙆

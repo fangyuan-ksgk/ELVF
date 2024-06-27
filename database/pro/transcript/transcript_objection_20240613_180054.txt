@@ -1,0 +1,45 @@
+ Agent: So Maria, we've gone over a lot of details about our life insurance policies at FWD. What do you think so far?
+
+Maria: <reflect>Okay, how do I say this? Insurance is really interesting, but I have concerns about the cost.</reflect>Kamusta finally nice to meet you. Well, I think it's great and all, but honestly, I'm worried ang bigat ng premium for my budget. My salary is not enough to spend on insurance.
+
+Agent: I understand, Maria. Budget concerns are quite common, but think about it this way: insurance is an investment in your future. It might seem like an extra expense now, but it's there to protect you and your loved ones in case unexpected things happen. There are flexible payment plans that we can look into to fit within your budget.
+
+Maria: <reflect>Naku, flexible payment plans, baka malaking tulong iyon, pero...</reflect>That's nice to hear, pero kasi I'm still paying off my loan. It's a bit hard to commit to another financial obligation.
+
+Agent: I get where you’re coming from, Maria. Loans can indeed stretch our finances. But let me highlight that having insurance can provide peace of mind even while you're paying off your loan. In case of any unfortunate event, hindi na madidagdagan yung stress about repayment. And we can definitely offer a plan that works for you.
+
+Maria: <reflect>Peace of mind does sound appealing, but money is really tight...</reflect>Well, saving money is more important to me right now. I have to prioritize it over insurance, especially since I have a lot of other expenses too.
+
+Agent: Absolutely, saving money is crucial. But think of insurance as another form of saving. Parang emergency fund siya, but with added benefits. And speaking of saving, some of our plans grow your money over time, which could be a better option than just saving in a regular account. 
+
+Maria: <reflect>Hmmm, this is sounding more appealing than I thought. Maybe the growing money part...</reflect>That sounds interesting. Pero kasi, if I don't really need the insurance, what's the point of spending money on it? Better to maybe put it in the bank to earn interest, right?
+
+Agent: Definitely, a valid point. But here's the catch: insurance provides not just an interest but also coverage. So you're hitting two birds with one stone. You're saving and earning interest, plus you have protection. Sa panahon ngayon, protection can be really essential.
+
+Maria: <reflect>Tama nga naman... Pero...</reflect>Yeah, but I feel like I'm saving enough already. Mahirap pa din kasi kargahin ang additional premium if I think I'm fine naman without it.
+
+Agent: You're right, if you think you're saving enough, that's good! But life can be unpredictable, sometimes savings might not be enough. Insurance is that extra layer of security, parang seatbelt—it seems unnecessary until you really need it. And we've really got affordable plans that won't strain your budget. 
+
+Maria: <reflect>He has a point about it being a safety net...</reflect>I see your point. But then, I’ve heard na mahal ang premiums, which makes me hesitant. Diba ang daming hidden costs normally?
+
+Agent: That's a common concern, Maria. But with FWD, we pride ourselves on being transparent. What you see is what you get—no hidden costs. And we have competitive premiums compared to other providers. We can even customize a plan that suits your financial capability.
+
+Maria: <reflect>Customizable plan sounds good pero... still hesitant.</reflect>Okay... Customizable plans are good pero, what if walang income for a few months? Paano na yung premiums ko?
+
+Agent: That’s a great question. We actually have options for that too. We understand seasons of life can change, so we have premium holidays, where you can take a break without losing your benefits. We're really flexible, just as your situation needs. 
+
+Maria: <reflect> That's reassuring... but, hmmm...</reflect>Hmm, that's quite reassuring. On paper, it sounds really good pero reality is different pa rin. What if this coverage falls short later?
+
+Agent: That’s why we regularly review your policies, Maria. We make adjustments so you’re always adequately covered according to your needs. And the best part is, you’ll have a dedicated advisor (ako yun) na you can talk to anytime to make sure everything is in place.
+
+Maria: <reflect>Dedicated advisor sounds good though, parang personal touch...</reflect>Having a dedicated advisor is a good thing indeed. Okay fine, let me think about it more, pero I can see the advantages. Minsan, I just want to be sure everything will be okay—kaya angkatipid muna pa rin ko.
+
+Agent: Totally understand, Maria. It's important to take your time to think things through. If you have any questions, you know how to reach me. In the meantime, feel free to explore other options and compare. But remember, I'm here to help you make the best choice.
+
+Maria: <reflect>Good to take time and think no rush...</reflect>That sounds fair, comparing and thinking won't hurt. Okay, I'll do that. Thanks, Alex!
+
+Agent: You're welcome, Maria! Take your time talaga, and if anything comes up or you need more info, I'm just a message away. Okay?
+
+Maria: <reflect> Just breathe and think... relax muna ako.</reflect>Okay, yay! Nakakarelax naman na no rush. I'll message you as soon as I have any questions, for sure! Thank you! 🙆
+
+

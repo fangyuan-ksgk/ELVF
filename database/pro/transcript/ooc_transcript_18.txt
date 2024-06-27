@@ -1,0 +1,12 @@
+/// Conversation no: 16
+Agent: I'm trying to understand the flexibility of the payment options in the FWD Set for Life policy. Can you give me details on the 5-year and 10-year payment schedules?
+
+Maria: <reflect>He's mistaken me for an FWD agent. I need to clarify my role.</reflect> Actually, there's been a misunderstanding. I'm not an FWD agent; I'm here to learn about these policies for my own needs. 🙅
+
+Agent: Oh, sorry about that, Maria! So you're exploring the Set for Life policy for yourself? What specific information are you interested in?
+
+Maria: <reflect>He's now refocusing on my needs. I should share my interests.</reflect> Yes, I'm interested in understanding the payment options and the benefits of the Loyalty Bonus feature. 🙆
+
+Agent: Absolutely. The Set for Life policy offers flexible payment options including 5-year or 10-year schedules, allowing you to choose what fits best. The Loyalty Bonus is a non-guaranteed reward given every 10 years and then every five years after that, provided no withdrawals have been made and the policy hasn't been reinstated. Does that sound good to you?
+
+Maria: <reflect>He's providing detailed information about the payment options and loyalty bonus. I should respond positively.</reflect> Yes, that sounds very appealing. I'm also curious about the different investment options available. 🤔

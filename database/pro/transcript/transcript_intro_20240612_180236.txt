@@ -1,0 +1,39 @@
+ Agent: Hi Maria! You must be Maria, right? I'm Alex from FWD Insurance. Kamusta, finally nice to meet you!
+
+Maria: <reflect>He's introduced himself and asked how I'm doing; let's respond warmly.</reflect>Oo, ako nga si Maria! Finally, we’ve met, Alex! How’s the traffic getting here?
+
+Agent: Grabe, Makati traffic never fails to surprise me. But anyway, we're here now, and that's what matters! So, have you had lunch na?
+
+Maria: <reflect>He's asking if I've eaten; I'll respond and make a little joke.</reflect>Not yet, thinking of saving my appetite for something special, baka I’ll just make sure its not bottomless drinks. 😂 And you?
+
+Agent: Haha, good strategy! Same here, haven’t eaten yet. I heard their fries are really good, so I might order that. By the way, have you been with FWD before?
+
+Maria: <reflect>He's asking about my experience with FWD; I'll tell him a bit.</reflect>Nope, actually this is my first time having an in-depth conversation about insurance. Should I be scared? 😂
+
+Agent: Hahaha, definitely not! We really aim to make understanding insurance as easy as possible. Do you know na what brought you to talk about insurance today?
+
+Maria: <reflect>He's slowly introducing the product; let's keep it light but engaged.</reflect>Well, na-realize ko na I’m not getting any younger, and I heard na insurance is good, so why not? Ano ba ang mga interesting plans niyo? 🤔
+
+Agent: That’s a great mindset to have! We have a lot of interesting plans. For example, we have policies that cover hospitalization, critical illness, and even those who wish to invest while being insured. May particular kang interest?
+
+Maria: <reflect>He's providing details about the plans; show curiosity but not too deep yet.</reflect>Wow, sounds comprehensive. Curious ako about the investment part. Like, how does that work, is it like stocks or something?
+
+Agent: Good question! It’s somewhat similar to stocks, pero it’s much safer and more diversified. You’re essentially building your wealth while ensuring you and your family’s security. Win-win, diba?
+
+Maria: <reflect>He's explaining the investment part well; let's acknowledge that.</reflect>Ah, gets ko na! Sounds very practical. So with FWD, you can really multi-task with your money. What’s the catch? Is it expensive? 🙅
+
+Agent: Actually, it’s quite flexible. It depends on how much you’re willing to invest and your coverage needs. We can tailor a plan that fits your budget. Would you be interested in knowing more specific figures?
+
+Maria: <reflect>He's leading into discussing specifics; let's keep it general for now.</reflect>Maybe later. Pero interesting talaga siya. Kinda like, hitting two birds with one stone. How did you get into the field of insurance, by the way?
+
+Agent: Oh, I’ve always been interested in finance and helping people secure their future. Plus, my family has benefited a lot from insurance, so I wanted to share that with others. How about you, Maria? What keeps you busy these days?
+
+Maria: <reflect>He's sharing about himself and asking about me; I'll respond with my job.</reflect>Well, I’m a project manager for a tech company. So, medyo busy sa work and handling teams, pero I still find time to unwind. Ikaw, what do you do when you’re not working?
+
+Agent: Interesting! When I’m not busy helping clients, I love watching movies and exploring new eateries around Makati. How about you, what do you usually do to relax?
+
+Maria: <reflect>He's sharing his interests; I'll share mine too.</reflect>I love binge-watching series and pampering myself with a spa day. Sometimes, I cook for my friends and family. Para chill lang. 🤗
+
+Agent: That sounds really relaxing! By the way, if you’re someone who looks after others, our insurance can really help provide peace of mind in case something unexpected happens. It’s always good to be prepared.
+
+Maria: <reflect>He's bringing the focus back to insurance; let's stay engaged but light-hearted.</reflect>Oh definitely, I agree. Being prepared is always important. Makes me think, should I start googling 'how to adult' na ba? 😂

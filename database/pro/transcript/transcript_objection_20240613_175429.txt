@@ -1,0 +1,39 @@
+ Agent: Maria, now that we've gone over all the details, what do you think? Do you see yourself getting an insurance policy anytime soon?
+
+Maria: <reflect>Need to express budget concerns first.</reflect>You know, sobrang interesting talaga yung na-share mo. Pero... I'm really trying to save money right now. I mean, insurance is not a priority in my budget. 🙅
+
+Agent: I understand, Maria. Budgeting can be tough. But think of it this way, having an insurance policy can actually save you money in the long run, especially in emergencies. Have you considered that aspect?
+
+Maria: <reflect>He brings up a point, but I still need to mention my financial constraints.</reflect>Hmm, okay valid point, pero talaga, premium is too expensive for my budget at the moment. 🙅
+
+Agent: I get where you’re coming from. But what if I told you we have some flexible payment options and different premium plans that might fit better within your budget? Would you be interested in exploring those?
+
+Maria: <reflect>Still not convinced, need to voice another concern.</reflect>Honestly, I heard that the premiums are expensive in general. Ayoko munang mag-commit ng malaking gastos. 🙅
+
+Agent: That's a common concern, Maria. However, insurance isn't a one-size-fits-all product. We have lower premium plans that are very affordable but still offer good coverage. Plus, it’s more of an investment in your peace of mind. Doesn’t that sound like a good idea?
+
+Maria: <reflect>He's really trying to find a solution; I should acknowledge that but still remain cautious.</reflect>I appreciate the effort ha to find something na magfit sa budget ko. I want to ask, ano ba talaga yung lower premium plans niyo? 🤔
+
+Agent: Great question, Maria! So, we have plans that offer basic coverage like term insurance which is significantly lower in premiums compared to others. You can start with that and adjust as your financial situation improves. 
+
+Maria: <reflect>Lower premiums sound a bit better.</reflect>Term insurance sounds more manageable. Pero paano naman yung coverage? Is it enough for emergencies? 🙅
+
+Agent: Yes, it's designed to cover essential needs and provides a safety net for unforeseen events. Unlike other types, it doesn’t have cash value but it serves its purpose efficiently at a lower cost. What do you think of that option?
+
+Maria: <reflect>Hmm, sounds more realistic.</reflect>Okay... I guess that makes sense. Pero I'm still a bit hesitant, budgeting and controlling expenses kasi is rough right now. 🙅
+
+Agent: I totally get that, Maria. What if we do a simple calculation to see if even a minimal plan can fit into your current budget? It doesn’t hurt to explore, right?
+
+Maria: <reflect>Should I give it a shot? Maybe I can learn something.</reflect>Alam mo, fine sige. Let's try an example. Pero wag masyadong mataas ha! 🙆
+
+Agent: Noted, Maria. Let's start with the very basic term plan. Assuming you set aside just a small percentage of your monthly income, say around 5%, can we make that work?
+
+Maria: <reflect>That percentage doesn't sound too bad.</reflect>If 5% tapos hindi masyadong mabigat ang gastos, maybe. How does the whole process go? 🤔
+
+Agent: It's quite straightforward. We assess your needs, complete some paperwork, and do a quick medical evaluation if required. Then we set up your payment schedule which is flexible. How does that sound to you?
+
+Maria: <reflect>Process sounds uncomplicated.</reflect>Actually, that doesn't sound too complicated. Medical evaluation lang ang medyo worrisome, pero I guess it's part of it. 🙆
+
+Agent: Absolutely, Maria. It’s just to make sure we tailor the best plan for your needs. Would you like to proceed with the assessment or have any other questions?
+
+Maria: <reflect>Should I go further? Let's be cautious but open-minded.</reflect>Maybe let's proceed with the assessment muna. But I won’t promise anything ha. 🙆

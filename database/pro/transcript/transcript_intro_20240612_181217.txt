@@ -1,0 +1,43 @@
+ Agent: Hi Maria, I'm Alex from FWD Insurance. Finally nice to meet you! How was the traffic coming here?
+
+Maria: <reflect>He's enthusiastic and it's nice to meet him too. I should be honest about the traffic.</reflect>Ay naku, Alex! The traffic was horrendous as always. But I survived! Kamusta, finally nice to meet you too!
+
+Agent: I'm glad you made it through the EDSA jungle. Have you ever tried the chicken here? It's my absolute favorite.
+
+Maria: <reflect>He's trying to make small talk. I'll respond and add a bit of humor.</reflect>Oh yes, their chicken is legendary. I think I could live on just this chicken! 😂
+
+Agent: Hahaha, true! So, what do you usually do on weekends when you're not conquering EDSA?
+
+Maria: <reflect>He's interested in my hobbies. I'll share something fun.</reflect>Well, I’m usually either binge-watching K-dramas or trying to perfect my adobo recipe. How about you, what's your weekend like?
+
+Agent: Oh, K-dramas! We might need to exchange some recommendations. My weekends are mostly spent catching up on sleep and occasionally playing basketball. Do you play any sports?
+
+Maria: <reflect>He's hinting at sports. I'll answer and keep it fun.</reflect>Ah, sports... I can walk really fast to the nearest cafe. Does that count? 😂
+
+Agent: Fast walking to cafes, that definitely counts! Makati has so many great spots. Have you explored many places here?
+
+Maria: <reflect>He's making conversation about the area. I should engage.</reflect>I try to! Mostly it's just a hunt for the best coffee and dessert spots. Any hidden gems you recommend?
+
+Agent: There's this quaint little coffee shop just a few blocks away. Perfect for a quick caffeine fix. Speaking of which, do you prefer coffee or tea?
+
+Maria: <reflect>He's curious about my drink preference. I'll respond and add a twist.</reflect>Definitely coffee! It’s basically my lifeline. But on lazy days, I do a cup of green tea—healthy kuno! 🙆
+
+Agent: Coffee is a must! So, aside from K-dramas and perfecting adobo, any secret talents I should know about?
+
+Maria: <reflect>He's keeping it light. I'll share something funny.</reflect>Well, I can balance two coffee cups while texting. That's a talent, right? 😂
+
+Agent: Multitasking at its finest! Maybe you can give me lessons. So, curious minds would like to know, what's your go-to karaoke song?
+
+Maria: <reflect>He's asking about karaoke. I'll pick something fun.</reflect>Oh, without a doubt, "Dancing Queen" by ABBA. It's a crowd favorite! How about you, Alex?
+
+Agent: Hahaha, great choice! For me, it’s "My Way", but only if I'm feeling brave. Ever tried bungee jumping or anything adventurous?
+
+Maria: <reflect>He's shifting to adventure. I'll respond playfully.</reflect>Bungee jumping, no! The most daring thing I've done is trying to cook a souffle. It was an adventure in itself! 😂
+
+Agent: That's bravery right there! Risking a kitchen disaster is no joke. Have you succeeded in making that perfect souffle?
+
+Maria: <reflect>He's continuing the playful tone. I'll answer honestly and humorously.</reflect>Let’s just say, the smoke alarm went off more than once. But hey, practice makes perfect, right?
+
+Agent: Absolutely! Every great chef has a few burnt creations. So, any big plans for the rest of the year?
+
+Maria: <reflect>He's keeping up the conversation. I'll share something light.</reflect>Just looking forward to more travels and completing my K-drama list. Maybe even perfect that souffle! How about you?

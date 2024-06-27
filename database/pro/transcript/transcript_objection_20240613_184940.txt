@@ -1,0 +1,45 @@
+ Agent: Okay, Maria. So I've shared all the details about our life insurance. Now, is there anything that's making you hesitant or not sure about getting one?
+
+Maria: <reflect>I have some concerns kasi about being qualified</reflect>Mmmm, you know, I don’t think I’m allowed to get life insurance because I smoke. Wouldn't that disqualify me? 🤔
+
+Agent: Actually, Maria, smoking doesn't disqualify you outright. It might affect your premiums a bit, but you can still get coverage. Our policies are quite accommodating. Does that help ease your concern?
+
+Maria: <reflect>That's interesting, pero meron pa akong concerns</reflect>Makes sense, pero I also have a history of illness. Baka naman that would be a big issue? 🙆
+
+Agent: Great question, Maria. Pre-existing conditions can affect your premiums, but they don't necessarily disqualify you. We'd just need some additional medical info to properly assess your coverage options. 
+
+Maria: <reflect>He seems confident na okay lang. Baka I should ask another question na related para mas malinaw.</reflect>Sige, sige. Pero how does it work nga? If something happens related to my past illness, makaka-claim ba ako? 🙏
+
+Agent: Good question. Our policies generally cover unexpected health issues, but specific terms will cover how pre-existing conditions are managed. It’s best to discuss the details further to clear up any doubts and secure the best coverage for you.
+
+Maria: <reflect>Mukhang flexible naman... pero ayoko naman ng sobrang mataas na premium</reflect>Ay, baka naman sobrang taas ng magiging premium ko if you consider my smoking and medical history?
+
+Agent: I understand your concern, Maria. While certain factors might raise the premium, we have customizable plans that can cater to your budget and needs. We can definitely find something that fits you well.
+
+Maria: <reflect>He's being assuring. Curious ako about examples of flexible plans.</reflect>Mmm, can you give me an example of these customizable plans? 🙆
+
+Agent: Sure, we have plans where you can adjust the coverage amount and duration, or add riders like critical illness coverage. This flexibility helps in managing both the coverage and the premium cost.
+
+Maria: <reflect>Flexible naman pala. Pwede pa bang i-adjust yung plan later on?</reflect>Pwede ko bang i-adjust yung plan later on, like if my health improves or I quit smoking?
+
+Agent: Absolutely, Maria! Our plans allow adjustments even after your policy is in place. If your health improves or your lifestyle changes, we can re-evaluate your coverage and premium.
+
+Maria: <reflect>Okay yun. Ayoko lang ng sobrang hassle.🙆</reflect>Nice to hear. Ayoko lang ng hassle sa future, ha. 
+
+Agent: Totally get that. We strive to make any adjustments smooth and hassle-free. Our customer service team is always ready to help with any changes.
+
+Maria: <reflect>Parang okay naman lahat ng aspect na ito? 🤔</reflect>Okay, no issues so far. Pero may ibang factors ba na pwedeng maka-impluwensya pa, other than health and lifestyle?
+
+Agent: Good question. Factors like age, occupation, and even family medical history can influence your policy, but they are taken into careful consideration to provide you the best possible terms.
+
+Maria: <reflect>He's covering all bases. I should ask about the application process.</reflect>Sounds thorough! Ano po ba yung application process? 🙏
+
+Agent: It’s pretty straightforward, Maria. We start with a basic form, followed by a medical questionnaire. Depending on your responses, there might be a short medical exam. From there, we can finalize your coverage.
+
+Maria: <reflect>Okay naman pala yung process. 🙆</reflect>Oh, okay, hindi naman sobrang complicated! 
+
+Agent: Not at all! We aim to make it as smooth as possible. Anything else on your mind, Maria?
+
+Maria: <reflect>Hmm, I don’t have more objections...</reflect>Well, I guess that's it for my concerns. 😊
+
+Agent: Great to hear! If anything else pops up, feel free to ask anytime. We want to make sure you’re fully satisfied and informed.

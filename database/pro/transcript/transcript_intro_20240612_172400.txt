@@ -1,0 +1,51 @@
+ Agent: I’m really glad you could make it today, Maria. So, you mentioned you’ve only seen our ads and haven’t heard about FWD from anyone you know. I’d love to tell you more about what sets us apart. Any specific questions you have in mind?
+
+Maria: <reflect>Gusto ko malaman bakit daw sila unique. Sige, tanong na ako.</reflect>Yes, I’ve been seeing your ads everywhere. But what makes FWD better than all the other insurance companies here in the Philippines? Like, why should I consider you over others?
+
+Agent: Great question, Maria! One thing that really distinguishes FWD is our focus on simplifying the insurance experience. We aim to make everything straightforward, from our policy terms to our customer service. Unlike others, we strive to be as transparent as possible.
+
+Maria: <reflect>Hmm, transparency is good. Let’s push for more details.</reflect>Okay, but how transparent are we talking about? Can you give me an example? 
+
+Agent: Sure! For instance, our policies are written in easy-to-understand language. No jargon, no hidden terms. Everything is laid out clearly, so you know exactly what you’re signing up for. 
+
+Maria: <reflect>Makes sense, but kailangan ko pa ng more info.</reflect>Sounds good, but are you saying other companies are not clear? How else do you simplify things?
+
+Agent: Another thing is our digital-first approach. You can manage your policy, file claims, and even get support online. No need to visit a physical office unless you really want to. 
+
+Maria: <reflect>Digital, that’s convenient. I'll dig deeper.</reflect>Ay, that’s pretty convenient nga! So if I need to file a claim, it’s not like a huge hassle?
+
+Agent: Exactly! You can file a claim through our app or website, and you’ll get updates every step of the way. It’s all designed to save you time and stress.
+
+Maria: <reflect>Parang ok yun ah, but let’s see about customer support.</reflect>I’m curious, how’s your customer support? Can I speak to a human if ever I get stuck online?
+
+Agent: Absolutely. While we prioritize digital channels, we also have a dedicated customer service team available for calls, especially for more complex issues.
+
+Maria: <reflect>Dapat rin malaman ang coverage nila. Let’s go there.</reflect>That’s reassuring. So, what kind of coverage do you offer? Anything unique compared to other companies?
+
+Agent: We offer a wide range of plans, from life insurance to health and critical illness coverage. One unique aspect is our focus on wellness benefits, like access to health and fitness apps and discounts on medical services.
+
+Maria: <reflect>Bongga, may wellness benefits pa! I’ll ask about premiums.</reflect>Interesting! But with all these benefits, are your premiums higher? You know us Filipinos, we like good value for money!
+
+Agent: Our rates are competitive, Maria, and we offer flexible payment options to suit different budgets. We believe in providing value without compromising on quality.
+
+Maria: <reflect>Competitive rates sound good, let’s ask about future planning.</reflect>Okay, okay, how about future planning? Can FWD help me plan for long-term goals like retirement or education for my kids?
+
+Agent: Absolutely. We offer comprehensive plans that can be tailored to your long-term financial goals, including retirement and education funds. We work closely with you to design a plan that fits your needs.
+
+Maria: <reflect>Sounds promising. Let’s touch on reputation.</reflect>That’s pretty comprehensive. By the way, how’s your reputation? Like, do you have any awards or recognition to back up all these claims? 
+
+Agent: Yes, we’ve received multiple awards for customer service and innovative product offerings. We’re proud to be recognized as one of the fastest-growing insurance companies in Asia.
+
+Maria: <reflect>Awards are great, but I need a personal touch here.</reflect>That’s impressive! But can you share a success story or testimonial from a real customer? Something a bit more personal.
+
+Agent: Of course. Let me tell you about one of our clients who discovered a critical illness early thanks to one of our health benefits. She was able to get the treatment she needed without worrying about the financial burden. 
+
+Maria: <reflect>Wow, that’s touching. One last thing, investment options.</reflect>Wow, that’s touching. But one last question, do you also offer investment options? Kasi I’m looking into growing my savings din.
+
+Agent: Yes, we do. We have several investment-linked insurance plans that allow you to grow your savings while still getting the coverage you need. These plans are flexible and cater to different risk appetites.
+
+Maria: <reflect>Good, looks like they have everything. Let’s see.</reflect>Impressive, seems like you have everything covered. So, if I were to consider getting an insurance plan, how do I start?
+
+Agent: It’s simple. We can start with a one-on-one consultation to discuss your specific needs and goals. From there, we’ll recommend the best plan for you. We can schedule it at your convenience.
+
+Maria: <reflect>Alright, this sounds like a good next step.</reflect>Alright, that sounds good. I’ll definitely think about it and let you know. 🙆

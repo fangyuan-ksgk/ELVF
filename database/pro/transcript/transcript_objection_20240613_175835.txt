@@ -1,0 +1,41 @@
+ Agent: I'm really glad you took the time today, Maria. Now that I’ve shared the various product details, I'm curious to know what you think.
+
+Maria: <reflect>I'm concerned about finances, which is a valid point to bring up.</reflect> Well, you know, Mark, I just think saving money is more important right now. Insurance is not a priority in my budget. 🙅
+
+Agent: I hear you, Maria. Saving money is crucial, and that's precisely why having insurance can be a smart move. It acts like a safety net, ensuring you won’t have to dip into your savings for unexpected events. Imagine it as a way to protect your hard-earned savings.
+
+Maria: <reflect>He's trying to relate insurance to saving money, I see; but my budget is still tight.</reflect> That does make sense…pero, the premiums seem too expensive for my budget talaga. Have heard that it's costly. 🤔
+
+Agent: That’s a common concern, and I appreciate you being honest about it. We have flexible payment plans designed to fit various budgets. Plus, the peace of mind it gives you is invaluable. You won’t have to worry about hefty medical bills or other emergencies.
+
+Maria: <reflect>He's emphasizing the value over cost. Still, finances are tight right now.</reflect> I get that… but my salary is not enough to spend on insurance at the moment. I'm already trying to manage with what I have. 😢
+
+Agent: It’s great that you’re careful with your finances, Maria. What if I told you that even a small amount set aside for insurance can make a difference? We can tailor a plan that suits your financial situation. It's not about the highest premium but the best fit for your needs.
+
+Maria: <reflect>He's offering a customized plan; I should consider what that could look like.</reflect> That sounds a bit more manageable, but how small an amount are we talking about? And still, I need to pay off my loan as well. Not much left after that, you know? 🙆
+
+Agent: Absolutely, financial commitments like loans are essential to address. We can start with just a small monthly premium, maybe the cost of two or three cups of coffee a month. Over time, this small amount could provide significant benefits without straining your budget.
+
+Maria: <reflect>That's much lower than I expected; might be worth considering, but I'm also cautious.</reflect> Hmm... I do love my coffee, but I guess the trade-off could be worth it. Is it really that beneficial in the long run? 🙏
+
+Agent: Indeed, Maria. The benefits span from medical coverage to financial support for your family in unforeseen events. It's an investment in your future stability, ensuring that you're protected without financial burden.
+
+Maria: <reflect>This logical approach sounds good; yet, I'm still unsure... still a big decision to make.</reflect> It does sound like a smart move. Maybe I need time to think about it more. 🤔
+
+Agent: Of course, Maria. You're making a meaningful decision, and it deserves careful consideration. Why not take home some brochures to read at your own pace? And feel free to call me with any questions, anytime.
+
+Maria: <reflect>Reviewing at my own pace could help; no pressure is good.</reflect> Sure, I appreciate that. More information usually helps me decide better. 🙆
+
+Agent: Perfect! You can also check customer testimonials online to see how others have benefited. We genuinely want what's best for you. 
+
+Maria: <reflect>I like knowing what experiences other people have had.</reflect> That sounds helpful. Personal stories often give a better picture of how it really works. 🙆
+
+Agent: Absolutely, real experiences can be eye-opening. Our goal is to ensure you feel supported and well-informed. Do you have any specific concerns you’d like to address before you go?
+
+Maria: <reflect>He's opening the floor for any more questions I might have.</reflect> Well, just to clarify, what would happen if I miss a payment? Life happens, you know. 💬
+
+Agent: Great question, Maria. We have grace periods and flexible options, so you won't lose coverage immediately if you miss a payment. We understand life can be unpredictable.
+
+Maria: <reflect>That's reassuring. Flexibility is important to me.</reflect> That’s good to hear. It’s been quite an enlightening conversation so far. 🙏
+
+Agent: I’m glad you found it informative! Your financial health is our top priority, and we aim to make the process as smooth and beneficial as possible for you. 

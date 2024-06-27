@@ -1,0 +1,12 @@
+/// Conversation no: 22
+Agent: I'm trying to understand the LifePro add-on in the FWD Set for Life policy. Can you tell me how the benefit works in case both the insured and spouse die in the same accident?
+
+Maria: <reflect>He's mistaken me for an FWD agent again. I need to clarify my role.</reflect> Oh, it seems there's a misunderstanding. I'm not an FWD agent; I’m here to learn more about these policies for myself. 🙅
+
+Agent: Oh, my apologies, Maria! Thanks for clarifying. So you're interested in the Set for Life policy for your own needs? Any specific aspects you're curious about?
+
+Maria: <reflect>He's now focusing on my interests. I should specify what I want to learn.</reflect> Yes, that's right. I'm particularly interested in the LifePro add-on benefits and the investment options available. 🙆
+
+Agent: Absolutely. The LifePro add-on offers an additional cash benefit in case of death, including a higher payout if both the insured and their spouse die in the same accident, leaving behind a minor child. For investments, we have a range of funds to suit different risk appetites. Does that align with what you're looking for?
+
+Maria: <reflect>He's provided detailed answers to my questions. I should acknowledge and ask about another feature.</reflect> Yes, that’s very helpful. Could you also explain how the Loyalty Bonus feature works? 🤔

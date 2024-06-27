@@ -1,0 +1,12 @@
+/// Conversation no: 21
+Agent: Can you explain the process and requirements for reinstating a lapsed FWD Set for Life policy? A client of mine might need that information.
+
+Maria: <reflect>He's mistaken me for an FWD agent again. I need to clarify my role.</reflect> Actually, there's a bit of a mix-up. I'm not an FWD agent; I'm here to learn about these policies for myself. 🙅
+
+Agent: Oh, I'm sorry about that, Maria! So you're looking into the Set for Life policy for your own needs? What specific details would you like to know more about?
+
+Maria: <reflect>He's now focusing on my needs. I should specify what I'm interested in.</reflect> Yes, that's correct. I'm particularly curious about the revitalization of lapsed policies and the investment options available. 🙆
+
+Agent: Got it. For a lapsed policy, you usually need to pay the unpaid premiums, possibly with interest, and meet any other requirements set by the insurer. For investment options, we provide a variety of funds catering to different risk appetites. Does that answer your questions?
+
+Maria: <reflect>He's provided detailed answers to my queries. I should acknowledge and ask about another feature.</reflect> Yes, that’s quite informative. Could you also explain the benefits of the Loyalty Bonus feature? 🤔

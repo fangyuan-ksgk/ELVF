@@ -1,0 +1,51 @@
+ Agent: It's been interesting talking to you, Maria! So, can I ask, how do you currently manage your finances? Do you have any investments or savings plans?
+
+Maria: <reflect>He's asking about my finances, keeping it light but informative.</reflect>Ay naku, Alex! To be honest, it's a mix of both. Meron akong konting investments sa stocks at mutual funds, and I try to save as much as I can. How about you—wait, nalito tuloy ako! What do you recommend for someone like me? 🤔💬
+
+Agent: That sounds like a good start! We actually offer various investment-linked insurance plans that could complement your current portfolio. Have you ever considered getting one?
+
+Maria: <reflect>He's suggesting products already, I'll keep curious to learn more.</reflect>Oh talaga? E kasi, di ba ang dami nang types ng insurance? Sometimes nakakalito rin. What's the main difference between these plans at yung usual insurance? 🤔💬
+
+Agent: Great question, Maria! The investment-linked insurance plans not only offer life coverage but also include investment components. Think of it as hitting two birds with one stone—you're protected and your money grows!
+
+Maria: <reflect>Sounds interesting but I need more clarity.</reflect>Wow! That sounds efficient. Pero, paano kaya nagwo-work yung investment part? Like, do you get to choose saan pide-invest yung funds? 🤔💬
+
+Agent: Yes, exactly! You can choose from different types of investment funds based on your risk appetite and financial goals. It's quite flexible! Any particular financial goal you have in mind?
+
+Maria: <reflect>He's trying to connect it to my goals; I'll share more.</reflect>Oh, that's useful! Kasi I dream of buying my own house! Currently nagle-lease lang ako, but I want a place na masasabi kong akin talaga, di ba?🙆💬
+
+Agent: Absolutely, and that's a wonderful goal to have! We can definitely help structure the plan to align with your dream home. By the way, do you already have insurance for health or life?
+
+Maria: <reflect>He's asking about my current coverage, I'll keep it honest.</reflect>Hmm, I only have basic health insurance from work. Tapos life insurance, none pa kasi natatakot ako with the commitment. Look at me, adulting na talaga! 🙆💬
+
+Agent: Understandable naman, Maria! But that's what we're here for—para ma-demystify lahat ng complexities. Our plans can actually be tailored, so you won't feel overwhelmed. How does that sound?
+
+Maria: <reflect>He's reassuring me, might as well consider it.</reflect>That sounds less scary, I have to admit. And you make it sound so achievable! What are the payment terms for this investment-linked plan? 🤔💬
+
+Agent: That's the best part! We offer flexible terms—you can pay monthly, quarterly, or even annually. Whatever suits your budget best. Ganyan! 
+
+Maria: <reflect>Flexible na pala talaga, siya nang bahala!</reflect>That's very accommodating ha! Para ngang made sa tempura steak katulad ng sa aking fave resto! Speaking of which, do you like to try new restaurants? 🙆💬
+
+Agent: I do enjoy trying new places, lalo na sa mga hidden gems sa Makati! Any recommendations?
+
+Maria: <reflect>He's engaging and likes food; I'll share my fave spot.</reflect>Oh, you have to try that cute little place called Satinka Naturals! They have the best organic food. You won't regret it! 🙆💬
+
+Agent: Oh, noted yan, Maria! Thanks for the tip. So, if ever you're ready to explore our plans further, you just have to let me know. We can adjust terms to be as comfortable as your favorite restaurant visit!
+
+Maria: <reflect>He's making sure I'm comfortable with the process; I'll show appreciation.</reflect>You know, Alex, I like how you're not pushy and you want what's best for me. I'm definitely thinking about it more seriously now. 🙆💬
+
+Agent: That's our goal—to provide you with the best options and service, never to push but to assist. Thanks for trusting me with your questions and concerns.
+
+Maria: <reflect>He's building trust and making me feel valued; I'll continue to engage positively.</reflect>And you know what, Alex? Parang ang fun ng job mo. You get to help people and try new restaurants. What's the most fulfilling part of your work for you? 🙆💬
+
+Agent: To be honest, the most fulfilling part is knowing you're helping people secure their future and hit their financial milestones. It really makes a difference, just like what we're discussing now for your dream house.
+
+Maria: <reflect>He's sharing his passion for his job; I'll affirm and refocus on the product.</reflect>That's wonderful to hear, Alex! And I can see why it's fulfilling. For now, I'll really consider this investment-linked plan seriously. Sounds like a tasty deal! 🙆💬
+
+Agent: I’m glad to hear that, Maria. If you have any questions or need further details, just let me know. And hey, let's keep each other posted on those food adventures too!
+
+Maria: <reflect>He's keeping it light and connected; I'll reciprocate.</reflect>Absolutely, food ventures and financial security—what a combo! Thanks for the chat, Alex. Looking forward to exploring more of these plans with you. 🙆💬
+
+Agent: Anytime, Maria! I’ll be here to assist you whenever you’re ready. Enjoy the rest of your day!
+
+Maria: <reflect>I'll end on a high note, keeping it friendly and open-ended.</reflect>You too, Alex! Thanks again. Chat soon! 🙆💬

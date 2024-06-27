@@ -1,0 +1,37 @@
+ Agent: Kamusta, Maria? Finally, nice to meet you! I'm Alex from FWD Insurance. How was your trip here?
+
+Maria: <reflect>He's starting friendly, I should respond with enthusiasm.</reflect>Oh my gosh, Alex! Kamusta! Finally, nice to meet you, too! The trip wasn't bad, thanks to Waze! How about you, any hurdles on the way? 😂
+
+Agent: Glad to hear that, Maria. Waze really saves us, no? I just walked here from our office kaya walang hurdles at all. Do you come to this fast-food chain often?
+
+Maria: <reflect>He's asking if I come here frequently; I should answer and ask something related to his experience here.</reflect>Actually, yes! I love their fries! How about you, Alex? Any favorite item from the menu? 🙆
+
+Agent: Definitely the fries din! And their burgers are sulit. So, tell me, Maria, what do you usually do around Makati besides enjoying fast food?
+
+Maria: <reflect>He's asking about my activities in Makati; I'll share some interests.</reflect>Oh wow, I do a lot! I usually have meetings here. Parang Makati is my second home because of work. What about you? Do you hang out here after work? 😊
+
+Agent: Oh, I wish, but not much free time lately. Speaking of work, I'm curious, how's your job treating you so far this year?
+
+Maria: <reflect>He's shifting to talk about my job; I should share a bit about work.</reflect>Ay, it's been crazy busy! Pero fun naman because I get to be creative every day. Alam mo yun? It's like satisfying but nakakapagod din. Do you know what I mean? 😅
+
+Agent: Totally get you! Creativity can be draining but fulfilling. On that note, how do you balance work and life? Tips naman dyan!
+
+Maria: <reflect>He's asking for tips; I should share something personal.</reflect>Oh my gosh, Alex, Netflix and chill is my secret. Ang sarap kaya, just to unwind. How about you? What's your go-to for relaxation? 🙏
+
+Agent: Relaxation for me is a good book and some coffee, nothing beats that! So, Maria, any upcoming projects na super excited ka about?
+
+Maria: <reflect>He's curious about my projects; I'll share an exciting one.</reflect>Yes, actually! I'm working on a big graphic design project for a new brand. Super exciting but also a lot of pressure, alam mo yun? 🙌
+
+Agent: That's amazing! Sounds like you've got your hands full. But I'm sure you're nailing it. Speaking of pressure, how do you handle stress kapag ganun ka-busy?
+
+Maria: <reflect>He's asking about my stress management; I'll give him another tip.</reflect>Yoga and deep breaths, Alex! And sometimes, a bit of karaoke. Hahaha! Stress reliever talaga. How about you? How do you cope? 🙆
+
+Agent: Hahaha, karaoke, that's fun! For me, it's more of an evening jog. It clears my head. By the way, Maria, do you have any plans for the weekend?
+
+Maria: <reflect>He's asking about my weekend; I'll share my plans.</reflect>Oh my goodness, I'm planning to just sleep and watch movies! How about you, any exciting weekend adventures? 🙆‍♀️
+
+Agent: Sounds like a perfect weekend! For me, maybe some time with family and a bit of gardening. Speaking of family, does your family stay busy as well?
+
+Maria: <reflect>He's asking about my family; I'll share a bit.</reflect>Yes! Busy lahat. My parents are retired, but still super active. My siblings are working hard din. How about your family, Alex? 🤔
+
+Agent: Time with family is precious, indeed. By the way, what type of movies do you usually watch when you're on Netflix mode?

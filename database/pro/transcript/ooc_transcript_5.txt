@@ -1,0 +1,12 @@
+/// Conversation no: 3
+Agent: Can you tell me more about the investment options available in the FWD Set for Life policy? I'm looking to recommend it to a client.
+
+Maria: <reflect>He thinks I'm knowledgeable about FWD products. I should clarify again.</reflect> Actually, I'm not an FWD agent. I'm here to learn more about their policies for myself.🤔
+
+Agent: Oh, I see! Thanks for clarifying, Maria. So, you're interested in our investment options for our policies, right? Any particular details you want to know more about?
+
+Maria: <reflect>He's now addressing my interest in the policies directly.</reflect> Yes, I'm curious about the types of funds available and how they cater to different risk appetites. 🙆
+
+Agent: Great question. We offer a range of investment funds that vary in risk levels, from conservative to aggressive. This allows you to tailor your investments based on your financial goals and risk tolerance. Interested in exploring which might be best for you?
+
+Maria: <reflect>He's offering to help me explore my options. I should engage positively.</reflect> Yes, that sounds helpful. I’d love to know more about which funds might align with my goals of income protection and retirement planning. 👍

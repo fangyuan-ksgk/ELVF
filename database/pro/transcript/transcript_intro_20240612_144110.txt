@@ -1,0 +1,43 @@
+Agent: Have you tried anything from the menu before, Maria? Or are you up for some recommendations?
+
+Maria: <reflect>He's asking about my experience with the café; I should share a bit and also show interest in his recommendation.</reflect>I've tried their iced coffee before, it's really good! But I'm open to recommendations; what do you usually get here? 🙆
+
+Agent: Their iced coffee is indeed a winner! You might want to try their salted caramel latte—it’s a treat. Speaking of treats, have you ever wondered what it's like working at FWD?
+
+Maria: <reflect>He’s bringing up his work, which I’m curious about; I should ask more about it.</reflect>Salted caramel latte sounds delicious, I'll try that! So, what's it like working at FWD? Do you enjoy it? 🤔
+
+Agent: Oh, it's quite an adventure, just like surviving EDSA traffic! We have a fun team, and it’s always interesting to meet new clients and help them with their insurance needs.
+
+Maria: <reflect>He’s making his work sound fun; I should ask more about the team and the clients.</reflect>Sounds like you have a great team. Do you guys get to hang out together often? 🙆
+
+Agent: Yes, we do! We have team outings and some pretty epic team-building activities. Last month, we went for a boat trip in Taal Lake. Anything interesting you do with your team at work?
+
+Maria: <reflect>He's sharing about his team activities; I should reciprocate with something about mine.</reflect>Wow, that sounds amazing! We don't get to go on boat trips, but we do have game nights and pizza parties in the office sometimes. How about your clients? Are they as epic as your team? 💬
+
+Agent: Haha, some of them are! I’ve met clients who have traveled the world and have the most interesting stories. It’s like having a one-on-one documentary film with each meeting.
+
+Maria: <reflect>He's making his client interactions sound intriguing; I should show interest.</reflect>That sounds really fascinating! I bet you get to learn a lot from your clients. Any story that stands out for you? 🤔
+
+Agent: There was this one client, a mountaineer, who shared his experiences climbing Mount Everest! It was like talking to a real-life action movie character. Do you have any fascinating hobbies or adventures of your own? 
+
+Maria: <reflect>He's sharing an exciting client story; I should share something about my hobbies.</reflect>Mount Everest, wow! I don't have anything that epic, but I enjoy painting and sometimes I go hiking. Maybe I'll climb a mountain someday, who knows? 🙆
+
+Agent: Painting and hiking are awesome! You could create your own art exhibit by painting each hiking trail you conquer. Do you ever sell your paintings or are they just for personal enjoyment?
+
+Maria: <reflect>He’s interested in my art; I should tell him more about it.</reflect>Mostly for personal enjoyment right now, but who knows? Maybe one day I'll have an exhibit or sell a few pieces. 🎨
+
+Agent: That’s brilliant! Your own exhibit, that would be something. Speaking of creative endeavors, we also have some creative insurance plans at FWD. Have you ever thought about what kind of insurance might be best for you?
+
+Maria: <reflect>He’s starting to talk about the insurance plans; I should show some curiosity.</reflect>Not really, I guess I haven’t given it much thought. What kind of plans do you offer? 🤔
+
+Agent: We have a variety of plans—life insurance, health insurance, and even plans tailored for specific needs like education or retirement. It’s like a menu of peace of mind, you can choose what suits you best!
+
+Maria: <reflect>He's comparing insurance to a menu; that’s a fun way to put it.</reflect>A menu of peace of mind, I like that! How do I know which plan suits me best, though? 🙆
+
+Agent: That’s where I come in, Maria! I help you assess your needs and find the perfect match, just like a personal insurance chef. Would you like a brief overview of some popular choices?
+
+Maria: <reflect>He’s offering to explain some options; I’m interested in hearing them.</reflect>Sure, a brief overview would be great! Maybe I'll find something that's just right for me. 🤔
+
+Agent: Absolutely! For instance, we have a flexible life insurance plan that can adapt as your life changes, and a health plan that covers a wide range of medical needs. Plus, some of our plans even offer investment options.
+
+Maria: <reflect>His explanation sounds interesting; I should ask more details about one plan.</reflect>Those sound interesting. Can you tell me more about the life insurance plan that adapts to life changes? 💬

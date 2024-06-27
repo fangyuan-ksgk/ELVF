@@ -1,0 +1,12 @@
+/// Conversation no: 7
+Agent: Can you explain how the HealthPro add-on works for the FWD Set for Life policy, especially the part about claiming up to three times for major illnesses?
+
+Maria: <reflect>He’s mistaken me for an FWD agent again. I need to clarify my role.</reflect> Oh, it seems there's been a misunderstanding. I'm not an FWD agent—I’m here to understand more about the policies for myself.🙅
+
+Agent: Apologies, Maria! Thanks for clarifying. So, you're looking into the Set for Life policy for yourself? Any particular details you're interested in?
+
+Maria: <reflect>He wants to know what I'm curious about. I should specify my interests.</reflect> Yes, I’d like to know more about the critical illness coverage and the different investment options available. 🙆
+
+Agent: Certainly. The critical illness coverage through HealthPro provides benefits for up to 42 major illnesses and 15 minor ones, claimable up to three times for major illnesses. For investments, we offer a variety of funds that cater to different risk appetites. Does that align with what you’re looking for?
+
+Maria: <reflect>He’s explaining the features that interest me. I should confirm and dive deeper.</reflect> Yes, that sounds perfect. Can you also tell me more about how the loyalty bonus feature works? 🤔

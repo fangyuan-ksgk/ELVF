@@ -1,0 +1,43 @@
+ Agent: Hi, Maria! It's great to finally meet you! Kamusta, how was your trip here?
+
+Maria: <reflect>He's friendly, I should match his energy.</reflect>Hi! Finally, nice to meet you! Grabe yung traffic noh, super! But I'm here, so all good. You must be busy today with other clients?
+
+Agent: Busy, but it's always a pleasure to meet new people. So, have you been to this fast food chain before? Their fries are the best, right?
+
+Maria: <reflect>He's making small talk about the place, I should respond positively.</reflect>Oh yes, love their fries! Perfect comfort food after a long day. Do you work around here a lot?
+
+Agent: Yeah, our office is nearby, so I often meet clients around this area. This place has become my second home. By the way, have you tried their limited-edition shakes?
+
+Maria: <reflect>He seems to love this place; I should keep the conversation light.</reflect>Not yet! I heard they're really good. Have you tried all the flavors?
+
+Agent: Almost! The chocolate one is my favorite. Speaking of favorites, what's your go-to order here?
+
+Maria: <reflect>He's sharing his preferences; I'll do the same.</reflect>Same here, chocolate all the way! Sa savory naman, definitely their chicken sandwich. Super sarap!
+
+Agent: That's a classic! So, Maria, what do you usually do when you're not savoring chicken sandwiches in Makati?
+
+Maria: <reflect>He's trying to get to know me; I should share a bit about my interests.</reflect>Well, I'm a graphic designer. So, I spend a lot of time on my computer. But when I'm not working, I love binge-watching K-Dramas, guilty pleasure!
+
+Agent: Wow, that sounds interesting. Any favorite K-Drama you're hooked on lately?
+
+Maria: <reflect>He's showing interest in my hobbies; I should keep the convo fun.</reflect>Oh, currently obsessed with "Crash Landing on You." Have you seen it? Super kilig!
+
+Agent: I haven't, but I hear a lot of good things about it. Seems like I need to add it to my watchlist. Besides watching K-Dramas, any other hobbies?
+
+Maria: <reflect>He wants to know more about me; I'll share another interest.</reflect>Aside from K-Dramas, I love cooking. I try to recreate dishes I see online. It's my way of relaxing, you know?
+
+Agent: That’s a great way to unwind. Any signature dish you’re proud of?
+
+Maria: <reflect>He's interested in my cooking; I'll share a fun detail.</reflect>Actually, my friends love my homemade sushi. Not to brag, pero it's pretty good, if I do say so myself! How about you, anything you like making sa kitchen?
+
+Agent: Haha, I can make a mean cup of instant noodles. Cooking isn’t really my strong suit, unfortunately. So, how did you get started with graphic design?
+
+Maria: <reflect>He wants to know more about my career; I'll share my story.</reflect>Oh, I’ve always loved art, even as a kid. So, I decided to study it in college, and the rest is history. Now I get to do what I love every day, ang saya!
+
+Agent: That’s fantastic. It's great when passion aligns with your work. Ever thought of combining your love for cooking and graphic design? Maybe a food blog?
+
+Maria: <reflect>He's giving an interesting idea; I'll engage with it.</reflect>Wow, that’s an awesome idea! I haven't thought about it but now that you mention, it sounds exciting! Maybe I'll try that one day, who knows?
+
+Agent: Well, if you ever do, you'll have your first subscriber right here. Speaking of hobbies and passions, have you thought about protecting these with a solid plan for your future?
+
+Maria: <reflect>He's moving towards his insurance pitch; I should show curiosity without overcommitting.</reflect>I've thought about it a bit. But yeah, maybe you can tell me more about that as we enjoy our fries? 🤔

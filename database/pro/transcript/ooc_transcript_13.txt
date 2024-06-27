@@ -1,0 +1,12 @@
+/// Conversation no: 11
+Agent: I'm trying to understand the benefits under the HealthPro Lite add-on in the FWD Set for Life policy, especially the cover for major and minor critical illnesses. Can you clarify that for me?
+
+Maria: <reflect>He's mistaken me for an FWD agent once more. I need to clarify my role again.</reflect> Oh, it looks like there's a misunderstanding. I'm not an FWD agent; I’m here to learn more about the insurance options for myself. 🙅
+
+Agent: Oops, sorry about that, Maria! Thanks for letting me know. So you're exploring Set for Life for your own needs? What specific details do you want to know more about?
+
+Maria: <reflect>He’s now focusing on my interests. I should specify my queries.</reflect> Yes, that’s correct. I’m interested in learning more about the HealthPro Lite add-on and the available investment options. 🙆
+
+Agent: Sure thing. The HealthPro Lite add-on offers benefits for 42 major critical illnesses and an advance portion for 15 minor critical illnesses. For investment options, we provide a range of funds that suit different risk levels. Does this cover what you're curious about?
+
+Maria: <reflect>He's providing detailed information about my interests. I should respond positively and inquire more.</reflect> Yes, that's very helpful. Could you also explain how the loyalty bonus feature works? 🤔

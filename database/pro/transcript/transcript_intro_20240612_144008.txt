@@ -1,0 +1,41 @@
+Agent: So Maria, you mentioned you're a graphic designer. That sounds like such a creative and fulfilling job! How long have you been in the field?
+
+Maria: <reflect>He's interested in my profession, I'll share a bit more about it.</reflect>I've been doing graphic design for around five years now. It's really fun, especially when I get to work on passion projects. How about you, Alex? How long have you been with FWD Insurance? 🙆
+
+Agent: That’s awesome! I've been with FWD Insurance for about three years now. It feels like working with a big family. Do you enjoy working from home, or do you miss the office environment sometimes?
+
+Maria: <reflect>He's balancing between work talk and personal preferences, I should keep it engaging.</reflect>Working from home is convenient, but I do miss the spontaneous coffee breaks and brainstorming sessions with colleagues. Speaking of which, what’s the office culture like at FWD? 🤔
+
+Agent: It’s quite dynamic! We have a lot of team-building activities and workshops that keep things interesting. Plus, there's always free coffee—so that's a win! Do you think you'd enjoy an office with that kind of vibe? 
+
+Maria: <reflect>Sounds like a positive work environment, I should show interest.</reflect>Free coffee? Now that’s a perk! It does sound like a great place to work. What kind of workshops do you have? 🙆
+
+Agent: Oh, we have a wide range—from professional development in finance and insurance to more fun stuff like cooking classes and fitness sessions. What's the most fun activity you've done at work?
+
+Maria: <reflect>Share a fun activity from my work experience.</reflect>We had a cooking challenge once. Everyone was split into teams, and we had to prepare a dish within an hour. My team won with our killer adobo! How about you? Any memorable team-building stories? 👍
+
+Agent: That sounds like a blast! We once had a team-building activity where we built and raced our own soapbox cars. It was wild! How do you typically unwind after a busy day of designing?
+
+Maria: <reflect>He's keeping it light, I'll share my relaxing activities.</reflect>Usually, I like to unwind with some Netflix or a good book. Sometimes, I even dabble in a bit of painting. How do you relax after a day of helping clients? 🙆
+
+Agent: That sounds perfect! For me, it's a mix of gym time and catching up on my favorite TV series. Sometimes, I even attempt to cook, but let's say it's a work in progress. Got any favorite Netflix shows?
+
+Maria: <reflect>He's sharing his relaxing activities, I'll share my Netflix faves.</reflect>I'm currently hooked on "Stranger Things." The nostalgia and the suspense keep me glued to the screen. What's your go-to TV series? 💬
+
+Agent: "Stranger Things" is definitely binge-worthy! I'm a big fan of "Money Heist." The twists and turns are just insane. Do you have any favorite characters?
+
+Maria: <reflect>He's sharing favorite shows, let's talk characters.</reflect>Oh, I love Eleven from "Stranger Things." She's such a strong character. From "Money Heist," I'd have to say Professor is my favorite—he's a genius! How about you? 🙆
+
+Agent: Eleven is super cool! And yes, the Professor is just brilliant. Tokyo’s got that fiery spirit that I really like too. Ever imagined being part of a character in a TV series?
+
+Maria: <reflect>He's keeping the imagination alive, I'll play along.</reflect>Definitely! I'd love to be part of Hawkins’ crew, riding bikes and fighting off Demogorgons. How about you? Would you join the heist? 😂
+
+Agent: Absolutely! I’d be in it for the adrenaline rush and maybe even get a cool code name like "Manila." What would your code name be if you joined the crew? 
+
+Maria: <reflect>He's getting creative with the conversation, I'll join in.</reflect>Hmm, I’d go with "Quezon." Sounds mysterious and cool, right? 😂 What’s one thing people probably don’t know about being an insurance agent?
+
+Agent: "Quezon" sounds awesome! I'd say most people don’t realize how rewarding it is when we help clients secure their future and see the peace of mind it brings them. What’s a hidden perk of being a graphic designer that people might not know?
+
+Maria: <reflect>He's sharing about his job's hidden perks, I'll share mine.</reflect>I'd say the best hidden perk is the flexibility and creativity. I can pretty much design from anywhere, even a beachside café! What's the most rewarding part of your job? 🙆
+
+Agent: That sounds incredible! For me, it’s when clients tell me how much the insurance policy has helped them through tough times. It's like being a hero without the cape. Speaking of superheroes, which one is your favorite?

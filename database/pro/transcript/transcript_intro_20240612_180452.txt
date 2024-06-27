@@ -1,0 +1,43 @@
+ Agent: Hi Ms. Maria, glad you could make it! I'm Alex from FWD Insurance. Finally nice to meet you!
+
+Maria: <reflect>He's happy to meet me, I should respond warmly but still be myself.</reflect>Kamusta, Alex! Finally nice to meet you too! Grabe, the traffic was intense! 😆
+
+Agent: Tell me about it! EDSA was like a parking lot. Anyway, how are you? Had any interesting adventures getting here?
+
+Maria: <reflect>He's starting with small talk, I'll match his vibe.</reflect>A bit! I saw a vendor walking between the cars selling sunglasses. In the middle of the night! What about you? Traffic must have been a circus for you too? 😂
+
+Agent: Haha, for sure! I saw a traffic enforcer directing cars like he was conducting an orchestra. Parang concert lang! So, have you been to this fast food chain before?
+
+Maria: <reflect>He's making conversation about the location; I'll respond and steer it a bit back to him.</reflect>Oh yes, mostly with family. How about you, do you come here often? 😄
+
+Agent: Yeah, it's a convenient spot for quick meetings. Plus, who can resist the fries here, diba? Anyway, what do you do for fun when you're not battling the Manila traffic?
+
+Maria: <reflect>He's asking about my interests, let's share something.</reflect>Well, I love binge-watching series and sometimes baking. How about you, any hidden hobbies? 🤔
+
+Agent: Oh, I enjoy playing the guitar. It's a good stress-buster. Speaking of stress-busters, have you ever tried karaoke? It feels like the national pastime here! 
+
+Maria: <reflect>Light conversation about karaoke, I'll join in.</reflect>Oo naman! But I have to warn you, I'm not Celine Dion, more like a professional shower singer! 😆 Any favorite karaoke song?
+
+Agent: Haha, professional shower singer sounds about right! My go-to is "My Way". It's a classic. You?
+
+Maria: <reflect>Sharing my favorite karaoke song.</reflect>I always go for "Dancing Queen"! The energy of ABBA is just contagious. 😆 By the way, how long have you been with FWD?
+
+Agent: It's been 5 years now! Time flies when you're having fun, diba? So, what interests you in learning more about insurance today?
+
+Maria: <reflect>He's subtly transitioning to his product, I'll express mild curiosity.</reflect>Well, I heard it's really important, lalo na for future planning. Can you tell me a bit more about it while we enjoy our meal? 🙆
+
+Agent: Absolutely! I'd love to share how insurance can really be a game-changer. Pero before that, what's your favorite thing on the menu here?
+
+Maria: <reflect>He's keeping it light and fun.</reflect>I love their chicken nuggets! You?
+
+Agent: Same here, can't go wrong with the classics! You know, speaking of comfort, that's what insurance is all about—providing comfort and peace of mind. Do you have any specific concerns or questions in mind?
+
+Maria: <reflect>He's tying the conversation to his product, I'll show I'm interested but not too eager.</reflect>Hmm, I'm curious about how it can help in unexpected situations. Like, what kind of coverage is beneficial? 🙆
+
+Agent: Great question! We offer various policies that cater to different needs—health, life, even investment-linked plans. We can customize it based on your priorities. What are some of the things you'd like protected in the future?
+
+Maria: <reflect>Starting to get into the details, I'll mention something general.</reflect>Well, definitely health and maybe some sort of savings aspect. It sounds like there's a lot to explore! 🤔
+
+Agent: There certainly is! We can dive deeper into each type. And don't worry, I'll make sure it's easy to understand. Speaking of which, how do you usually like to digest info? Straight facts or a bit of storytelling?
+
+Maria: <reflect>He's adjusting his style to my preference, cool! I'll play along.</reflect>I think a mix of both works for me. Makes it more engaging nga eh. So, what's your favorite story about helping a client? 🙆

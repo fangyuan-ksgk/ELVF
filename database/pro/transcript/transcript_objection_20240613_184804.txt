@@ -1,0 +1,43 @@
+ Agent: I'm really glad we had the chance to go through the product details, Maria. How are you feeling about it so far?
+
+Maria: <reflect>The product sounds good, but I have some concerns about my qualifications.</reflect>It's interesting, Alex. Pero, I have some concerns. Can I still get life insurance even though I smoke? 🤔
+
+Agent: Ah, I understand your concern, Maria. Actually, smokers can still qualify for life insurance. There might be some adjustments to the premium rates, but it's definitely possible. Would you like to know more about how the rates work for smokers?
+
+Maria: <reflect>Okay, they're flexible on smokers. But I still have another concern.</reflect>Good to know. Pero there's another thing. May history of illness ako. Will that affect my eligibility? 🙆
+
+Agent: That's a great question. Having a history of illness doesn't automatically disqualify you from getting life insurance. It will depend on the specific condition and its current status. We have plans that cater to different health backgrounds. Would you like to discuss this further?
+
+Maria: <reflect>That's reassuring, I should get more details on this.</reflect>Okay, that's nice to hear din. What specific medical conditions do you usually consider, and how do they affect my policy? 🤔
+
+Agent: Generally, we look into conditions like diabetes, hypertension, heart disease, and others. Each case is evaluated individually. When it comes to your policy, we might request a medical check-up. Do you think you’ll be comfortable with that?
+
+Maria: <reflect>Hmm, a medical check-up sounds standard. But what if I'm not okay with the outcome?</reflect>I guess that's fine. Pero what happens if, let's say, my medical results aren't favorable? 🙆
+
+Agent: If the results indicate significant health issues, we might adjust the premiums accordingly, or in some cases, offer a different type of coverage. But rest assured, we'll work to find the best solution for you. How does that sound?
+
+Maria: <reflect>That's quite inclusive; I should learn more about the different types of coverage.</reflect>Okay, sounds fair. What are these different types of coverage you're talking about? 🙆
+
+Agent: We have various plans, from term life insurance to whole life and unit-linked insurance, each catering to different needs. Term life is for a specific period, whole life covers you for your entire life, and unit-linked offers both insurance and investment options. Which one sounds more appealing to you?
+
+Maria: <reflect>So many choices, I'm a bit confused. I should ask for more details.</reflect>Hmm, ang dami pala. Can you give more details about term life and whole life insurance? 🤔
+
+Agent: Sure! Term life insurance provides coverage for a specific period, like 10 or 20 years. It's usually more affordable. Whole life insurance, on the other hand, covers you for your entire life and comes with a savings component. Does one of these sound like it might fit your needs better?
+
+Maria: <reflect>Both have their pros and cons. I'm leaning towards whole life, but unsure about savings.</reflect>Whole life insurance sounds good, especially with the savings component. How exactly does that work? 🙆
+
+Agent: Great choice! With whole life insurance, part of your premium goes into a savings account that grows over time. You can even borrow against it if needed. It's like having a safety net. What do you think about that?
+
+Maria: <reflect>That's quite interesting. I like the idea of a safety net.</reflect>That sounds very reassuring. Having an extra safety net is always a good thing. Makes me feel like I'm being financially responsible. 🙆
+
+Agent: Absolutely, Maria. Financial stability is a significant benefit. Plus, your beneficiaries will be well taken care of. Do you have specific goals you're working towards that we can align with the policy?
+
+Maria: <reflect>Aligning it with my goals sounds practical. Should think about what goals to mention.</reflect>Well, my main goals would be ensuring my family is financially secure and maybe saving for future investments like a small business. Can insurance help with these? 🙆
+
+Agent: Absolutely. The savings component of whole life insurance can help build up funds for future investments. And of course, the death benefit will secure your family's financial future. It's like hitting two birds with one stone.
+
+Maria: <reflect>That's a good point. Two benefits in one policy.</reflect>Very interesting! Maaari bang both goals are achieved with one policy? It really does sound like the perfect balance. 🙆
+
+Agent: Yes, it can definitely address both goals. It's a powerful tool for long-term financial planning. So, thinking about your future, how does combining these benefits make you feel about taking the next steps towards getting your policy?
+
+Maria: <reflect>I'm almost convinced, but want to be sure about the details before moving forward.</reflect>It makes me feel more confident about the long-term benefits. I do want to make sure I understand all the details before committing, though. 🙆

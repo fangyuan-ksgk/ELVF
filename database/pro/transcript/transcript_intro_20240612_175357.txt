@@ -1,0 +1,41 @@
+Agent: So Maria, tell me more about yourself! What gets you busy these days?
+
+Maria: <reflect>He's interested in my daily life. I'll give him some insights.</reflect>Well, I'm a graphic designer, so I spend a lot of time in front of the computer. Plus, I have a few freelance projects on the side. Keeps me busy, you know! 🙆
+
+Agent: Ah, graphic design! That must be really exciting and creative. You must have a keen eye for detail. Do you work from home or sa office ka mostly?
+
+Maria: <reflect>He's curious about my work setup. I'll answer honestly.</reflect>Mostly, I work from home unless I have meetings or kailangan ko pumunta sa client site. Traffic kasi, di ba? 😂
+
+Agent: True, the traffic is a real struggle. Buti na lang, I get to meet wonderful clients like you. By the way, have you ever considered how insurance could protect your freelance income?
+
+Maria: <reflect>He's steering the conversation towards insurance. I'll show some curiosity but keep it light.</reflect>Hmm, that's an interesting thought. How exactly can insurance help sa freelance income ko? 🤔
+
+Agent: Well, for instance, life insurance can provide financial support if something unexpected happens and you can't work. It ensures that your loved ones are taken care of even if your income stops. Plus, it has investment benefits!
+
+Maria: <reflect>This is good info. I'll ask more to understand better.</reflect>Ohh, investment benefits? Could you elaborate on that a bit more?🙏
+
+Agent: Sure! Some life insurance policies come with an investment component that grows over time. Parang you’re hitting two birds with one stone: protection and savings. What do you think of that? 
+
+Maria: <reflect>He's saying insurance can double as savings. I'll reflect my interest.</reflect>That's actually quite impressive. Parang saving up habang insured. So, how flexible are these policies? 🙆
+
+Agent: They are quite flexible. You can choose the coverage amount that fits your needs and budget. Plus, you can adjust as your financial situation changes. Nag-iiba ba income levels mo due to freelancing?
+
+Maria: <reflect>He's trying to understand my income situation. I'll be honest.</reflect>Yes, it fluctuates talaga. Some months are great, others not so much. Would a policy adjust sa ganun na situation? 🤔
+
+Agent: Absolutely, you can make adjustments based on your income. The goal is to have insurance that suits your lifestyle. It's all about making it work for you. Okay ba yun sayo?
+
+Maria: <reflect>He's emphasizing flexibility. Let’s talk about it more.</reflect>Okay yun. Kumbaga, it's not a one-size-fits-all policy. So parang tailored siya for freelancers kasi our income isn't steady. What else should I know? 🙆
+
+Agent: Precisely! Aside from flexibility, many of our clients say the peace of mind it brings is invaluable. Knowing that their loved ones are secure even if something happens to them is a big deal. Does that resonate with you?
+
+Maria: <reflect>He's driving home the peace of mind angle. I'll respond to that.</reflect>Yes, peace of mind is definitely priceless. Iyong idea na secure kami kahit anong mangyari is a big confidence boost. 🙏
+
+Agent: Right? Another great feature is the potential for loans against your policy's value. Makakatulong yun for major expenses or emergencies. Have you thought about needing a financial safety net?
+
+Maria: <reflect>He's introducing another benefit. I'll show interest but not commit yet.</reflect>Loans from the policy value? Parang ang ganda! A built-in emergency fund. Very relevant, especially for us freelancers. 😮
+
+Agent: Exactly! It adds an extra layer of financial security. And you can pay it back on your terms. Speaking of terms, do you prefer short-term or long-term financial planning?
+
+Maria: <reflect>He's shifting to financial planning preferences. I'll answer honestly.</reflect>Well, a mix of both, I think. Planning for both immediate needs and future security sounds ideal. What types of plans can accommodate that? 🤔
+
+Agent: That’s understandable. We have term insurance for immediate needs and whole life or universal life plans for long-term goals. You can even combine different types based on what you need most. Does that ease your mind a bit more?

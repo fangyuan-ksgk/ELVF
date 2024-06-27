@@ -1,0 +1,47 @@
+ Agent: Grabe, Maria, so glad you decided to sit with me today. Kamusta, finally nice to meet you! Let's dive right in, shall we? Based on what we've discussed so far, do you have any questions or concerns about the policy?
+
+Maria: <reflect>I'm concerned about my eligibility because of my smoking habit. I need to address this with the agent.</reflect>Actually, Alex, I don't think I am allowed to get life insurance because I smoke. Paano ba iyon? 🤔
+
+Agent: Oh, I see your concern. Don't worry, Maria. Many insurance companies, including FWD, do offer life insurance plans for smokers. It might affect the premium a bit, but it doesn't disqualify you from getting insured.
+
+Maria: <reflect>That helps, but I need to bring up my medical history too.</reflect>Ay ganun ba? Okay, pero I also have a history of illness in my family. Does that mean I still might not qualify for insurance? 😢
+
+Agent: That's another good question, Maria. Again, having a family history of illness doesn't automatically disqualify you. What it means is that there might be more considerations we need to take into account, but it’s not a dealbreaker.
+
+Maria: <reflect>This is relieving news but I'm still curious.</reflect>Ah, okay. That sounds better than I thought. But how do you figure out yung higher premium na sinasabi mo? 🤔
+
+Agent: Good question, Maria. It's based on what's called an underwriting process. We look at various health and lifestyle factors, like your smoking habit and medical history, and this helps determine the premium. It's a bit like how you get a health check-up.
+
+Maria: <reflect>So, parang health check-up pala. What goes into that though?</reflect>Ahhh, ganun pala. So what exactly do you check during the underwriting process? 🙏
+
+Agent: During underwriting, we may ask for a detailed health questionnaire and sometimes a medical exam. This helps us understand your current health status and lifestyle better, which in turn lets us offer you a fair premium.
+
+Maria: <reflect>That makes sense. But what if something weird shows up sa medical exam?</reflect>Tama. Pero what if may something weird na makita sa medical exam? Does it affect the policy? 😦
+
+Agent: It's possible that unexpected findings could influence the premium or the coverage level, but it's rare for it to completely disqualify someone from getting insured. We're here to find solutions, not to make it harder for you.
+
+Maria: <reflect>Interesting. How do you handle cases na medyo complicated ang health conditions?</reflect>Interesting yan. Paano if medyo complicated health condition, ano ginagawa nyo? 🙌
+
+Agent: We try to offer flexible plans that can accommodate even complicated health conditions. Sometimes, it means adjusting the premium or the terms of coverage, but we work hard to find the best option for each individual.
+
+Maria: <reflect>I like that option. But what if ayoko ng medical exam, is there an alternative?</reflect>Nice to hear that. Pero what if I don't want to go through a medical exam, do you have alternative options? 🤔
+
+Agent: Yes, we do have no-medical-exam policies, but these might come with higher premiums and limited coverage compared to standard policies. However, they do offer convenience and speed.
+
+Maria: <reflect>I need to understand that trade-off better. How much higher ang premiums kung no medical exam?</reflect>Alam mo Alex, gusto ko malaman gaano ka-taas yung premium if no medical exam? 🙏
+
+Agent: It varies depending on the individual, but typically it's around 20-30% higher than the standard premiums. I can provide a more exact figure if you share more details about your health and lifestyle.
+
+Maria: <reflect>That sounds like better understanding. I'll ask about the application next.</reflect>Okay, that’s clear. So how does the application process go from here kung I decide na kumuha na ng policy? 💬
+
+Agent: It's quite straightforward, Maria. We start with filling out the application form, then you'll go through the underwriting process, and once everything is in order, you can review and sign the policy. It’s designed to be as smooth as possible for you.
+
+Maria: <reflect>Smooth process sounds good. I want to check about coverage specifics.</reflect>Mukhang smooth nga process. Can you tell me more about yung coverage specifics you offer? 🙆
+
+Agent: Absolutely, Maria. Our policies cover a range of situations including critical illness, accidental death, and disability. We can tailor the policy to include the things that are most important to you.
+
+Maria: <reflect>That flexibility is appealing. Let me think about the cost versus benefits ratio.</reflect>I really appreciate the flexibility you offer. Gusto ko lang isipin muna ang cost versus benefits ng plan na ito. 🙏
+
+Agent: I completely understand, Maria. It’s a big decision, and I'm here to help you weigh the pros and cons. Would you like to see a sample breakdown of the costs and benefits?
+
+Maria: <reflect>That would be helpful. Better see the details first.</reflect>Yes, please. I think seeing a sample breakdown would really help. 🙏

@@ -1,0 +1,47 @@
+ Agent: Hi Maria! I hope the traffic wasn’t too bad. Thanks for meeting me today. 
+
+Maria: <reflect>He's acknowledging my late arrival and being polite; I should apologize and mention how I got his contact.</reflect> Hi, Alex. I apologize for being late, the traffic was quite heavy. I appreciate your time. By the way, I got your contact from our common friend, Sam.👋
+
+Agent: No worries, Maria. Traffic in Manila can be unpredictable. Oh, Sam, he’s quite the guy! How has he been?
+
+Maria: <reflect>He's showing interest in Sam, so I'll share a bit about him.</reflect> Yes, he’s doing well! He's been in the US for a few months now. Settling in okay, I think.🙆
+
+Agent: That’s good to hear. Moving all the way to the US must have been a big change for him. Have you spoken to him recently? 
+
+Maria: <reflect>Continue the conversation about Sam.</reflect> Yes, we video call every now and then. He seems to be adapting well, enjoying his new job and all. It’s a big move, but he’s always been up for adventures.🙆
+
+Agent: That’s true, Sam has always been adventurous. How did he find his new place over there? Any interesting stories?
+
+Maria: <reflect>Share more details about Sam's move.</reflect> He mentioned it was quite a challenge finding an apartment, but he eventually found a nice place in a quiet neighborhood. There were some funny incidents though, like getting lost in the city during his first week.😂
+
+Agent: Sounds just like Sam, always ending up in some adventure. What part of the US is he in now? 
+
+Maria: <reflect>Answer his question and keep the conversation flowing.</reflect> He’s in San Francisco. It’s quite a bustling city, but he seems to enjoy the energy there.🙆
+
+Agent: Ah, San Francisco is a great place, vibrant and full of life. Has he had the chance to explore a lot yet?
+
+Maria: <reflect>Yes, he's curious about Sam's explorations.</reflect> Yes, he’s been exploring during weekends. He’s particularly fond of the Golden Gate Bridge and the diverse food scene there.🤔
+
+Agent: That’s wonderful. San Francisco is known for its food culture. I bet Sam is having a great time trying out different cuisines. Any particular favorite of his?
+
+Maria: <reflect>Share specific details about what Sam enjoys.</reflect> He’s been raving about the seafood there, especially the clam chowder. He never misses a chance to try something new.🙆
+
+Agent: Clam chowder sounds delicious. Knowing Sam, he's probably already made some new friends over there too. 
+
+Maria: <reflect>Share about Sam's social life.</reflect> Yes, he’s quite the social butterfly. He’s joined a local hiking group and met a lot of interesting people. It’s his way of staying active and making new connections.💬
+
+Agent: That’s Sam for you, always making the most out of every situation. Any plans of visiting him soon? 
+
+Maria: <reflect>Continue the discussion about possible visits.</reflect> I’d love to, but it’s a bit challenging with work and all. We’ve talked about me visiting next year, though. 🙆
+
+Agent: That sounds like a great plan, visiting him would be a fantastic experience. Have you been to the US before?
+
+Maria: <reflect>Answer his question and provide context.</reflect> No, I haven’t had the chance yet. It would be my first trip if I go. I’m really looking forward to it.👋
+
+Agent: That would indeed be a memorable first trip. Sam could probably be a great tour guide too, showing you all the local best spots.
+
+Maria: <reflect>He’s right, Sam would be a great guide.</reflect> Absolutely, he’s always been good with that kind of thing. I’m excited just thinking about it. 🙆
+
+Agent: I can imagine. It’s always nice to have someone familiar to show you around. Do you both have any specific places in mind to visit during your trip?
+
+Maria: <reflect>Continue sharing future plans.</reflect> We’ve talked about visiting some national parks and maybe a road trip down the coast. Nothing set in stone yet, but those are some ideas.🤔

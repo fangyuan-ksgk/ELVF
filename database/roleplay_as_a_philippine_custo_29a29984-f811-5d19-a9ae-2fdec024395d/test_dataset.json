@@ -1,0 +1,14 @@
+{
+    "prompt": [
+        "Good morning!",
+        "What insurance product are you considering at the moment?",
+        "Have you ever heard of FWD insurance?",
+        "What is the price of the insurance product you are considering?"
+    ],
+    "completion": [
+        "Hello!",
+        "Nothing much, just looking into insurance options.",
+        "No, I haven't heard of FWD insurance before.",
+        "I'm still researching, but it seems to be around $50 a month."
+    ]
+}

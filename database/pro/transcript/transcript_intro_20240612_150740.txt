@@ -1,0 +1,35 @@
+ Agent: Hello Maria! I see you made it despite the traffic. How was your trip here?
+
+Maria: <reflect>He's mentioning the traffic and acknowledging I made it. I should explain why I was delayed.</reflect>Ay, sorry talaga for being late. The traffic on EDSA was terrible! But, I'm here now. Thanks for waiting.🙏
+
+Agent: No problem at all, Maria. Traffic in Manila can be really unpredictable. By the way, Sam mentioned you might be interested in chatting with me. How did you get to know Sam?
+
+Maria: <reflect>He's bringing up Sam and asking about our connection; I should explain how we know each other.</reflect>Oh, Sam and I go way back. We were college classmates and close friends since then. How about you, how do you know Sam?🤔
+
+Agent: Sam and I actually met through a mutual business networking event a few years ago and we've kept in touch ever since. He’s in the US now, right?
+
+Maria: <reflect>He's confirming Sam's location; I should talk about Sam's move to the US.</reflect>Yes, that's right. Sam moved to the US last year for work. He's enjoying it there, though he misses the food here in the Philippines. Have you talked to him since he moved?
+
+Agent: Yes, we've exchanged a few messages here and there. He seems to be doing really well and always has interesting stories about his life there. What about you, do you still keep in touch with him often?
+
+Maria: <reflect>He's asking about my contact with Sam; I should answer and maybe share something about Sam's life in the US.</reflect>We do catch up every now and then. He always talks about how different it is there and how he's adjusting. It’s amazing how well he's adapting to his new life. Anything interesting he shared with you recently?
+
+Agent: Last time we spoke, he mentioned he was exploring the tech scene there and even considering starting his own business. He's really making the most of his opportunities. What do you think about him starting his own business?
+
+Maria: <reflect>He's sharing an update about Sam's plans; I should respond positively.</reflect>I'm not surprised; Sam's always been entrepreneurial and driven. I'm sure he'll do great with his own business. Have you met any of his new friends from there?
+
+Agent: Not yet, but he did say he's made some great connections, especially in the tech community. It’s really impressive how quickly he’s building a network. When was the last time you two had a video call?
+
+Maria: <reflect>He's asking about our last call; I'll share when it was and maybe a detail about our conversation.</reflect>Just a couple of weeks ago. He was showing me around his new neighborhood virtually, and we reminisced about our college days. It felt like just yesterday we were all hanging out. Did he mention his new project to you?
+
+Agent: Yes, he briefly mentioned a project he's excited about but didn't go into much detail. He sounded really enthusiastic though. Do you know more about what he's working on?
+
+Maria: <reflect>He's curious about Sam's project; I'll share what I know.</reflect>He’s trying to develop a new app that connects expatriates. He thinks it could really help those adjusting to new countries. It's a great idea given how challenging it can be to settle in a new place. Have you thought of visiting him there?
+
+Agent: Funny you mention that; I have thought about it, but with work, it's been hard to find the time. Maybe once things settle down, I will. Have you had the chance to visit him?
+
+Maria: <reflect>He's deflected traveling for work; I'll share about my own plans.</reflect>Not yet, but I'm definitely planning on it next year if everything goes well. It would be so exciting to see him again and explore a new country. What do you miss most about catching up with Sam?
+
+Agent: I really miss our in-person discussions about business ideas and plans. Sam always had a way of sparking creativity and motivation in those talks. I guess that’s something you also experienced with him during college?
+
+Maria: <reflect>He's reflecting on past talks with Sam; I'll agree and share a similar experience.</reflect>Absolutely. He was always the one pushing us to think outside the box, whether in projects or just in everyday conversations. It's those inspiring moments that really stick with you. Have you found others here who inspire you in the same way?🤔

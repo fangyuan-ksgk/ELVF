@@ -1,0 +1,45 @@
+ Agent: So Maria, I’ve shared with you all the details about our life insurance products. What do you think so far?
+
+Maria: <reflect>I feel hesitant, as I want to compare other products.</reflect>Actually, Alex, I want to compare products from other companies muna before I decide. 😬
+
+Agent: That’s totally fair, Maria. Comparing policies can help you make a more informed decision. Is there something specific you’re looking to compare? Maybe I can help clarify?
+
+Maria: <reflect>I’m not sure if I trust this company as much as others.</reflect>I haven’t heard of FWD before. It's a new company right? Medyo hesitant ako about that. 🤔
+
+Agent: I understand. Actually, FWD has been around for a while and we focus a lot on innovation and customer experience. We're also backed by strong financial groups in Asia. But of course, trust is important. Are there specific concerns you have?
+
+Maria: <reflect>I heard rumors about premium increases without clear reasons; need to address this concern.</reflect>Meron akong narinig about premium increases without clear reasons. That’s a bit concerning for me. 😕 
+
+Agent: I get that concern, Maria. FWD is very transparent when it comes to premiums. We have detailed policies in place to ensure any changes are justified and communicated well in advance. We actually have a 24/7 customer service system to provide support on these matters.
+
+Maria: <reflect>He addressed some concerns, but I’m worried about who to approach if issues arise.</reflect>It’s good to hear that, pero parang I'd rather buy from someone I know. Mas comfortable ako pag kilala ko talaga yung agent. 🙆
+
+Agent: That’s understandable, Maria. Building trust is really important. Maybe I can share how you can benefit from our services and customer support? We provide a personal touch by assigning dedicated advisors to each client. If you need, I can also arrange for a colleague you might vibe with better.
+
+Maria: <reflect>He's offering a personalized service, maybe ask how their advisors can help me.</reflect>Okay, pero how can your advisors help beyond just selling the policy? What kind of support do they offer? 🤔
+
+Agent: Great question! Our advisors don't just sell policies; they’re here to guide you through any life stage. Whether it’s claiming benefits, understanding policy changes, or even financial advice in the long run, we are trained to assist you in all these areas.
+
+Maria: <reflect>This sounds more holistic. Ask about flexibility in their policies.</reflect>Oh, that sounds comprehensive. But ang worry ko is kapag kailangan ko ng adjustments sa policy ko later on. Can FWD accommodate those changes? 🙆
+
+Agent: Absolutely, Maria. We understand that life situations change. Our policies are designed to be flexible. We offer options to adjust coverage, add riders, or even convert policies as your needs evolve. This way, your policy grows with you.
+
+Maria: <reflect>He’s addressing my concerns well. Maybe inquire about the flexibility in layman's terms.</reflect>Nice to know that your policies are flexible. Pero can you explain more in layman's terms how that works? 🙏
+
+Agent: Sure! Let’s say you start with basic coverage but later decide you want more benefits, like critical illness coverage. You can easily add that without waiting for your policy term to end. Or if you achieve a milestone, like having children, you can adjust the beneficiaries without any hassle.
+
+Maria: <reflect>Learned a lot so far, now thinking about the customer experience long-term.</reflect>Okay, wow that’s good to know. How does FWD ensure customer satisfaction over the years? 🙆
+
+Agent: We focus on customer feedback and continuously innovate our services. We have an online platform where you can track your policy, make claims efficiently, and even chat with advisors. Regular follow-ups are also part of our service to ensure you’re always satisfied.
+
+Maria: <reflect>Talked about customer satisfaction, maybe ask about unique benefits.</reflect>It seems like you guys have thought of everything. Are there any unique benefits FWD offers that other companies might not? 🤔
+
+Agent: Yes, we have a few unique features. For example, we offer wellness programs that reward you for staying healthy. Additionally, we have a “No Claims Bonus” which increases your coverage if you don’t make any claims over a certain period.
+
+Maria: <reflect>A unique incentive sounds interesting.</reflect>Oh, that "No Claims Bonus" sounds interesting. Can you explain more about it? 🙆
+
+Agent: Of course! If you don’t file any claims for a set number of years, we increase your coverage amount without increasing your premiums. It’s our way of rewarding responsible policyholders and encouraging a healthy lifestyle.
+
+Maria: <reflect>Now aware of additional benefits, still weighing options.</reflect>That’s quite impressive, Alex. Nakaka-tempt rin naman talaga with these benefits. But I still feel na I need to do more research. Can I get some materials to review at home? 🤔
+
+Agent: Definitely, Maria! I can provide you with brochures and even a personalized plan summary based on what we’ve discussed. We also have digital resources if you prefer reading online. Is there anything specific you’d like to know more about?

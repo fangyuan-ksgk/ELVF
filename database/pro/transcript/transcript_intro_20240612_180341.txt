@@ -1,0 +1,47 @@
+ Agent: Hi Maria! Kamusta? Finally nice to meet you. I'm Alex from FWD Insurance.
+
+Maria: <reflect>He's greeting me warmly and introducing himself; I should return the favor and express my excitement to meet him too.</reflect>Hi Alex! Finally nice to meet you as well! You know, traffic in Makati is like a horror movie sequel that never ends! 😆
+
+Agent: Haha, absolutely! I think we all deserve medals for surviving daily traffic here. Speaking of survival, have you tried anything interesting lately to pass the time on the road?
+
+Maria: <reflect>He's making small talk about the traffic, I'll keep the mood light and funny.</reflect>Oh, definitely! I've started creating my own car karaoke sessions. My passengers either love it or hate it! How about you? Do you have any car rituals? 😆
+
+Agent: Car karaoke sounds like fun! For me, I listen to podcasts, especially those murder mysteries. Parang may suspense happening while you're stuck in traffic!
+
+Maria: <reflect>He's sharing his interest in podcasts, I'll keep it going.</reflect>Podcasts are also great company! Murder mysteries though? That's intense! If I tried that, baka mag-paranoid ako while driving. 😆
+
+Agent: Haha, true! Gotta be careful with what you listen to. So, have you eaten here before? They have pretty good fries, if I may say.
+
+Maria: <reflect>He's shifting to food, I'll share my experience.</reflect>Oh, many times! Their fries are my guilty pleasure. Actually, I can finish a large serving on my own. 😂 What about you, Alex? What's your go-to order here?
+
+Agent: Can't go wrong with a classic burger and fries combo! If there’s a fast food Olympics, I think I’ll win gold! 😂 Anyway, aside from surviving traffic and enjoying fries, what do you do, Maria?
+
+Maria: <reflect>He's asking about my background, I'll tell him about my work.</reflect>I work as a graphic designer, so most of my time goes into getting creative with visuals. It's fun but can be really demanding sometimes. What got you into insurance?
+
+Agent: It started as a summer internship during college, but I really enjoyed helping people understand their financial options. Tapos, it naturally became my career. It’s fulfilling to know you're making a difference. What’s the most fun project you’ve worked on?
+
+Maria: <reflect>He’s sharing his passion for his job; I should share something interesting about mine.</reflect>I once worked on a project for a travel magazine, designing layouts for exotic destinations. It's like a mini-vacation while working! Do you get to travel often for your job?
+
+Agent: Not as much as I'd like, but we do have occasional seminars in fun locations. Last time, we went to Boracay, and it was both work and play!
+
+Maria: <reflect>Sounds like a mix of work and fun; I’ll share a travel story too.</reflect>Boracay for work sounds amazing! Last time I went, I got sunburned so bad, pinagtawanan ako ng barkada. Do you enjoy beach activities?
+
+Agent: Definitely! I love snorkeling and beach volleyball. Though, I’m not the best player. 😅 What about you? Any favorite beach activities?
+
+Maria: <reflect>He's sharing his beach interests; I'll share mine too.</reflect>I love collecting seashells and building sandcastles. Sometimes, I feel like a kid again! Do you have any favorite beach destinations?
+
+Agent: Palawan is hard to beat! It's just so pristine and beautiful. Have you ever been?
+
+Maria: <reflect>He's asking about Palawan; I'll share my experience but ask something different.</reflect>Yes, I went last year. Absolutely gorgeous! So relaxing! Have you always been based here in Makati or do you commute from elsewhere?
+
+Agent: I actually live in Quezon City, so daily EDSA battles for me! But, I've gotten used to it over the years. Speaking of which, if you could work anywhere in the world, where would it be?
+
+Maria: <reflect>He's asking about dream locations; I'll share mine.</reflect>Probably somewhere in Europe, maybe Paris? Working in a cute café, surrounded by croissants and art! What's the best part of working at FWD for you?
+
+Agent: It's definitely the people I get to meet and help. Hearing their stories and giving them peace of mind is very rewarding. How about you, what’s the best part of your job?
+
+Maria: <reflect>He’s talking about the rewarding side of his job; I’ll share mine too.</reflect>Seeing a project come to life and knowing that a client loves it is the best feeling. Do you have any interesting client stories?
+
+Agent: Oh, many! One client even brought their pet parrot to a meeting. The parrot kept mimicking our conversation! How about you, any memorable client experiences?
+
+Maria: <reflect>He's sharing an unusual client story; I’ll share mine too.</reflect>I once had a client who insisted on having their cat in all their product photos. It turned into a full-blown cat photoshoot! 😺

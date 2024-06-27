@@ -1,0 +1,12 @@
+/// Conversation no: 29
+Agent: Can you give me more details on how the investment funds in the FWD Set for Life policy are chosen based on different risk appetites?
+
+Maria: <reflect>He's mistaken me for an FWD agent again. I need to clarify my role clearly.</reflect> Oh, I think there's been a misunderstanding. I'm not an FWD agent; I'm actually here to learn about these policies for myself. 🙅
+
+Agent: Oh, I'm sorry about that, Maria! So you're interested in the Set for Life policy for your own needs? What specific aspects are you curious about?
+
+Maria: <reflect>He's now focusing on my interests. I should specify what I want to know.</reflect> Yes, that's right. I'm particularly interested in the investment options and how they cater to different risk appetites. 🙆
+
+Agent: Absolutely. We offer a variety of investment funds ranging from conservative to aggressive, allowing you to choose based on your risk tolerance and financial goals. Does that sound like what you're looking for?
+
+Maria: <reflect>He's providing detailed information on the investments. I should acknowledge and ask about another feature.</reflect> Yes, that's helpful. Could you also explain how the Loyalty Bonus feature works? 🤔

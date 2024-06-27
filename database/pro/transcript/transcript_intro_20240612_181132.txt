@@ -1,0 +1,49 @@
+ Agent: Hello! Maria? Hey, I’m Alex from FWD Insurance. Kamusta, finally nice to meet you!
+
+Maria: <reflect>He's greeting me and introducing himself; I should match his tone.</reflect>Hi Alex! Kamusta? Finally, nice to meet you too! This place is so convenient, no? 😆
+
+Agent: Oh, absolutely! And the fries here, they’re just irresistible. Have you eaten anything yet?
+
+Maria: <reflect>He's making it conversational; I'll keep it light.</reflect>Oh, I haven't eaten yet! I could probably finish off a whole tray of fries right now. How about you? You a fries fan too? 😂
+
+Agent: Definitely! Fries are my go-to comfort food. So, how was your journey getting here? Medyo traffic ba?
+
+Maria: <reflect>He's asking about my trip; I'll share something funny.</reflect>Naku, Alex, traffic was the usual EDSA madness! I even saw a guy practicing his guitar while stuck in traffic! 😂
+
+Agent: Hahaha! That’s the spirit! I actually saw a group doing an impromptu karaoke session in their car last week. Only in Manila, right?
+
+Maria: <reflect>He's making it relatable; I'll keep responding humorously.</reflect>For sure! We should probably have our own EDSA talent show. What's your talent? 😂
+
+Agent: Well, aside from surviving traffic, I guess I can do a mean robot dance! Not award-winning, but it’s a start. Haha!
+
+Maria: <reflect>He's being funny about himself; I should share something quirky.</reflect>Robot dance? Now I want to see that! Ako naman, I can do a pretty convincing chicken dance! 🐔😂
+
+Agent: Now that's classic! So, Maria, what do you usually like to do when you're not rehearsing your chicken dance?
+
+Maria: <reflect>He's asking about my interests; I'll share a bit about myself.</reflect>Well, aside from dancing like a chicken, I love binge-watching K-dramas and trying out new Filipino recipes! How about you?
+
+Agent: That’s cool! I’m more into trying out random food joints around the city and I occasionally join fun runs. It’s a great way to explore the city. Any particular Filipino recipe you've mastered?
+
+Maria: <reflect>He's keeping it interesting; I'll share a favorite.</reflect>Oh, I've nailed the adobo recipe! Even my mom says it's better than hers now. Ano, challenge? 😂
+
+Agent: Challenge accepted! I wouldn’t mind taste-testing your adobo one day. What got you into cooking?
+
+Maria: <reflect>He's curious about my cooking interest; I'll elaborate a bit.</reflect>You know, it's the endless lockdowns! I had to do something to keep myself sane. Plus, YouTube tutorials are a lifesaver! Do you cook too, or just a certified taste-tester? 🧐
+
+Agent: I can whip up a decent pasta, but mostly I'm the designated eater. 😂 It’s a fair arrangement, right?
+
+Maria: <reflect>He's still humorous; I'll keep it lively.</reflect>Fair enough! Well, if you ever need an adobo fix, you know who to call! Chicken or pork? 😂
+
+Agent: I’ll keep that in mind! I’m more of a pork kind of guy. Speaking of fixing things, have you ever considered life insurance? It’s like having that backup plan for life's uncertainties.
+
+Maria: <reflect>He's subtly shifting to the topic; I'll show some interest but not too much.</reflect>Interesting analogy! Tell me more about it, Alex. I'm curious how life insurance fits in that picture. 🤔
+
+Agent: Great! So, just like how knowing how to cook adobo ensures you have a delicious meal anytime, having life insurance ensures you and your loved ones are protected no matter what. It’s like your financial comfort food.
+
+Maria: <reflect>He's giving a relatable analogy; I'll ask more about the benefits.</reflect>Hmm, I like the sound of that. Ano ba exactly the benefits? Does it only cover accidents or more than that? 🙏
+
+Agent: Oh, it covers a lot more! From critical illnesses to income replacement and even educational funds for your kids. It’s versatile and super helpful in times of need. You think these benefits are something you’d consider for your own peace of mind?
+
+Maria: <reflect>He's highlighting the benefits strongly; I'll indicate mild interest.</reflect>You make it sound like a pretty good deal, Alex. I definitely see the value, especially pagdating sa future plans. 🤔
+
+Agent: Absolutely, Maria. It’s all about being ready for anything life throws at you. So, would you like me to go into more details about specific plans we offer?

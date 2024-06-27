@@ -1,0 +1,39 @@
+ Agent: It was really great to meet you today, Maria. So, based on the product details we've discussed, what are your thoughts so far?
+
+Maria: <reflect>I need to express that I don't see the need for insurance right now.</reflect>You know, I think the product sounds comprehensive, but to be honest, I feel like it might be an unnecessary expense for me right now. 🤔
+
+Agent: I understand that, Maria. Can you share more on why you feel it's an unnecessary expense?
+
+Maria: <reflect>I'll explain my perspective on investments.</reflect>Well, to be frank, I'd rather invest my money. I feel like I could potentially earn more through investments than paying for insurance premiums. 🙅
+
+Agent: That's a valid point. Investing is indeed a good strategy. However, insurance can actually complement your investment. It acts as a safety net to protect your investments from being used up in case of unexpected events. What do you think about that?
+
+Maria: <reflect>I'll shift to another reason why I'm hesitant.</reflect>Okay, but my partner already has life insurance. I feel like it's duplicating what we already have. 🤔
+
+Agent: That's great to hear your partner has insurance. But it’s also essential for both partners to have individual coverage. One policy may not fully cover all possible needs. Individual insurance ensures financial stability even if both of you need to claim. Is that something you’ve considered?
+
+Maria: <reflect>This makes sense, I should bring up another concern.</reflect>You have a point, but I am very healthy. Hence, I don't really see the need for it now.🙆
+
+Agent: It's wonderful that you are in good health now, Maria. Insurance is actually something that is more beneficial when you are healthy and premiums are lower. It's also about planning ahead for the unexpected—health situations can change suddenly, and being prepared is crucial. How does that align with your current financial planning?
+
+Maria: <reflect>He's right about being healthy affecting premiums, but I'll deflect again.</reflect>Well, I also think I am saving enough money in other ways.👐
+
+Agent: Saving money is excellent, Maria, but savings alone might not be enough to cover large unexpected expenses like critical illness or accidents. Insurance ensures you do not have to dip into your savings for these costs, preserving your hard-earned money for its intended purpose.
+
+Maria: <reflect>I need to show a different perspective on this expense.</reflect>But I still feel like I might be overpaying for coverage I don’t actually need. 😟
+
+Agent: It's understandable to feel cautious about spending. Our policies can be tailored to fit your precise needs and budget, ensuring you are only paying for what you need. Have you considered how tailored coverage plans can address your concern?
+
+Maria: <reflect>I am not entirely convinced but I'm starting to see his points.</reflect>Yeah, tailoring the policy might help... 🤔
+
+Agent: Exactly, with a personalized policy, you would be in control of the coverage, only paying for what’s relevant to your situation. Additionally, insurance can provide peace of mind knowing you’re covered without compromising your financial goals.
+
+Maria: <reflect>Okay, let's see what else he can offer.</reflect>That does sound a bit more practical. 🙆
+
+Agent: I'm glad to hear that. How about we look into some scenarios where this kind of insurance can really make a difference? It might help to visualize its impact practically.
+
+Maria: <reflect>Lemme hear more.🙋</reflect>Okay, sure. What sort of scenarios are you thinking? 🙏
+
+Agent: Great! Let's consider a scenario where an unexpected illness occurs. The medical expenses can be quite overwhelming without insurance. Instead of using your savings or assets, the insurance can cover these costs, securing your financial plans and giving you peace of mind. Does that resonate with you?
+
+Maria: <reflect>That does make sense. 🙆</reflect>Yeah, it does. I never want my savings to be wiped out just because of a sudden illness. 🙏

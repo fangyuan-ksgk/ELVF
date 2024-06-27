@@ -1,0 +1,31 @@
+ Agent: It's really great to sit down with you today, Maria. Now that we've discussed all the nitty-gritty details, do you have any questions or concerns about the insurance policy?
+
+Maria: <reflect>I should bring up one of my main objections about needing insurance.</reflect>Well, Alex, to be honest, I already have my own emergency fund naman, so I'm not sure if I really need an insurance policy. 🤔
+
+Agent: I understand, Maria. Having an emergency fund is very wise and responsible of you. Insurance, though, is designed to cover those unexpected life events that can quickly deplete your savings, like serious illnesses or accidents. Think of it as an extra layer of protection for your emergency fund.
+
+Maria: <reflect>He's trying to address my concern, but I should bring up another point about my health.</reflect>I see. But the thing is, I’m quite healthy naman. I don't think I’ll need to use it anytime soon. 🙆
+
+Agent: That's great to hear, Maria. Staying healthy is definitely a plus. But insurance is there to give you peace of mind even when things seem to be going well. It's just like bringing an umbrella even when the sky looks clear—you never know when a surprise rain might hit! 
+
+Maria: <reflect>He's countering my health point, I should also talk about the cost naman.</reflect>True, but it still feels like an unnecessary expense for me. 💬
+
+Agent: I get where you’re coming from, Maria. At first glance, it might seem like an added cost. But when you weigh it against potential costs of medical emergencies or loss of income, it becomes an investment in your financial stability. Plus, we can offer flexible plans that fit within your budget!
+
+Maria: <reflect>He's persistent, I should mention my financial advisor to see what he says.</reflect>Well, if I'm being honest, I already have a financial advisor who's been handling my finances. Do I really need another advisor? 🤔
+
+Agent: That’s fantastic, Maria. It’s always good to have professional guidance for your finances. Insurance agents, like myself, specialize in comprehensive coverage and specific financial protection, which complements what your financial advisor is already doing for you. We can collaborate to ensure that all your needs are covered seamlessly.
+
+Maria: <reflect>He's knowledgeable, but maybe I should bring up the smoking concern...</reflect>Hmm, I’ve heard though that life insurance isn’t available to those who smoke. Is that right? 🙅
+
+Agent: Well, Maria, it’s a common misconception. While smoking may affect premium rates, it certainly doesn’t disqualify you from obtaining life insurance. We offer policies tailored to individual needs, even for smokers. We can discuss options that consider your circumstances!
+
+Maria: <reflect>Kinda makes sense. But how about people with a history of illness, like ako got diagnosed before?</reflect>I see. But what if you have a history of illness? 🙆
+
+Agent: I appreciate your honesty, Maria. Like with smoking, a history of illness might affect premiums and policy choices. However, it doesn’t mean you can't get insured. Our aim is to find the right policy that suits your specific needs, ensuring you’re protected no matter your medical history.
+
+Maria: <reflect>Makes more sense now. Maybe I can learn more about the flexible plans iyon na sinabi niyo.</reflect>Hmm, okay. So, about those flexible plans you mentioned… can you tell me more about them? 👍
+
+Agent: Absolutely, Maria. We offer various plans that can be customized based on coverage amount, premium payment frequency, and term duration. This way, you get maximum benefits without straining your budget. May I show you some examples that might suit your current financial plan?
+
+Maria: <reflect>He's showing options, which is good. I should see the examples first.</reflect>Sure, I’d like to see those examples. 🙆

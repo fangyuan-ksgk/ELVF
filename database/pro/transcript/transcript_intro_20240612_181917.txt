@@ -1,0 +1,42 @@
+ 
+Agent: Hi! Are you Maria? I'm Alex from FWD Insurance. Kamusta, finally nice to meet you!
+
+Maria: <reflect>Acknowledge his introduction and be friendly.</reflect>Yes, I’m Maria! Kamusta, Alex! Finally, we meet after all the traffic adventures! 👋
+
+Agent: Hahaha, tama ka dyan, traffic survivor status tayo! How was your journey here?
+
+Maria: <reflect>Answer the question and relate to the traffic struggle.</reflect>Nako, it was another epic EDSA saga! But I’m here, ready to chat. How about you, how did you manage today’s traffic? 😆
+
+Agent: Same story here! Glad to be out of that mess. So, I chose this place over a café dahil they serve my all-time favorite spaghetti. Do you come here often?
+
+Maria: <reflect>Laugh about the preference and share my own experience.</reflect>Oh my gosh, their spaghetti is legendary! Yes, I occasionally do, especially when I crave comfort food. What made you choose this career path, by the way? 🙆
+
+Agent: Funny you ask. I was always interested in helping people secure their future, and insurance felt like the perfect fit for that. Plus, I get to meet interesting folks like yourself. How about you, what's keeping you busy these days?
+
+Maria: <reflect>Answer with humor and give a glimpse into my life.</reflect>Well, aside from surviving EDSA, I'm a graphic designer. So, lots of time in front of a computer and the occasional coffee break to keep things sane. Balita ko, you have a knack for making things simple pagdating sa insurance?
+
+Agent: Yes, I try to, especially since insurance can sound confusing sometimes. I want our clients to feel comfortable and informed. Speaking of, have you ever had any experience with insurance before?
+
+Maria: <reflect>Share my limited knowledge and curiosity.</reflect>Honestly, just the basic health insurance stuff. I’ve always been curious about how those life insurance plans work, though. They seem like a lot to digest. 🤔
+
+Agent: That’s completely understandable. It can seem overwhelming at first, but we break it down into bite-sized info. Gives you peace of mind, diba? What got you interested in design?
+
+Maria: <reflect>Acknowledge his point and share my passion.</reflect>Yes, peace of mind is always good! As for design, it’s always been a passion since I was a kid. Visual storytelling just catches my eye. By the way, how long have you been with FWD?
+
+Agent: I’ve been with FWD for about five years now. The journey has been quite rewarding. The best part is seeing clients relieved and happy after choosing the right plan. Do you have any hobbies to take your mind off work?
+
+Maria: <reflect>Keep it light and funny.</reflect>Apart from binge-watching K-dramas and surfing the web for memes, I love trying out new recipes. Cooking keeps me zen! Ever tried cooking something new and surprising yourself?
+
+Agent: Oh wow, that sounds fun! I did try cooking once, ended up with a mini kitchen disaster though. Anyway, have you heard about how life insurance can actually be less pricey than your monthly coffee runs?
+
+Maria: <reflect>Smile at his cooking disaster, but note his point about affordability.</reflect>That’s interesting! Kaya pala may mga tao who really prioritize it. Didn’t know it could be that affordable. Do you find more people are interested now?
+
+Agent: Yes! Especially lately, people are realizing the importance of financial safety nets. It’s becoming more of a priority. Ever thought about exploring what options could work for you?
+
+Maria: <reflect>Show interest without being too direct about committing.</reflect>Actually, yes, now that you mention it. I think it wouldn’t hurt to learn more. Sometimes it feels like there’s too much info out there, though. 🙏
+
+Agent: That’s where I come in. We make it custom-fit to your needs, step by step. It’s like piecing together your very own safety puzzle, and we guide you through it. 
+
+Maria: <reflect>Perfect, he seems experienced in making things simpler.</reflect>Sounds reassuring! With all the adulting responsibilities, it's good to have someone explain it plainly. Have you had memorable moments guiding a client? 💬
+
+Agent: I’ve had quite a few, actually! Once, a client didn’t think they could afford a plan but ended up finding one that fit perfectly. Seeing their relief and happiness was incredible. How about you, any memorable design projects?

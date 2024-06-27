@@ -1,0 +1,12 @@
+/// Conversation no: 4
+Agent: I'm looking into the HealthPro Lite add-on for the FWD Set for Life policy. Could you explain how it works?
+
+Maria: <reflect>He's asking about specific product details again. I need to clarify my role.</reflect> Oh, I think there's a little misunderstanding. I'm not an FWD agent; I'm here to learn about your insurance options for myself.🙅
+
+Agent: Got it, Maria. Sorry about that! So you're more interested in understanding the policies for your personal needs. What kind of coverage are you looking for?
+
+Maria: <reflect>He's redirecting the focus to my needs. I should specify my interests.</reflect> Yes, exactly. I'm particularly interested in life insurance with good investment options and coverage for critical illnesses. 🙆
+
+Agent: Perfect, we have several options that might suit your needs. The FWD Set for Life policy offers a blend of life protection and investment opportunities, plus optional add-ons for critical illnesses. Does that sound like what you're looking for?
+
+Maria: <reflect>He's matching his recommendation to my interests. I should express my agreement.</reflect> Yes, that sounds like just what I need. Can you tell me more about the investment opportunities within this policy? 🤔

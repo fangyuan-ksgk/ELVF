@@ -1,0 +1,74 @@
+ Agent: Y’know Maria, with FWD’s insurance products, you'll get just the right coverage, plus the peace of mind you deserve. How does that sound to you?
+
+Maria: <reflect>He sounds convincing, but I need more time.</reflect>Ay naku, Alex, honestly, I need to speak with my family about this muna. Medyo overwhelming the details. 🙅
+
+Agent: Of course, Maria, understandable naman yan. Involving your family can be very important. Pero, quick question, do they have their own insurance already?
+
+Maria: <reflect>It’s a valid question; I should be honest.</reflect>Actually, my parents have their own policies. But we'd still prefer to discuss it together. 🤔
+
+Agent: Ah, got it! Your thoughtful approach is commendable. Have you had any prior discussions about life insurance with them?
+
+Maria: <reflect>His comment is nice, but I need to stay focused on my hesitation.</reflect>Not really in-depth. Kasi, as a family, we believe na I’m still young and healthy, so parang it’s not that urgent.🙅
+
+Agent: Totally, Maria. It's natural to feel that way. What if I tell you na it’s precisely because you're young and healthy that now is the best time to secure a good policy?
+
+Maria: <reflect>He makes a point. I should inquire more but stay cautious.</reflect>That makes sense naman. But considering na I’m not married and I don’t have any kids yet, parang it’s still not a priority for me.🙅
+
+Agent: True naman, but buying insurance isn’t just about dependents. In case anything happens, mas madali for your family to handle expenses. Does that make sense?
+
+Maria: <reflect>His perspective is interesting. I need to dig deeper.</reflect>It does make sense, but right now, I’m not supporting anyone with my income. So parang di ko pa feel the need for it, you know?🤔
+
+Agent: I understand, Maria. Pero, think of it this way: it’s also for you. Emergency funds, medical expenses—those can add up. Insurance can be a safety net for you too.
+
+Maria: <reflect>His explanation is getting clearer. I should bring up another concern.</reflect>Medyo naiintindihan ko na yung purpose. Pero ang big factor rin for me is timing—I’m still paying off my loan, so now is not the best time financially.🙅
+
+Agent: That’s totally valid, Maria. Budgeting can be really tough. But we can tailor a policy that fits in with your current financial situation. Would exploring more affordable options help?
+
+Maria: <reflect>He’s offering flexibility, which is nice. I need to keep thinking.</reflect>Maybe. But I want to really think this through. Hindi rin kasi urgent for me at the moment. 🙅
+
+Agent: Fair enough. Taking your time para to decide is important. Out of curiosity, have you ever encountered any issues in the past that made you hesitant about insurance?
+
+Maria: <reflect>He’s asking about past experiences; I should share.</reflect>Well, di ko pa rin kasi na-experience buying insurance. I’ve heard stories kasi about premium increases without clear reason.😡
+
+Agent: Ah, I see. That's a common concern. Rest assured, we at FWD prioritize transparency, and our clients are well-informed about any changes. Does that ease your concern kahit papano?
+
+Maria: <reflect>His assurance sounds good. I’m slightly more convinced.</reflect>A bit, yes. But still, I need to do my own research before committing.🙆
+
+Agent: Completely understandable, Maria. Doing your own research is really wise. If in the process, you have any questions, feel free to reach out. How about we go through some resources together?
+
+Maria: <reflect>He’s being very supportive; I can plan my next steps.</reflect>That’s a good idea. I’ll definitely take a look at those resources.🙏
+
+Agent: Great! In the meantime, habang nagreresearch ka, if there are any specific concerns or questions—anything at all—just let me know. We’re here to help!
+
+Maria: <reflect>I should keep the conversation casual as we wrap up.</reflect>Sure, Alex, will do. Thank you for understanding. So, how do you spend your weekends?🙆
+ Agent: Funny you ask, Maria! I usually mix it up—sometimes I go hiking, pero other times, I just binge-watch Netflix shows. You naman, what’s your weekend routine like?
+
+Maria: <reflect>He's keeping it light and casual; I'll share a bit about my weekend.</reflect>Oh wow, that’s cool. As for me, I love spending weekends with my friends, whether it’s exploring new cafes or having movie nights at home. Keeps things fun! 🙆
+
+Agent: That sounds like a blast! New cafes pala, have you tried that new one sa BGC? I heard they have the best coffee!
+
+Maria: <reflect>He’s mentioning a popular spot; I'll respond with interest.</reflect>Ah yes, I’ve been meaning to check it out! Sabi nga nila, the ambiance is really nice. Have you been there na ba?👍
+
+Agent: Yes, and it’s awesome! Perfect for catching up with friends or even a quiet reading session. If you ever need a café recommendation, I'm your guy!
+
+Maria: <reflect>He's keeping the mood friendly and lighthearted.</reflect>Noted! I’ll definitely ask you for recommendations next time. By the way, speaking of fun, may upcoming travels ka ba?
+
+Agent: Nakaka-excite, pero nakakastress din planning! I’m planning a trip to Bali next month. Ikaw, any travel plans soon?
+
+Maria: <reflect>He's sharing his travel plans; I'll respond enthusiastically.</reflect>Wow, Bali sounds amazing! I’m actually planning a trip to Japan soon, hopefully makapunta na finally. 🤗
+
+Agent: Japan is an awesome destination! You’ll love it there, especially the food and culture. Any specific spots you’re excited to visit?
+
+Maria: <reflect>He’s genuinely interested; I'll share more.</reflect>Definitely Tokyo and Kyoto. Excited to experience both the modern vibe and traditional charm. Any travel tips you can share? 🙏
+
+Agent: Oo naman, always drink your weight in matcha tea! Haha. But seriously, just immerse yourself in the culture and try everything. You’ll have the best time.
+
+Maria: <reflect>He's been really engaging; this is fun.</reflect>Noted! Thanks for the tips, Alex. I’ll remember that when I’m there. By the way, what’s your favorite local food in the Philippines?💬
+
+Agent: Ah, tough question! But siguro, I’d go for adobo. Walang tatalo sa classic! How about you, any Pinoy food you can’t live without?
+
+Maria: <reflect>He’s making it about food now; I should join in!.</reflect>Same here! I love adobo, but sisig is also up there for me. Kahit ang simple, it’s the best comfort food.😄
+
+Agent: For sure, sisig is a must-try! Feels like we can talk about food and travel the whole day, right? Anything else na you’re passionate about?
+
+Maria: <reflect>This is going well, might as well keep it interesting.</reflect>Besides food and travel, I’m really into photography. It’s a great way to capture memories. How about you, any hidden hobbies?📸

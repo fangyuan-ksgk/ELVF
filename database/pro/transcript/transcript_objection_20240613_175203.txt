@@ -1,0 +1,35 @@
+ Agent: So, Maria, based on what we've discussed about FWD's insurance plans, how do you feel about securing a policy for yourself?
+
+Maria: <reflect>He is asking me about getting a policy. I should voice my financial concerns first.</reflect>Well, actually, I'm a bit concerned about the costs, you know. I mean, saving money is so important right now, especially with everything going on. 🙆
+
+Agent: I understand that completely, Maria. Saving money is crucial. But think of insurance as a way to protect those savings. If something unexpected happens, your savings won't be drained because you're already covered. Does that make sense?
+
+Maria: <reflect>He's trying to show the value of insurance. But I have another financial concern.</reflect>Yeah, I get that. But honestly, I'm also worried that the premiums might be too expensive for my budget. I've heard they can be quite high. 🙅
+
+Agent: That's a common concern, Maria. However, FWD offers flexible premium options that can fit different budgets. You can start with a basic plan and upgrade later as your financial situation improves. How does that sound?
+
+Maria: <reflect>He's offering flexible options, but I still have another concern to address.</reflect>Okay, that's good to know. But still, no income coming in right now. I'm currently still paying off my loan, so it's really tight. 🤔
+
+Agent: Maria, I completely understand. It's tough when you have existing financial obligations. That's why we can tailor a plan to ensure it's affordable even while you're paying off your loan. Plus, having insurance can give you peace of mind while you focus on settling your debts. What do you think?
+
+Maria: <reflect>He's suggesting it can be tailored, but I'm still hesitant.</reflect>It's definitely something to consider. But honestly, prioritizing my current expenses is really challenging. 🙏
+
+Agent: Absolutely, managing current expenses is tricky. However, we can work out a payment plan that makes it easy to manage your insurance premiums alongside your other expenses. Think of it as securing your future while balancing your present. Does that sound helpful?
+
+Maria: <reflect>He's giving practical solutions, but I'm still concerned.</reflect>Hmmm. I suppose so. But I've always believed it's better to save money in the bank to earn interest. 🤔
+
+Agent: That's a great point, Maria. Saving in the bank is important too. But remember, the interest from savings might not be enough to cover large unexpected expenses. Insurance provides that additional safety net. Imagine how secure you'd feel knowing both your savings and your future are protected.
+
+Maria: <reflect>He's making good points about protection. But still, the budget issue is big for me.</reflect>Yup, I see your point. It’s just that my salary isn't enough to spend on additional expenses like insurance right now. 🙅
+
+Agent: I hear you, salary constraints can be limiting. But think of it this way, even a modest insurance policy can provide some coverage and won't break the bank. It's all about finding the right balance for you. We can start small and expand later. Does that make sense?
+
+Maria: <reflect>He's trying hard to fit it into my budget. This makes me consider it more.</reflect>Okay, I get what you’re saying. Just need to be very strategic about any added expenses right now.
+
+Agent: Totally understandable, Maria. Financial strategies are important. Would you be open to discussing a basic plan that might fit perfectly within your budget constraints?
+
+Maria: <reflect>He's suggesting starting small. Should I ask about the basic plan?</reflect>Alright, let’s hear more about this basic plan then. What kind of coverage are we talking about? 💬
+
+Agent: Great question! Our basic plan, for example, provides essential life and health coverage. It ensures that you and your loved ones are financially protected in case something happens to you. Plus, the premiums are quite manageable. Would this interest you?
+
+Maria: <reflect>He's emphasizing essential coverage. Should I ask for more details?</reflect>Mmm, okay, that sounds decent. But can you give me more specific details? Like, what exactly is included in this basic plan? 😊

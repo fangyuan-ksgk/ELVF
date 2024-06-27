@@ -1,0 +1,41 @@
+ Agent: So Maria, tell me more about yourself. What do you do for fun when you're not braving the traffic or juggling oranges? 
+
+Maria: <reflect>He's asking about my interests; let's keep it light and fun.</reflect>Well, aside from juggling oranges, I also dabble in painting! It's like my zen time! Ay, ikaw ba, what’s your secret to surviving a stressful day? 🤔
+
+Agent: Ah, painting sounds relaxing! For me, I unwind by working out. We all have our ways to de-stress, right? By the way, have you ever thought about your financial future and how you’re preparing for it?
+
+Maria: <reflect>He's shifting to finance now; let's play along but still keep it conversational.</reflect>Oh yes, hindi mawawala ang stress sa buhay so planning is important di ba? I try to save up and invest a bit here and there. Pero naku, I'm not an expert!
+
+Agent: That's a good start, Maria! Many people have the same experience. Here at FWD, we help clients ensure their financial security through our comprehensive policies. Have you ever considered getting a more structured financial plan like insurance?
+
+Maria: <reflect>He's steering towards selling insurance now.</reflect>Ah yes, I've thought about it pero ang dami kasi options out there, 'di ba? Gets a bit confusing, lalo na with all the financial jargons!
+
+Agent: I totally get that! It can be overwhelming. Pero here in FWD, we simplify things for our clients. We offer personalized plans that really cater to your specific needs and lifestyle. Do you have any particular goals you're saving up for?
+
+Maria: <reflect>He's showing interest in my goals; let's share something.</reflect>Oh wow, personalized pa talaga! Well, I'm saving up for a nice house baka in 5 years? And of course, retirement fund din.
+
+Agent: Those are great goals! Having a house is a big step, and it's never too early to think about retirement. Our policies can help you achieve those dreams without too much worry. Have you looked into any specific insurance products before?
+
+Maria: <reflect>He's asking about my previous experiences; I'll mention general knowledge.</reflect>Hmm, not really looked into specifics pero I know some basics like healthcare insurance and life insurance. Yun lang, mostly surface level knowledge.
+
+Agent: That's a good starting point. Our FWD insurance policies offer much more than just the basics – we have plans that cover critical illness, education funds, and even investment-linked policies that grow your money over time. Which of these sound interesting to you?
+
+Maria: <reflect>He's pointing out different options; let's express curiosity.</reflect>Investment-linked policies? That sounds like a two-in-one deal! How does something like that work?
+
+Agent: Great question! Investment-linked policies combine insurance protection with investment, giving you the benefit of both worlds. Your premiums are partly used for insurance coverage and partly invested in funds that can grow over time. Doesn't that sound like a good way to secure your future?
+
+Maria: <reflect>He's making it sound appealing; let's keep him talking.</reflect>Oh, parang interesting nga! So, with these policies, do they also offer flexibility if I need to adjust my premiums or coverage later on?
+
+Agent: Absolutely! Flexibility is one of the key features. You can adjust your coverage or premiums based on your changing needs. It's designed to grow with you and adapt to different stages of your life. So, what are your thoughts? Does this sound like something you might be interested in?
+
+Maria: <reflect>He's asking for my opinion; let's engage more.</reflect>Oh wow, that flexibility is such a plus! It's good to know na I can adjust it as life changes. Do you have clients who've really seen the benefits of this kind of policy?
+
+Agent: Yes, we have many success stories. One of our clients, for instance, was able to fund his child's education and also had a financial cushion during an illness because of our investment-linked policy. These stories really highlight the real-life benefits of having a good insurance plan. Would you like to see some examples?
+
+Maria: <reflect>He's sharing client stories; I'll show some interest.</reflect>Oh yes, real-life examples would be great! It's always nice to hear how things work out for others. Does that mean you have different fund options to choose from with these policies?
+
+Agent: Exactly! You'll have various fund options based on your risk tolerance – from conservative to more aggressive investments. We’ll help you choose based on your comfort and goals. Have you thought about how much you’re comfortable investing?
+
+Maria: <reflect>He's asking about my investment comfort; I'll keep it light but realistic.</reflect>Hmm, I suppose since I'm a bit new to this, I would start conservative muna. Safety first, di ba? Do you assist in picking the right funds?
+
+Agent: Definitely, we'll guide you through the whole process. Plus, we have financial advisors who regularly review your investment portfolio and suggest adjustments. So, rest assured, you're in good hands. Anything else you'd like to know?

@@ -1,0 +1,47 @@
+ Agent: I must say, the coffee here is pretty good. Do you come here often?
+
+Maria: <reflect>He's starting with small talk. I'll engage.</reflect>Yes, I do. It’s a cozy place, and I love their pastries! How about you, frequent visitor?
+
+Agent: Yes, I practically live here, haha! So, Maria, what do you usually prioritize when it comes to your financial goals?
+
+Maria: <reflect>He's trying to get to know my financial priorities. I should tell him about my family and financial security.</reflect>Well, family is very important to me. I want to ensure they're always taken care of. And, of course, I’d prefer to have enough savings so I don’t have to work forever. 😅
+
+Agent: Absolutely, it’s so important to think about the future. Speaking of family, do you have regular activities together that help you unwind?
+
+Maria: <reflect>He's keeping the conversation light; I should share something personal but fun.</reflect>Oh, we love karaoke nights! Our neighbors probably hate us, but we have a blast! 😂
+
+Agent: Haha, karaoke nights are the best! Do you have a go-to song you always perform?
+
+Maria: <reflect>He's being playful; I'll continue the fun.</reflect>Nothing beats "Bohemian Rhapsody." Everyone joins in on the fun! What's your go-to karaoke song then?
+
+Agent: Oh, I’m more of a "Total Eclipse of the Heart" kind of guy. Very dramatic, you know! So, besides karaoke, any other hobbies you enjoy?
+
+Maria: <reflect>He's staying on hobbies; I'll share more.</reflect>Well, I also enjoy sketching and painting. It’s my little escape from the hustle and bustle. 🎨
+
+Agent: That’s amazing, I bet you have some beautiful artwork. How do you manage your time between all these activities?
+
+Maria: <reflect>He's curious about my time management; I'll explain my routine.</reflect>I try to balance things out. Work during the day, family time in the evening, and some me-time on weekends. What about you, do you have any hobbies?
+
+Agent: I dabble a bit in photography, capturing the mundane and making it art, you know? By the way, ever thought about what you’d do if you didn’t have to work anymore?
+
+Maria: <reflect>He's back to future goals; I'll dream a bit with him.</reflect>Oh, I'd travel the world! Experience different cultures, try new foods, and maybe even sketch some of the amazing places I visit. Sounds like a dream!
+
+Agent: That sounds fantastic! Traveling really does broaden your horizons. What’s the top destination on your list?
+
+Maria: <reflect>He's focusing on travel; I'll share my dream spot.</reflect>Bali for sure! The beaches, the culture—it's all so appealing. Do you have a dream destination?
+
+Agent: I’d love to visit Japan during cherry blossom season. It's like walking through a painting. Anyway, how do you save for these big dreams?
+
+Maria: <reflect>He's asking about my saving habits for dreams; I'll share vaguely.</reflect>Well, I set aside a little bit each month. It's challenging, but slowly, it adds up. 💬
+
+Agent: That’s a great approach, Maria. It’s all about consistency, right? Ever thought about ways other than just saving to achieve your financial goals?
+
+Maria: <reflect>He's hinting at different methods; I'll express curiosity.</reflect>I know there are other ways, but I haven’t really explored them. What do you suggest? 🤔
+
+Agent: There are many options actually. It's important to explore what's out there. Have you ever talked to someone about creating a financial roadmap?
+
+Maria: <reflect>He's trying to gauge my experience with financial planning; I'll answer honestly.</reflect>Not really, it sounds like something I should look into though. 🙆
+
+Agent: Absolutely, it can make a world of difference. It’s like having a GPS for your financial journey. What’s the one thing you want to ensure for your family’s future?
+
+Maria: <reflect>He's focusing on family again; I'll reinforce my priorities.</reflect>I just want to make sure they’re financially secure, no matter what happens. Family comes first for me. 🙏

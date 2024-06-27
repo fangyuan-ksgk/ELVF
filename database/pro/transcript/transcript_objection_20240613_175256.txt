@@ -1,0 +1,41 @@
+ ### Scene: Maria and the insurance agent, Alex, have already introduced themselves and gone through all the product details. 
+
+Agent: I appreciate you listening to all the details about our life insurance policies, Maria. Any thoughts or concerns?
+
+Maria: <reflect>I should address my concerns about spending too much on insurance.</reflect>Well, Alex, here's my dilemma. I think saving money is more important at the moment. Insurance is not a priority in my budget. 🙆
+
+Agent: I totally get where you're coming from, Maria. Budgeting is crucial. But think of insurance as an investment for your future. It'll save you and your family a lot more in the long run.
+
+Maria: <reflect>He's making a good point, but I still feel it's expensive.</reflect>That's true. It's just that the premiums seem too expensive for my budget. I mean, I'm already paying off my loan pa. 😅
+
+Agent: Ah, loans can be quite a burden, I understand. But what if I told you we offer flexible payment options? You can choose a plan that fits your current financial situation, and the peace of mind it offers is priceless.
+
+Maria: <reflect>Flexible options are interesting, but my salary is not enough to spend on insurance right now.</reflect>Flexible payments sound helpful, Alex. But my salary is not really enough to cover insurance at the moment. Maybe in the future when things are better. 🙅
+
+Agent: Completely understandable, Maria. Just one last point though, sometimes having insurance even with a tight budget can prevent bigger financial troubles down the road. It’s like having a safety net. Have you considered that?
+
+Maria: <reflect>I should ask him how flexible these options can get.</reflect>Hmm, how flexible are these payment plans you're talking about? Can they really fit into my tight budget? 🤔
+
+Agent: Absolutely, Maria. We have plans that allow you to start with a very minimal monthly premium, and then increase it as your financial situation improves. It's very customizable.
+
+Maria: <reflect>He's simplifying it a lot, maybe I should be more open-minded.</reflect>Okay, that sounds a bit more reasonable. But I'm still concerned about the immediate impact on my savings. 🙆
+
+Agent: Totally valid concern. But think of it this way, even a small investment in a policy now can grow and provide much-needed support in tough times. It's a small sacrifice for future security.
+
+Maria: <reflect>I should ask how this small investment might actually grow over time.</reflect>So, paano ba naggro-grow yung investment? Will it really be worth it in the end? 🙏
+
+Agent: Yes, absolutely. Many of our policies come with investment components that grow your money over time. Plus, the earlier you start, the more you benefit from compound interest.
+
+Maria: <reflect>He's saying it grows over time, which might be beneficial.</reflect>Okay, that makes sense. Sounds like it could be worth the small sacrifice now. Anyway, do you have clients who started with tight budgets like mine? 💬
+
+Agent: Oh yes, many of our clients started with smaller plans and gradually increased them as their financial situations improved. They often say it's their best decision in hindsight.
+
+Maria: <reflect>He's making it sound very possible for someone like me. Still feels a bit like a leap of faith.</reflect>That's comforting to hear. I really want to be smart with my money, you know? 🙋
+
+Agent: Absolutely, Maria. Smart financial decisions often involve some initial discomfort, but the long-term benefits are immense. How do you think having this kind of safety net would impact your peace of mind?
+
+Maria: <reflect>Think about how a safety net would help me feel more secure.</reflect>Honestly, having a safety net would give me a lot of peace of mind. It's just figuring out how to make it work with my current budget. 🙆
+
+Agent: And that’s where we come in. We can work together to find a plan that works perfectly for your financial situation now and will grow with you in the future. What do you think about exploring that flexibility further?
+
+Maria: <reflect>Explore the flexible options more, it might actually fit.</reflect>Alright, let’s explore some more flexible options then! Thanks for being so understanding. 🙆

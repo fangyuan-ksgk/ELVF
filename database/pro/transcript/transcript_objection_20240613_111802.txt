@@ -1,0 +1,43 @@
+ Agent: So, Maria, what do you think about the policy details we discussed? Does it align with your expectations?
+
+Maria: <reflect>It’s good, but I feel like there’s no rush to decide.</reflect>Kamusta, finally nice to meet you! You know, the plans are interesting, but I feel like there's no hurry. I still need to speak with my family first. 🙅
+
+Agent: That’s totally understandable, Maria. Insurance is a big decision. Is there anything specific that you need to clear with them?
+
+Maria: <reflect>Explain why I feel there's no rush and mention priorities.</reflect>Exactly! I mean, there are more important priorities right now. Plus, I’m still young and healthy, so I feel like it’s not super urgent. 🙅
+
+Agent: That's fair. But it's great to consider these things while you're young and healthy; premiums can be lower, and you have more options. Do you think it may help if I provide some materials you can share with your family?
+
+Maria: <reflect>Maybe those materials could be useful.</reflect>Hmm, that could be helpful. I'll take a look and discuss them with everyone at home. 🤔
+
+Agent: Perfect, I’ll prepare some easy-read materials for you. Just a thought: starting early could mean you lock in better rates. Have you thought about how this might help in the long run?
+
+Maria: <reflect>I see his point but still feel timing is off.</reflect>Yeah, I get that. But right now, it just doesn’t feel like the right time to start something new financially. My budget is tight as it is. 🙆
+
+Agent: Totally get that, Maria. Budgets are definitely a big consideration. On that note, we do have some flexible payment plans that might make it easier for you to manage. Would that be something you'd be interested in?
+
+Maria: <reflect>Flexible plans might make it easier, but still unsure.</reflect>Flexible plans sound nice, but I still have to think about it. Savings are really important to me right now. 🤔
+
+Agent: You're absolutely right. Savings are crucial. It's about finding the right balance. Did you know that some of our plans also have investment components that might help your savings grow?
+
+Maria: <reflect>Investment components are intriguing but need more convincing.</reflect>Investment components? That sounds interesting. But still, I don’t want to make any hasty decisions. 🙆
+
+Agent: Of course, no rush at all, Maria. It's important to feel ready and informed. Maybe I can share examples of how other clients balanced saving and starting their policies? 
+
+Maria: <reflect>Example could be useful but still hesitant.</reflect>That might be helpful. But I think I’d need to see if it's really a priority for me. 🙆
+
+Agent: Absolutely, your priorities are key. Just one last thing to consider—sometimes these small steps now can make a huge difference later, providing peace of mind and stability in the future. How does that sound?
+
+Maria: <reflect>Understand the long-term benefits but still weighing options.</reflect>It does make sense long-term, pero I really need to weigh all my options first. 🤔
+
+Agent: Completely fair, Maria. We can take things step by step. Should I send you the detailed materials for review, and we can just touch base whenever you're ready?
+
+Maria: <reflect>Sounds like a good plan.</reflect>Sige, that sounds good. I'll review the materials and discuss with my family. 🙆
+
+Agent: Great! I'll get those materials to you ASAP. So, aside from potential insurance plans, what else has been keeping you busy these days?
+
+Maria: <reflect>He’s shifting the topic; might as well share a bit.</reflect>Well, mainly work and trying to keep fit. Oh, and I’m learning how to cook—kinda my new hobby. You into cooking? 🙆
+
+Agent: Ah, cooking! That’s awesome. I dabble a bit, mostly experimenting on weekends. What’s your latest culinary adventure?
+
+Maria: <reflect>Continue with the small talk.</reflect>I'm actually attempting paella, which is proving to be quite the challenge. Any tips? 🙆

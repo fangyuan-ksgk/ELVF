@@ -1,0 +1,43 @@
+ Agent: So, Maria, we’ve discussed quite a lot about FWD's insurance policies and their benefits. How do you feel about it so far?
+
+Maria: <reflect>It's impressive, but I have concerns about my budget.</reflect> Honestly, it sounds good, but I'm worried about the cost. With my current budget, saving money is more important, I think. 🙅
+
+Agent: I totally understand your concern, Maria. Budgeting is crucial, especially nowadays. But think about this: insurance is an investment for your peace of mind. If unexpected things happen, you'll be financially safeguarded. 
+
+Maria: <reflect>He does have a point, but my budget is really tight right now.</reflect> True, but insurance is not really a priority in my budget right now. It's hard enough to manage my expenses as it is. 🙅
+
+Agent: That's really understandable. However, we have flexible plans that can be adjusted to fit your budget. There's always a way to make it work without straining your finances. 
+
+Maria: <reflect>The flexibility sounds good, but I'm still not convinced.</reflect> Flexible plans are nice, pero I'm also still paying off my loan. Adding a new expense is quite challenging for me at the moment. 🙅
+
+Agent: I hear you, Maria. But think of it this way: insurance can actually help you avoid bigger financial burdens in the future. It’s like a safety net for you and your family. 
+
+Maria: <reflect>He's persistent, but I still feel stretched too thin financially.</reflect> I get that it's a safety net, but right now, my salary isn't even enough to comfortably spend on insurance. I'm really stretched thin. 🙅
+
+Agent: Thank you for sharing that, Maria. Our goal is to make insurance accessible. We can start with a very minimal premium that won’t significantly impact your monthly finances. 
+
+Maria: <reflect>A smaller premium might be doable, but I'm still cautious.</reflect> Hmm, a minimal premium might be manageable, but I'm still very cautious about any extra expenses. 🙆
+
+Agent: That's completely fair. We can absolutely tailor a plan that addresses your cautiousness and financial constraints. Think of it as a step towards securing a better future without compromising your present.
+
+Maria: <reflect>He's making it sound reassuring, but I need more assurance.</reflect> It does sound reassuring, pero my concern is that it might become just another burden to worry about. 🙆
+
+Agent: I get where you’re coming from, Maria. What if I show you a plan that starts very low, almost negligible in cost, and grows only as your financial capacity improves?
+
+Maria: <reflect>That sounds interesting, but I'm still skeptical about the hidden costs.</reflect> Hmm, sounds interesting. But are there hidden costs or fees that I should be aware of? 🙆
+
+Agent: Good question, Maria! Our plans are very transparent, with no hidden fees. Everything is laid out clearly from day one, so you know exactly what you're signing up for.
+
+Maria: <reflect>The transparency helps, but I need to be sure.</reflect> Okay, transparency helps. Still, I'm really hesitant. What if I decide later that it’s too much for me? 🙆
+
+Agent: That's a valid concern, Maria. We offer flexible options so you can adjust your plan as needed, or even put it on hold if finances get really tight. We're here to make it work for you.
+
+Maria: <reflect>The flexibility and support are reassuring, but I need to think it over.</reflect> Thanks, the flexibility and support are reassuring. I just need some time to think everything over. 🙆
+
+Agent: Of course, Maria. Take your time. Feel free to reach out if you have any more questions or need further clarification. We're here to support you every step of the way.
+
+Maria: <reflect>He's being understanding, that's a good approach.</reflect>I appreciate that. I might also need to consult my partner before making any decisions. 🙆
+
+Agent: Absolutely, it's always wise to discuss these things with family. If you and your partner have any questions, I'd be more than happy to talk to both of you. 
+
+Maria: <reflect>He's offering to talk to my partner; that's considerate.</reflect> Thank you, that could be helpful. I'll let you know after we've discussed it. 🙆
