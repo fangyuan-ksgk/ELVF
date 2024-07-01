@@ -1,5 +1,6 @@
 import re
 from datasets import Dataset
+from prep import *
 
 def clear_reflect_tag(txt):
     """ 
@@ -185,34 +186,34 @@ def collect_prompt_completion(txt_files, tokenizer):
     return prompts, completions
 
 
-def mix_dataset(conv_prompts, conv_completions, ooc_prompts, ooc_completions, ooc_ratio=0.2):
+# def mix_dataset(conv_prompts, conv_completions, ooc_prompts, ooc_completions, ooc_ratio=0.2):
 
-    # Calculate the number of times to repeat the OOC dataset
-    num_conv = len(conv_prompts)
-    num_ooc = len(ooc_prompts)
-    target_ooc = int(num_conv * ooc_ratio / (1 - ooc_ratio))
-    repeat_factor = max(1, target_ooc // num_ooc)
+#     # Calculate the number of times to repeat the OOC dataset
+#     num_conv = len(conv_prompts)
+#     num_ooc = len(ooc_prompts)
+#     target_ooc = int(num_conv * ooc_ratio / (1 - ooc_ratio))
+#     repeat_factor = max(1, target_ooc // num_ooc)
 
-    # Augment (repeat) the OOC dataset
-    augmented_ooc_prompts = ooc_prompts * repeat_factor
-    augmented_ooc_completions = ooc_completions * repeat_factor
+#     # Augment (repeat) the OOC dataset
+#     augmented_ooc_prompts = ooc_prompts * repeat_factor
+#     augmented_ooc_completions = ooc_completions * repeat_factor
 
-    # Combine the datasets
-    combined_prompts = conv_prompts + augmented_ooc_prompts
-    combined_completions = conv_completions + augmented_ooc_completions
+#     # Combine the datasets
+#     combined_prompts = conv_prompts + augmented_ooc_prompts
+#     combined_completions = conv_completions + augmented_ooc_completions
 
-    # Create a combined dataset
-    dataset_dict = {
-        "prompt": combined_prompts,
-        "completion": combined_completions
-    }
-    dataset = Dataset.from_dict(dataset_dict)
-    dataset = {"train": dataset}
+#     # Create a combined dataset
+#     dataset_dict = {
+#         "prompt": combined_prompts,
+#         "completion": combined_completions
+#     }
+#     dataset = Dataset.from_dict(dataset_dict)
+#     dataset = {"train": dataset}
 
-    # Shuffle the dataset to mix the two types of data
-    dataset["train"] = dataset["train"].shuffle(seed=42)
+#     # Shuffle the dataset to mix the two types of data
+#     dataset["train"] = dataset["train"].shuffle(seed=42)
 
-    return dataset 
+#     return dataset 
 
 
 def process_messages_list(messages_list, tokenizer):
@@ -227,7 +228,7 @@ def process_messages_list(messages_list, tokenizer):
     return all_prompts, all_completions
 
 
-def mix_dataset(data_list):
+def combine_dataset(data_list):
     """ 
     Fix for now -- proportion fixed as well
     """
@@ -248,4 +249,29 @@ def mix_dataset(data_list):
     # Shuffle the dataset to mix the two types of data
     dataset["train"] = dataset["train"].shuffle(seed=42)
     
+    return dataset
+
+
+def mix_dataset(conv_files, ratio, tokenizer): 
+    """
+    Mixing Dataset For Fine-tuning model
+    - Conversation Data
+    - Self Cognitive Data
+    - General Cognitive Data
+    """
+    # Conversation Data -- 4K 
+    conv_data = collect_prompt_completion(conv_files, tokenizer)
+    
+    # Self-Cognition Data - 0.5K
+    # ooc_prompts, ooc_completions = collect_prompt_completion(ooc_files, tokenizer) # Ralph's OOC DataPoints | No system prompt injected, yet
+    n_self_cog = int(4000 * ratio[1] / ratio[0])
+    sample_datasets = generate_self_recognition_dataset(n_self_cog)
+    self_cognition_data = process_messages_list(sample_datasets, tokenizer)
+    
+    # General Cognitive Data - 8.1K 
+    n_general_cog = int(4000 * ratio[2] / ratio[0])
+    sample_datasets = prepare_general_cognitive_dataset(n=n_general_cog)
+    general_cognition_data = process_messages_list(sample_datasets, tokenizer)
+    
+    dataset = combine_dataset([conv_data, self_cognition_data, general_cognition_data])
     return dataset
