@@ -225,3 +225,27 @@ def process_messages_list(messages_list, tokenizer):
         all_prompts.extend(prompts)
         all_completions.extend(completions)
     return all_prompts, all_completions
+
+
+def mix_dataset(data_list):
+    """ 
+    Fix for now -- proportion fixed as well
+    """
+    from datasets import Dataset 
+    combined_prompts = []
+    combined_completions = []
+    for data in data_list:
+        combined_prompts.extend(data[0])
+        combined_completions.extend(data[1])
+    # Create a combined dataset
+    dataset_dict = {
+        "prompt": combined_prompts,
+        "completion": combined_completions
+    }
+    dataset = Dataset.from_dict(dataset_dict)
+    dataset = {"train": dataset}
+
+    # Shuffle the dataset to mix the two types of data
+    dataset["train"] = dataset["train"].shuffle(seed=42)
+    
+    return dataset
