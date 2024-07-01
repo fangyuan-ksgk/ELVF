@@ -213,3 +213,15 @@ def mix_dataset(conv_prompts, conv_completions, ooc_prompts, ooc_completions, oo
     dataset["train"] = dataset["train"].shuffle(seed=42)
 
     return dataset 
+
+
+def process_messages_list(messages_list, tokenizer):
+    """ 
+    Process a list of messages (list of dict) into prompts and completions
+    """
+    all_prompts, all_completions = [], []
+    for messages in messages_list:
+        prompts, completions = process_prompt_completion_pairs(messages, tokenizer)
+        all_prompts.extend(prompts)
+        all_completions.extend(completions)
+    return all_prompts, all_completions
