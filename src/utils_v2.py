@@ -87,6 +87,29 @@ class ModelArguments:
             return model, tokenizer
     
 
+# @dataclass
+# class PeftArguments:
+#     lora_alpha: Optional[int] = 128
+#     lora_dropout: Optional[float] = 0.05
+#     r: Optional[int] = 256
+#     bias: Optional[str] = "none"
+#     target_modules: Optional[list[str]] = None
+#     task_type: Optional[str] = "CAUSAL_LM"
+
+#     def __post_init__(self):
+#         if self.target_modules is None:
+#             self.target_modules = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj", "lm_head"]
+
+#     def make(self):
+#         return LoraConfig(
+#             lora_alpha=self.lora_alpha,
+#             lora_dropout=self.lora_dropout,
+#             r=self.r,
+#             bias=self.bias,
+#             target_modules=self.target_modules,
+#             task_type=self.task_type
+#         )
+        
 @dataclass
 class PeftArguments:
     lora_alpha: Optional[int] = 128

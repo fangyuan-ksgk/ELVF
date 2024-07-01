@@ -8,7 +8,7 @@
         "lora_dropout": 0.05,
         "r": 8,
         "bias": "none",
-        "target_modules": ["all"],
+        "target_modules": "all",
         "task_type": "CAUSAL_LM"
     },
     "training_args": {
