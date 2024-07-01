@@ -100,7 +100,8 @@ if __name__ == "__main__":
     ooc_files = glob.glob("database/pro/transcript/ooc_transcript_*.txt")
     tokenizer = AutoTokenizer.from_pretrained("meta-llama/Meta-Llama-3-8B-Instruct")
 
-    ratio = [4, 0.5, 8] # Ratio of Conversation, Self-Cognition, General Cognition Data Points
+    # ratio = [4, 0.5, 8] # Ratio of Conversation, Self-Recognition, General Cognition Data Points
+    ratio = [4., 1., 4.] # Enhancing Self-Recognition, Reduce General Cognition
     dataset = mix_dataset(conv_files, ratio, tokenizer)
 
     # Genius Trainer
