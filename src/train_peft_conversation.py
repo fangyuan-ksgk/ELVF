@@ -114,4 +114,4 @@ if __name__ == "__main__":
     # dataset = {"train": subset}
 
     # Train the model
-    train_peft("configs/config_sft_v12.json", dataset, run_id="Maria_ooc_patch_v1")
+    train_peft("configs/config_sft_v14.json", dataset, run_id="Maria-self-recognition")
