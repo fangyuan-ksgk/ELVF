@@ -12,7 +12,7 @@
         "task_type": "CAUSAL_LM"
     },
     "training_args": {
-        "output_dir": "phillipine_customer_ooc_patch_v4.0",
+        "output_dir": "phillipine_customer_cognitio_v1.0",
         "num_train_epochs": 2,
         "per_device_train_batch_size": 16,
         "gradient_accumulation_steps": 4,
