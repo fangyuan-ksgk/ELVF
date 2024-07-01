@@ -95,16 +95,13 @@ if __name__ == "__main__":
       add_to_git_credential=True
     )
 
-    # Collect Prompt & Completion Pairs
-    # Collect Conversation Data
+    # Collect Conversation Data: Prompt & Completion Pairs
     conv_files = glob.glob("database/pro/transcript/transcript_*.txt")
     ooc_files = glob.glob("database/pro/transcript/ooc_transcript_*.txt")
-
     tokenizer = AutoTokenizer.from_pretrained("meta-llama/Meta-Llama-3-8B-Instruct")
-    conv_prompts, conv_completions = collect_prompt_completion(conv_files, tokenizer)
-    ooc_prompts, ooc_completions = collect_prompt_completion(ooc_files, tokenizer)
 
-    dataset = mix_dataset(conv_prompts, conv_completions, ooc_prompts, ooc_completions, ooc_ratio=0.2)
+    ratio = [4, 0.5, 8] # Ratio of Conversation, Self-Cognition, General Cognition Data Points
+    dataset = mix_dataset(conv_files, ratio, tokenizer)
 
     # Genius Trainer
     # from datasets import load_dataset

@@ -93,7 +93,7 @@ class PeftArguments:
     lora_dropout: Optional[float] = 0.05
     r: Optional[int] = 256
     bias: Optional[str] = "none"
-    target_modules: Optional[str] = "all-linear"
+    target_modules: Optional[str] = "all"
     task_type: Optional[str] = "CAUSAL_LM"
 
     def make(self):
