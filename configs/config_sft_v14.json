@@ -8,7 +8,15 @@
         "lora_dropout": 0.05,
         "r": 8,
         "bias": "none",
-        "target_modules": "all_modules",
+        "target_modules": [
+            "q_proj",
+            "k_proj",
+            "v_proj",
+            "o_proj",
+            "gate_proj",
+            "up_proj",
+            "down_proj"
+        ],
         "task_type": "CAUSAL_LM"
     },
     "training_args": {
